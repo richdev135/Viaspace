@@ -1,0 +1,604 @@
+/* CSS Document */
+body{
+	margin:0px;
+	padding:0px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	color:#666666;
+	background:url(../images/body_bg.jpg) repeat-x top #c3e8ff;
+}
+
+img{
+border:none;
+}
+
+h1{
+	font-weight:bold;
+	font-size:12px;
+	color:#004a8f;
+}
+
+h2{
+	font-weight:normal;
+	font-size:11px;
+	color:#004a8f;
+	padding:0px;
+}
+
+h3{
+	font-weight:bold;
+	font-size:12px;
+}
+
+h4{
+	font-weight:bold;
+	font-size:11px;
+}
+
+a, a:link, a:visited{
+	color:#393939;
+	text-decoration:none;
+}
+
+a:hover{
+	color:#0099FF;
+	text-decoration:none;
+}
+
+.body{
+	width:960px;
+	margin:auto;
+	background:#FFFFFF;
+	vertical-align:top;
+}
+
+.main{
+	margin-top:105px;
+}
+
+.main_table{
+	width:960px;
+}
+
+#header{
+
+	background:transparent;
+	position:absolute;
+	top:0px;	
+	z-index:10;
+	height:220px;
+	width:960px;
+}
+
+.footer{
+	font-size:11px;
+	color:#999;
+	padding:2px;
+	padding-top:0px;
+	width:620px;
+	height:20px;
+	margin: 0 auto; /*-- Center the div --*/
+	text-align:center;
+}
+
+.footer a, .footer a:link, .footer a:visited{
+	color:#999;
+	text-decoration:none;
+}
+
+.footer a:hover{
+	color:#0099FF;
+	text-decoration:none;
+}
+
+.footer ul{
+	margin:0px;
+	padding:0px;
+}
+
+.footer li{
+	list-style:none;
+	float:left;
+	padding-left:3px;
+	padding-right:3px;
+}
+
+/***************** News Subpage *******************/
+
+.sub_nav{
+vertical-align:top;
+	
+	font-size:11px;
+	color:#d3d3d3;
+	padding:2px;
+	padding-top:0px;
+	width:156px;
+	float:left;
+	
+
+	border-right:1px solid #f3f3f3;
+	background:url(../images/viaspace_ionfinity_bg.jpg) top repeat-x;
+	
+}
+
+.sub_nav ul{
+	margin:0px;
+	padding:0px;
+}
+
+.sub_nav li{
+	margin:0px;
+	padding:0px 0px 0px 10px ;
+	list-style:none;	
+	border-bottom:#d7d7d7 1px dotted;
+}
+
+.sub_nav a,sub_nav a:link,.sub_nav a:visited{
+	display:block;
+	width:142px;
+	padding:5px 7px 5px 7px;
+}
+
+.sub_nav a:hover{
+	
+	color:#004a89;
+}
+
+
+.sub_nav_via{
+	vertical-align:top;	
+	font-size:11px;
+	color:#d3d3d3;
+	padding:0px;
+	padding-top:0px;
+	width:156px;
+	height:430px;
+	border-right:1px solid #f3f3f3;
+	background:url(../images/viaspace_bg.jpg) top repeat-x;
+}
+
+.sub_nav_via ul{
+	margin:0px;
+	padding:0px;
+}
+
+.sub_nav_via li{
+	margin:0px;
+	padding:0px 0px 0px 0px ;
+	list-style:none;	
+	border-bottom:none;
+	background:url(../images/sub_nav_bottom.gif) bottom repeat-x;
+
+}
+
+.sub_nav_via a,.sub_nav_via a:link,.sub_nav_via a:visited{
+	display:block;
+	width:142px;
+	padding:5px 7px 5px 7px;
+}
+
+.sub_nav_via a:hover{
+	
+	color:#004a89;
+}
+
+
+.subsidary_main{
+padding:0px 0px 0px 0px ;
+margin:0px;
+}
+
+
+
+.sub_nav_green{
+	vertical-align:top;	
+	font-size:11px;
+	color:#d3d3d3;
+	padding:2px;
+	padding-top:0px;
+	width:156px;
+	border-right:1px solid #f3f3f3;
+	background:url(../images/viaspace_security_bg.jpg) top repeat-x;
+}
+
+.sub_nav_green ul{
+	margin:0px;
+	padding:0px;
+}
+
+.sub_nav_green li{
+	margin:0px;
+	padding:0px 0px 0px 0px ;
+	list-style:none;	
+	border-bottom:none;
+	background:url(../images/sub_nav_bottom.gif) bottom repeat-x;
+}
+
+.sub_nav_green a,.sub_nav_green a:link,.sub_nav_green a:visited{
+	display:block;
+	width:142px;
+	padding:5px 7px 5px 7px;
+}
+
+.sub_nav_green a:hover{
+	
+	color:#004a89;
+}
+
+
+.sub_nav_yellow{
+	vertical-align:top;
+	font-size:11px;
+	color:#d3d3d3;
+	padding:2px;
+	padding-top:0px;
+	width:156px;
+	border-right:1px solid #f3f3f3;
+	
+	background:url(../images/energy_menu_bg.jpg) top repeat-x;
+	
+}
+
+.sub_nav_yellow ul{
+	margin:0px;
+	padding:0px;
+}
+
+.sub_nav_yellow li{
+	margin:0px;
+	padding:0px 0px 0px 0px ;
+	list-style:none;	
+	border-bottom:none;
+	background:url(../images/sub_nav_bottom.gif) bottom repeat-x;
+}
+
+.sub_nav_yellow a,.sub_nav a:link,.sub_nav_yellow a:visited{
+	display:block;
+	width:142px;
+	padding:5px 7px 5px 7px;
+}
+
+.sub_nav_yellow a:hover{
+	
+	color:#004a89;
+}
+
+
+
+.sub_nav_ion{
+	vertical-align:top;
+	font-size:11px;
+	color:#d3d3d3;
+	padding:2px;
+	padding-top:0px;
+	width:156px;
+	border-right:1px solid #f3f3f3;
+	
+	background:url(../images/viaspace_ionfinity_bg.jpg) top repeat-x;
+	
+}
+
+.sub_nav_ion ul{
+	margin:0px;
+	padding:0px;
+}
+
+.sub_nav_ion li{
+	margin:0px;
+	padding:0px 0px 0px 0px ;
+	list-style:none;	
+	border-bottom:none;
+	background:url(../images/sub_nav_bottom.gif) bottom repeat-x;
+}
+
+.sub_nav_ion a,.sub_nav_ion a:link,.sub_nav_ion a:visited{
+	display:block;
+	width:142px;
+	padding:5px 7px 5px 7px;
+}
+
+.sub_nav_ion a:hover{
+	
+	color:#004a89;
+}
+
+/***************** HOMEPAGE *******************/
+
+.hp_left_info_container{
+	float:left;
+	width:311px;
+	height:210px;
+	padding-top:12px;
+	padding-left:12px;
+	padding-right:12px;
+	padding-bottom:0px;
+	overflow:hidden;
+}
+
+.hp_left_container{
+	float:left;
+	width:335px;
+	height:215px;
+	padding:0px;
+}
+
+.hp_energy_container{
+	background:url(../images/viaspace_energy_bg.jpg) repeat-x top;
+	float:left;
+	width:182px;
+	height:190px;
+	padding:12px;
+	margin:1px;
+	overflow:hidden;
+}
+
+.hp_productspotlight_container{
+	background:url(../images/viaspace_productspotlight_bg.jpg) repeat-x top;
+	float:left;
+	width:182px;
+	height:190px;
+	padding:12px;
+	margin:1px;
+	overflow:hidden;
+}
+
+.hp_security_container{
+	background:url(../images/viaspace_security_bg2.jpg) repeat-x top;
+	float:left;
+	width:182px;
+	height:190px;
+	padding:12px;
+	margin:1px;
+	overflow:hidden;
+}
+
+.hp_info_container{
+	border-left:#ccc 1px dotted ;
+	float:left;
+	width:273px;
+	height:190px;
+	overflow:auto;
+	padding:0px 12px 12px 12px;
+	margin:15px 0px 0px 0px ;
+}
+
+.news_item{
+	font-size:10px;
+	padding:0px 0px 0px 0px;
+	margin:0px 0px 10px 0px;
+	/*border-bottom:dotted #CCCCCC 1px;*/
+}
+
+.news_item h1{
+	color:#333333;
+	font-size:10px;
+	padding:0px 0px 5px 0px;
+	margin:0px;
+	font-weight:bold;
+}
+
+.news_item p{
+	color:#77787b;
+	font-size:10px;
+	margin:0px;
+	padding:0px 0px 0px 0px;
+}
+
+.date{
+	font-size:9px;
+	color:#999999;
+}
+
+.stock_symbol{
+	font-size:8px;
+	color:#0072bc;
+	padding:0px;
+}
+
+/***************** HOMEPAGE *******************/
+
+
+/***************** NEWS PAGE *******************/
+
+.news_main{
+	padding:10px;
+	width:765px;
+	
+	float:left;
+	margin:0px;
+}
+
+.news_col{
+
+	width:530px;
+	float:left;
+}
+
+.news_col3{
+	background:#dceaf8;
+	padding:10px 10px 10px 10px;
+	margin:5px 0px 0px 46px;
+	width:160px;
+	float:left;
+}
+.news_col3 img{
+	
+
+	margin:10px ;
+
+}
+/***************** END NEWS PAGE ***************/
+
+
+/***************** MANAGEMENT PAGE *******************/
+
+.management_col{
+	padding: 15px 15px 15px 15px;
+	width:520px;
+	float:left;
+}
+
+
+/***************** END MANAGEMENT PAGE ***************/
+
+
+/***************** Energy PAGE *******************/
+
+.energy_col{
+	margin:15px 15px 15px 5px;
+	width:525px;
+	float:left;
+}
+
+.energy_col h1{
+	margin:0px 0px 10px 0px;
+	padding:0px 0px 0px 0px;
+}
+
+.energy_col h2{
+	margin:0px;
+	padding:0px 0px 0px 0px;	
+}
+
+.energy_col p{
+		
+}
+
+.energy_col img{
+	margin:0px 5px 5px 0px;
+}
+
+/***************** END Energy PAGE ***************/
+
+/***************** Energy PAGE *******************/
+
+.energy_hp_col{
+	margin:0px 0px 0px 0px;
+	padding:10px 10px 0px 5px;
+	width:371px;
+	/*
+	float:left;
+	*/
+	border-right:#ccc 1px dotted ;
+	vertical-align:top;
+}
+
+.energyhp_col_small{
+	margin:0px 0px 0px 0px;
+	padding:10px 5px 0px 5px;
+	width:182px;
+	/*
+	float:left;
+	*/
+	border-right:#ccc 1px dotted ;
+	vertical-align:top;
+}
+
+.energyhp_col_small_right{
+	margin:0px 0px 0px 0px;
+	padding:10px 5px 0px 5px;
+	width:182px;
+	/*
+	float:left;
+	*/
+	vertical-align:top;
+}
+
+/***************** END Energy PAGE ***************/
+
+
+/***************** DMFCC PAGE *******************/
+
+.dmfcc_col{
+	margin:15px 15px 15px 0px;
+	width:250px;
+	float:left;
+}
+
+
+/***************** END DMFCC PAGE ***************/
+
+
+/***************** investorPAGE *******************/
+
+.investor_col{
+	width:180px;
+	float:left;
+}
+
+.investor_col_rbar{
+	width:160px;
+	float:left;
+}
+
+.stock_header{
+background-color:#003366;
+color:#FFFFFF;
+}
+.stock_col_left{
+width:45px;
+}
+
+.stock_col_right{
+width:30px;
+}
+
+
+/***************** END investor PAGE ***************/
+
+.MAINTXT_2COL{
+	width: 780px;
+}
+.MAINTXT_2COL td{
+	width: 390px;
+	padding-left:	0px;
+	padding-right:	10px;
+	padding-top:	5px;
+	padding-bottom:	5px;
+	vertical-align:top;
+}
+
+.left_sub_nav img{
+	margin-left:15px;
+	
+}
+
+.two_col_table td{
+	padding-right:15px;
+}
+
+
+.stock_container{
+	float:left;
+	width:310px;
+	padding:0;
+	margin: 0;
+	padding-top:12px;
+	font-size:9px;
+	color:#0072bc;
+	text-align: center;
+}
+.stock_container hr {
+	color:#0072bc;
+	background-color:#0072bc;
+	height: 1px;
+	border:0;
+	padding:0;
+	margin: 0;
+	
+}
+
+.hp_left_info_container_table{
+	margin: 0;
+	padding: 0;
+	height: 210px;
+	width: 311px;
+}
+ .hp_left_info_container_table td{
+	margin: 0;
+	padding: 0;
+}
+
+.sitemap li{
+	padding-top:5px;
+}

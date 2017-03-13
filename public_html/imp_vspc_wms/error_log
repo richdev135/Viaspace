@@ -1,0 +1,657 @@
+[16-Jan-2015 18:30:51 America/Chicago] PHP Warning:  include_once(includes\start_session.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/viaspace/public_html/imp_vspc_wms/logout.php on line 2
+[16-Jan-2015 18:30:51 America/Chicago] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'includes\start_session.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/viaspace/public_html/imp_vspc_wms/logout.php on line 2
+[16-Jan-2015 18:30:51 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/viaspace/public_html/imp_vspc_wms/logout.php:2) in /home/viaspace/public_html/imp_vspc_wms/includes/start_session.php on line 3
+[16-Jan-2015 18:34:34 America/Chicago] PHP Warning:  include_once(includes\start_session.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/viaspace/public_html/imp_vspc_wms/logout.php on line 2
+[16-Jan-2015 18:34:34 America/Chicago] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'includes\start_session.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/viaspace/public_html/imp_vspc_wms/logout.php on line 2
+[16-Jan-2015 18:34:34 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/viaspace/public_html/imp_vspc_wms/logout.php:2) in /home/viaspace/public_html/imp_vspc_wms/includes/start_session.php on line 3
+[16-Jan-2015 18:35:36 America/Chicago] PHP Warning:  include_once(includes\start_session.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/viaspace/public_html/imp_vspc_wms/logout.php on line 2
+[16-Jan-2015 18:35:36 America/Chicago] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'includes\start_session.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/viaspace/public_html/imp_vspc_wms/logout.php on line 2
+[16-Jan-2015 18:35:36 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/viaspace/public_html/imp_vspc_wms/logout.php:2) in /home/viaspace/public_html/imp_vspc_wms/includes/start_session.php on line 3
+[16-Jan-2015 18:35:40 America/Chicago] PHP Warning:  include_once(includes\start_session.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/viaspace/public_html/imp_vspc_wms/logout.php on line 2
+[16-Jan-2015 18:35:40 America/Chicago] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'includes\start_session.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/viaspace/public_html/imp_vspc_wms/logout.php on line 2
+[16-Jan-2015 18:35:40 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/viaspace/public_html/imp_vspc_wms/logout.php:2) in /home/viaspace/public_html/imp_vspc_wms/includes/start_session.php on line 3
+[16-Jan-2015 18:38:13 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 241
+[16-Jan-2015 18:38:13 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 241
+[16-Jan-2015 18:38:13 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 241
+[16-Jan-2015 18:38:13 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 241
+[16-Jan-2015 18:38:13 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 241
+[16-Jan-2015 18:38:13 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 241
+[16-Jan-2015 18:38:13 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 241
+[16-Jan-2015 18:38:13 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 241
+[16-Jan-2015 18:38:13 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 241
+[16-Jan-2015 18:38:13 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/viaspace/public_html/imp_vspc_wms/includes/template/header.php:23) in /home/viaspace/public_html/imp_vspc_wms/email_list_add_sql.php on line 46
+[16-Jan-2015 18:39:09 America/Chicago] PHP Warning:  include_once(includes\start_session.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/viaspace/public_html/imp_vspc_wms/logout.php on line 2
+[16-Jan-2015 18:39:09 America/Chicago] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'includes\start_session.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/viaspace/public_html/imp_vspc_wms/logout.php on line 2
+[16-Jan-2015 18:39:09 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/viaspace/public_html/imp_vspc_wms/logout.php:2) in /home/viaspace/public_html/imp_vspc_wms/includes/start_session.php on line 3
+[16-Jan-2015 20:08:57 America/Chicago] PHP Warning:  include_once(includes\start_session.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home/viaspace/public_html/imp_vspc_wms/logout.php on line 2
+[16-Jan-2015 20:08:57 America/Chicago] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'includes\start_session.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/viaspace/public_html/imp_vspc_wms/logout.php on line 2
+[16-Jan-2015 20:08:57 America/Chicago] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/viaspace/public_html/imp_vspc_wms/logout.php:2) in /home/viaspace/public_html/imp_vspc_wms/includes/start_session.php on line 3
+[16-Jan-2015 20:33:03 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 241
+[16-Jan-2015 20:33:03 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 241
+[16-Jan-2015 20:33:03 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 241
+[16-Jan-2015 20:33:03 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 241
+[16-Jan-2015 20:33:03 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 241
+[16-Jan-2015 20:33:03 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 241
+[16-Jan-2015 20:33:03 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 241
+[16-Jan-2015 20:33:03 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 241
+[16-Jan-2015 20:33:03 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 241
+[16-Jan-2015 20:33:03 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/viaspace/public_html/imp_vspc_wms/includes/template/header.php:23) in /home/viaspace/public_html/imp_vspc_wms/email_list_add_sql.php on line 46
+[16-Jan-2015 20:58:51 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_db_query() in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 210
+[16-Jan-2015 20:59:27 America/Chicago] PHP Deprecated:  Function mysql_db_query() is deprecated in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 210
+[16-Jan-2015 20:59:27 America/Chicago] PHP Deprecated:  mysql_db_query() [<a href='function.mysql-db-query'>function.mysql-db-query</a>]: This function is deprecated; use mysql_query() instead in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 210
+[16-Jan-2015 21:01:47 America/Chicago] PHP Deprecated:  Function mysql_db_query() is deprecated in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 210
+[16-Jan-2015 21:01:47 America/Chicago] PHP Deprecated:  mysql_db_query() [<a href='function.mysql-db-query'>function.mysql-db-query</a>]: This function is deprecated; use mysql_query() instead in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 210
+[16-Jan-2015 21:10:50 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_db_query() in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 210
+[16-Jan-2015 21:15:00 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 215
+[16-Jan-2015 21:15:00 America/Chicago] PHP Fatal error:  Cannot use string offset as an array in /home/viaspace/public_html/imp_vspc_wms/includes/user_class.php on line 24
+[16-Jan-2015 21:17:40 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 241
+[16-Jan-2015 21:17:40 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 241
+[16-Jan-2015 21:17:40 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 241
+[16-Jan-2015 21:17:40 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 241
+[16-Jan-2015 21:17:40 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 241
+[16-Jan-2015 21:17:40 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 241
+[16-Jan-2015 21:17:40 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 241
+[16-Jan-2015 21:17:40 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 241
+[16-Jan-2015 21:17:40 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 241
+[16-Jan-2015 21:17:40 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/viaspace/public_html/imp_vspc_wms/includes/template/header.php:23) in /home/viaspace/public_html/imp_vspc_wms/email_list_add_sql.php on line 46
+[16-Jan-2015 21:18:49 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/viaspace/public_html/imp_vspc_wms/includes/template/header.php:23) in /home/viaspace/public_html/imp_vspc_wms/email_list_add_sql.php on line 46
+[16-Jan-2015 21:22:51 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/viaspace/public_html/imp_vspc_wms/includes/template/header.php:23) in /home/viaspace/public_html/imp_vspc_wms/email_list_add_sql.php on line 46
+[16-Jan-2015 21:30:58 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/viaspace/public_html/imp_vspc_wms/includes/template/header.php:23) in /home/viaspace/public_html/imp_vspc_wms/email_list_add_sql.php on line 47
+[16-Jan-2015 21:31:30 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/viaspace/public_html/imp_vspc_wms/includes/template/header.php:23) in /home/viaspace/public_html/imp_vspc_wms/email_list_add_sql.php on line 47
+[27-Jan-2015 18:39:20 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaspace_jeff'@'localhost' (using password: YES) in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 204
+[27-Jan-2015 18:39:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 214
+[27-Jan-2015 18:39:20 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 221
+[27-Jan-2015 18:39:20 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 228
+[27-Jan-2015 18:39:20 UTC] PHP Warning:  Illegal string offset 'vspc_user_pass' in /home/viaspace/public_html/imp_vspc_wms/includes/user_class.php on line 24
+[27-Jan-2015 18:39:20 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 209
+[27-Jan-2015 18:39:23 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaspace_jeff'@'localhost' (using password: YES) in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 204
+[27-Jan-2015 18:39:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 214
+[27-Jan-2015 18:39:23 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 221
+[27-Jan-2015 18:39:23 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 228
+[27-Jan-2015 18:39:23 UTC] PHP Warning:  Illegal string offset 'vspc_user_pass' in /home/viaspace/public_html/imp_vspc_wms/includes/user_class.php on line 24
+[27-Jan-2015 18:39:23 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 209
+[27-Jan-2015 18:39:24 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaspace_jeff'@'localhost' (using password: YES) in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 204
+[27-Jan-2015 18:39:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 214
+[27-Jan-2015 18:39:24 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 221
+[27-Jan-2015 18:39:24 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 228
+[27-Jan-2015 18:39:24 UTC] PHP Warning:  Illegal string offset 'vspc_user_pass' in /home/viaspace/public_html/imp_vspc_wms/includes/user_class.php on line 24
+[27-Jan-2015 18:39:24 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 209
+[27-Jan-2015 18:39:27 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaspace_jeff'@'localhost' (using password: YES) in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 204
+[27-Jan-2015 18:39:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 214
+[27-Jan-2015 18:39:27 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 221
+[27-Jan-2015 18:39:27 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 228
+[27-Jan-2015 18:39:27 UTC] PHP Warning:  Illegal string offset 'vspc_user_pass' in /home/viaspace/public_html/imp_vspc_wms/includes/user_class.php on line 24
+[27-Jan-2015 18:39:27 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 209
+[27-Jan-2015 18:39:46 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaspace_jeff'@'localhost' (using password: YES) in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 204
+[27-Jan-2015 18:39:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 214
+[27-Jan-2015 18:39:46 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 221
+[27-Jan-2015 18:39:46 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 228
+[27-Jan-2015 18:39:46 UTC] PHP Warning:  Illegal string offset 'vspc_user_pass' in /home/viaspace/public_html/imp_vspc_wms/includes/user_class.php on line 24
+[27-Jan-2015 18:39:46 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 209
+[27-Jan-2015 18:39:48 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaspace_jeff'@'localhost' (using password: YES) in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 204
+[27-Jan-2015 18:39:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 214
+[27-Jan-2015 18:39:48 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 221
+[27-Jan-2015 18:39:48 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 228
+[27-Jan-2015 18:39:48 UTC] PHP Warning:  Illegal string offset 'vspc_user_pass' in /home/viaspace/public_html/imp_vspc_wms/includes/user_class.php on line 24
+[27-Jan-2015 18:39:48 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 209
+[27-Jan-2015 18:39:49 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaspace_jeff'@'localhost' (using password: YES) in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 204
+[27-Jan-2015 18:39:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 214
+[27-Jan-2015 18:39:49 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 221
+[27-Jan-2015 18:39:49 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 228
+[27-Jan-2015 18:39:49 UTC] PHP Warning:  Illegal string offset 'vspc_user_pass' in /home/viaspace/public_html/imp_vspc_wms/includes/user_class.php on line 24
+[27-Jan-2015 18:39:49 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 209
+[27-Jan-2015 18:40:06 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaspace_jeff'@'localhost' (using password: YES) in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 204
+[27-Jan-2015 18:40:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 214
+[27-Jan-2015 18:40:06 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 221
+[27-Jan-2015 18:40:06 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 228
+[27-Jan-2015 18:40:06 UTC] PHP Warning:  Illegal string offset 'vspc_user_pass' in /home/viaspace/public_html/imp_vspc_wms/includes/user_class.php on line 24
+[27-Jan-2015 18:40:06 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 209
+[27-Jan-2015 18:40:17 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'viaspace_jeff'@'localhost' (using password: YES) in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 204
+[27-Jan-2015 18:40:17 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 214
+[27-Jan-2015 18:40:17 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 221
+[27-Jan-2015 18:40:17 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 228
+[27-Jan-2015 18:40:17 UTC] PHP Warning:  Illegal string offset 'vspc_user_pass' in /home/viaspace/public_html/imp_vspc_wms/includes/user_class.php on line 24
+[27-Jan-2015 18:40:17 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 209
+[27-Jan-2015 18:43:00 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 248
+[27-Jan-2015 18:43:00 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 248
+[27-Jan-2015 18:43:00 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 248
+[27-Jan-2015 18:43:00 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 248
+[27-Jan-2015 18:43:00 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 248
+[27-Jan-2015 18:43:00 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 248
+[27-Jan-2015 18:43:00 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 248
+[27-Jan-2015 18:43:00 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 248
+[27-Jan-2015 18:43:00 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 248
+[27-Jan-2015 18:43:00 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 248
+[27-Jan-2015 18:43:00 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 248
+[27-Jan-2015 18:43:00 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 248
+[27-Jan-2015 18:43:00 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 248
+[27-Jan-2015 18:43:00 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 248
+[27-Jan-2015 18:43:00 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 222
+[27-Jan-2015 18:43:00 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 227
+[27-Jan-2015 18:43:33 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 248
+[27-Jan-2015 18:43:33 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 248
+[27-Jan-2015 18:43:33 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 248
+[27-Jan-2015 18:43:33 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 248
+[27-Jan-2015 18:43:33 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 248
+[27-Jan-2015 18:43:33 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 248
+[27-Jan-2015 18:43:33 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 248
+[27-Jan-2015 18:43:33 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 248
+[27-Jan-2015 18:43:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 222
+[27-Jan-2015 18:43:33 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 227
+[27-Jan-2015 19:01:12 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 248
+[27-Jan-2015 19:01:12 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 248
+[27-Jan-2015 19:01:12 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 248
+[27-Jan-2015 19:01:12 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 248
+[27-Jan-2015 19:01:12 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 248
+[27-Jan-2015 19:01:12 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 248
+[27-Jan-2015 19:01:12 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 248
+[27-Jan-2015 19:01:12 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 248
+[27-Jan-2015 19:01:12 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 248
+[27-Jan-2015 19:01:12 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 248
+[27-Jan-2015 19:01:12 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 248
+[27-Jan-2015 19:01:12 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 248
+[27-Jan-2015 19:01:12 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 248
+[27-Jan-2015 19:01:12 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 248
+[27-Jan-2015 19:01:12 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 222
+[27-Jan-2015 19:01:12 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 227
+[27-Jan-2015 19:40:18 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 222
+[27-Jan-2015 19:40:18 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 227
+[27-Jan-2015 19:51:48 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 252
+[27-Jan-2015 19:51:48 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 252
+[27-Jan-2015 19:51:48 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 252
+[27-Jan-2015 19:51:48 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 252
+[27-Jan-2015 19:51:48 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 252
+[27-Jan-2015 19:51:48 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 252
+[27-Jan-2015 19:51:48 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 252
+[27-Jan-2015 19:51:48 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 252
+[27-Jan-2015 19:51:48 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 252
+[27-Jan-2015 19:51:48 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 252
+[27-Jan-2015 19:51:48 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 252
+[27-Jan-2015 19:51:48 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 252
+[27-Jan-2015 19:51:48 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 252
+[27-Jan-2015 19:51:48 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 252
+[27-Jan-2015 19:51:48 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 222
+[27-Jan-2015 19:51:48 UTC] PHP Fatal error:  Call to undefined function print_() in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 236
+[27-Jan-2015 19:53:47 UTC] PHP Fatal error:  Call to undefined function DBconnect() in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 222
+[27-Jan-2015 19:54:33 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 256
+[27-Jan-2015 19:54:33 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 256
+[27-Jan-2015 19:54:33 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 256
+[27-Jan-2015 19:54:33 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 256
+[27-Jan-2015 19:54:33 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 256
+[27-Jan-2015 19:54:33 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 256
+[27-Jan-2015 19:54:33 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 256
+[27-Jan-2015 19:54:33 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 256
+[27-Jan-2015 19:54:33 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 256
+[27-Jan-2015 19:54:33 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 256
+[27-Jan-2015 19:54:33 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 256
+[27-Jan-2015 19:54:33 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 256
+[27-Jan-2015 19:54:33 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 256
+[27-Jan-2015 19:54:33 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 256
+[27-Jan-2015 19:54:34 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 256
+[27-Jan-2015 19:54:34 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 256
+[27-Jan-2015 19:54:34 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 256
+[27-Jan-2015 19:54:34 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 256
+[27-Jan-2015 19:54:34 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 256
+[27-Jan-2015 19:54:34 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 217
+[27-Jan-2015 19:54:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php:256) in /home/viaspace/public_html/imp_vspc_wms/object_sql_add.php on line 42
+[27-Jan-2015 19:54:57 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 256
+[27-Jan-2015 19:54:57 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 256
+[27-Jan-2015 19:54:57 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 256
+[27-Jan-2015 19:54:57 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 256
+[27-Jan-2015 19:54:57 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 256
+[27-Jan-2015 19:54:57 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 256
+[27-Jan-2015 19:54:57 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 256
+[27-Jan-2015 19:54:57 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 256
+[27-Jan-2015 19:54:57 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 256
+[27-Jan-2015 19:54:57 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 256
+[27-Jan-2015 19:54:57 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 256
+[27-Jan-2015 19:54:57 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 256
+[27-Jan-2015 19:54:57 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 256
+[27-Jan-2015 19:54:57 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 256
+[27-Jan-2015 19:54:57 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 226
+[27-Jan-2015 19:54:57 UTC] PHP Fatal error:  Call to undefined function print_() in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 240
+[27-Jan-2015 19:55:55 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 253
+[27-Jan-2015 19:55:55 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 253
+[27-Jan-2015 19:55:55 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 253
+[27-Jan-2015 19:55:55 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 253
+[27-Jan-2015 19:55:55 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 253
+[27-Jan-2015 19:55:55 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 253
+[27-Jan-2015 19:55:55 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 253
+[27-Jan-2015 19:55:55 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 253
+[27-Jan-2015 19:55:55 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 253
+[27-Jan-2015 19:55:55 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 253
+[27-Jan-2015 19:55:55 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 253
+[27-Jan-2015 19:55:55 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 253
+[27-Jan-2015 19:55:55 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 253
+[27-Jan-2015 19:55:55 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 253
+[27-Jan-2015 19:55:55 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 223
+[27-Jan-2015 19:55:55 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 239
+[27-Jan-2015 19:56:48 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 254
+[27-Jan-2015 19:56:48 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 254
+[27-Jan-2015 19:56:48 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 254
+[27-Jan-2015 19:56:48 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 254
+[27-Jan-2015 19:56:48 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 254
+[27-Jan-2015 19:56:48 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 254
+[27-Jan-2015 19:56:48 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 254
+[27-Jan-2015 19:56:48 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 254
+[27-Jan-2015 19:56:48 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 254
+[27-Jan-2015 19:56:48 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 254
+[27-Jan-2015 19:56:48 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 254
+[27-Jan-2015 19:56:48 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 254
+[27-Jan-2015 19:56:48 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 254
+[27-Jan-2015 19:56:48 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 254
+[27-Jan-2015 19:56:48 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 223
+[27-Jan-2015 19:56:48 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 240
+[27-Jan-2015 19:59:55 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 261
+[27-Jan-2015 19:59:55 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 261
+[27-Jan-2015 19:59:55 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 261
+[27-Jan-2015 19:59:55 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 261
+[27-Jan-2015 19:59:55 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 261
+[27-Jan-2015 19:59:55 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 261
+[27-Jan-2015 19:59:55 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 261
+[27-Jan-2015 19:59:55 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 261
+[27-Jan-2015 19:59:55 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 261
+[27-Jan-2015 19:59:55 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 261
+[27-Jan-2015 19:59:55 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 261
+[27-Jan-2015 19:59:55 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 261
+[27-Jan-2015 19:59:55 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 261
+[27-Jan-2015 19:59:55 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 261
+[27-Jan-2015 19:59:55 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 230
+[27-Jan-2015 19:59:55 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 247
+[27-Jan-2015 19:59:58 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 261
+[27-Jan-2015 19:59:58 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 261
+[27-Jan-2015 19:59:58 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 261
+[27-Jan-2015 19:59:58 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 261
+[27-Jan-2015 19:59:58 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 261
+[27-Jan-2015 19:59:58 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 261
+[27-Jan-2015 19:59:58 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 261
+[27-Jan-2015 19:59:58 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 261
+[27-Jan-2015 19:59:58 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 261
+[27-Jan-2015 19:59:58 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 261
+[27-Jan-2015 19:59:58 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 261
+[27-Jan-2015 19:59:58 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 261
+[27-Jan-2015 19:59:58 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 261
+[27-Jan-2015 19:59:58 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 261
+[27-Jan-2015 19:59:58 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 230
+[27-Jan-2015 19:59:58 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 247
+[27-Jan-2015 20:00:43 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 263
+[27-Jan-2015 20:00:43 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 263
+[27-Jan-2015 20:00:43 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 263
+[27-Jan-2015 20:00:43 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 263
+[27-Jan-2015 20:00:43 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 263
+[27-Jan-2015 20:00:43 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 263
+[27-Jan-2015 20:00:43 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 263
+[27-Jan-2015 20:00:43 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 263
+[27-Jan-2015 20:00:43 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 263
+[27-Jan-2015 20:00:43 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 263
+[27-Jan-2015 20:00:43 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 263
+[27-Jan-2015 20:00:43 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 263
+[27-Jan-2015 20:00:43 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 263
+[27-Jan-2015 20:00:43 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 263
+[27-Jan-2015 20:00:43 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 232
+[27-Jan-2015 20:00:43 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 249
+[27-Jan-2015 20:51:16 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 263
+[27-Jan-2015 20:51:16 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 263
+[27-Jan-2015 20:51:16 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 263
+[27-Jan-2015 20:51:16 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 263
+[27-Jan-2015 20:51:16 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 263
+[27-Jan-2015 20:51:16 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 263
+[27-Jan-2015 20:51:16 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 263
+[27-Jan-2015 20:51:16 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 263
+[27-Jan-2015 20:51:16 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 263
+[27-Jan-2015 20:51:16 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 263
+[27-Jan-2015 20:51:16 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 263
+[27-Jan-2015 20:51:16 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 263
+[27-Jan-2015 20:51:16 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 263
+[27-Jan-2015 20:51:16 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 263
+[27-Jan-2015 20:51:16 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 217
+[27-Jan-2015 20:58:15 UTC] PHP Warning:  mysqli::query() expects parameter 2 to be long, string given in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 232
+[27-Jan-2015 20:58:15 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 251
+[27-Jan-2015 21:01:15 UTC] PHP Warning:  mysqli::query() expects parameter 2 to be long, string given in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 232
+[27-Jan-2015 21:01:15 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 251
+[27-Jan-2015 21:01:18 UTC] PHP Warning:  mysqli::query() expects parameter 2 to be long, string given in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 232
+[27-Jan-2015 21:01:18 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 251
+[27-Jan-2015 21:02:09 UTC] PHP Warning:  mysqli::query() expects parameter 2 to be long, string given in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 234
+[27-Jan-2015 21:02:09 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 253
+[28-Jan-2015 23:44:09 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[28-Jan-2015 23:44:09 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[28-Jan-2015 23:44:09 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[28-Jan-2015 23:44:09 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[28-Jan-2015 23:44:09 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[28-Jan-2015 23:44:09 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[28-Jan-2015 23:44:09 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[28-Jan-2015 23:44:09 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[28-Jan-2015 23:44:09 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[28-Jan-2015 23:44:09 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[28-Jan-2015 23:44:09 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[28-Jan-2015 23:44:09 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[28-Jan-2015 23:44:09 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[28-Jan-2015 23:44:09 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[28-Jan-2015 23:44:09 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 217
+[28-Jan-2015 23:55:51 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[28-Jan-2015 23:55:51 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[28-Jan-2015 23:55:51 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[28-Jan-2015 23:55:51 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[28-Jan-2015 23:55:51 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[28-Jan-2015 23:55:51 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[28-Jan-2015 23:55:51 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[28-Jan-2015 23:55:51 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[28-Jan-2015 23:55:51 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[28-Jan-2015 23:55:51 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[28-Jan-2015 23:55:51 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[28-Jan-2015 23:55:51 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[28-Jan-2015 23:55:51 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[28-Jan-2015 23:55:51 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[28-Jan-2015 23:55:51 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 217
+[28-Jan-2015 23:58:52 UTC] PHP Fatal error:  Call to undefined method mysqli::MySQLescapeString() in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 78
+[28-Jan-2015 23:59:17 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[28-Jan-2015 23:59:17 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[28-Jan-2015 23:59:17 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[28-Jan-2015 23:59:17 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[28-Jan-2015 23:59:17 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[28-Jan-2015 23:59:17 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[28-Jan-2015 23:59:17 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[28-Jan-2015 23:59:17 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[28-Jan-2015 23:59:17 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[28-Jan-2015 23:59:17 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[28-Jan-2015 23:59:17 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[28-Jan-2015 23:59:17 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[28-Jan-2015 23:59:17 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[28-Jan-2015 23:59:17 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[28-Jan-2015 23:59:17 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 217
+[29-Jan-2015 00:05:41 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:05:41 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:05:41 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:05:41 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:05:41 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:05:41 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:05:41 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:05:41 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:05:41 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:05:41 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:05:41 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:05:41 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:05:41 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:05:41 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:05:41 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 217
+[29-Jan-2015 00:07:11 UTC] PHP Fatal error:  Call to undefined function print_f() in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 79
+[29-Jan-2015 00:07:18 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 270
+[29-Jan-2015 00:07:18 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 270
+[29-Jan-2015 00:07:18 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 270
+[29-Jan-2015 00:07:18 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 270
+[29-Jan-2015 00:07:18 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 270
+[29-Jan-2015 00:07:18 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 270
+[29-Jan-2015 00:07:18 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 270
+[29-Jan-2015 00:07:18 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 270
+[29-Jan-2015 00:07:18 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 270
+[29-Jan-2015 00:07:18 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 270
+[29-Jan-2015 00:07:18 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 270
+[29-Jan-2015 00:07:18 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 270
+[29-Jan-2015 00:07:18 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 270
+[29-Jan-2015 00:07:18 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 270
+[29-Jan-2015 00:07:18 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 220
+[29-Jan-2015 00:08:04 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 270
+[29-Jan-2015 00:08:04 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 270
+[29-Jan-2015 00:08:04 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 270
+[29-Jan-2015 00:08:04 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 270
+[29-Jan-2015 00:08:04 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 270
+[29-Jan-2015 00:08:04 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 270
+[29-Jan-2015 00:08:04 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 270
+[29-Jan-2015 00:08:04 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 270
+[29-Jan-2015 00:08:04 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 270
+[29-Jan-2015 00:08:04 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 270
+[29-Jan-2015 00:08:04 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 270
+[29-Jan-2015 00:08:04 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 270
+[29-Jan-2015 00:08:04 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 270
+[29-Jan-2015 00:08:04 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 270
+[29-Jan-2015 00:08:04 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 270
+[29-Jan-2015 00:08:04 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 270
+[29-Jan-2015 00:08:04 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 270
+[29-Jan-2015 00:08:04 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 220
+[29-Jan-2015 00:10:39 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:10:39 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:10:39 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:10:39 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:10:39 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:10:39 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:10:39 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:10:39 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:10:39 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:10:39 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:10:39 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:10:39 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:10:39 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:10:39 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:10:39 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:10:39 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:10:39 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:10:39 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 217
+[29-Jan-2015 00:11:56 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:11:56 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:11:56 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:11:56 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:11:56 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:11:56 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:11:56 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:11:56 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:11:56 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:11:56 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:11:56 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:11:56 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:11:56 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:11:56 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:11:56 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:11:56 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:11:56 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:11:56 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 217
+[29-Jan-2015 00:12:25 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:12:25 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:12:25 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:12:25 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:12:25 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:12:25 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:12:25 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:12:25 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:12:25 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:12:25 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:12:25 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:12:25 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:12:25 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:12:25 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:12:25 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:12:25 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:12:25 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:12:25 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 217
+[29-Jan-2015 00:13:31 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:13:31 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:13:31 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:13:31 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:13:31 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:13:31 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:13:31 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:13:31 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:13:31 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:13:31 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:13:31 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:13:31 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:13:31 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:13:31 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:13:31 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:13:31 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:13:31 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:13:31 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 217
+[29-Jan-2015 00:14:09 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:14:09 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:14:09 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:14:09 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:14:09 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:14:09 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:14:09 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:14:09 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:14:09 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:14:09 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:14:09 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:14:09 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:14:09 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:14:09 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:14:09 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:14:09 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:14:09 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:14:09 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 217
+[29-Jan-2015 00:14:31 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:14:31 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:14:31 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:14:31 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:14:31 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:14:31 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:14:31 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:14:31 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:14:31 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:14:31 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:14:31 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:14:31 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:14:31 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:14:31 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:14:31 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:14:31 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:14:31 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:14:31 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 217
+[29-Jan-2015 00:17:15 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:17:15 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:17:15 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:17:15 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:17:15 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:17:15 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:17:15 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:17:15 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:17:15 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:17:15 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:17:15 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:17:15 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:17:15 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:17:15 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 267
+[29-Jan-2015 00:17:15 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 217
+[29-Jan-2015 00:47:35 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 265
+[29-Jan-2015 00:47:35 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 265
+[29-Jan-2015 00:47:35 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 265
+[29-Jan-2015 00:47:35 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 265
+[29-Jan-2015 00:47:35 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 265
+[29-Jan-2015 00:47:35 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 265
+[29-Jan-2015 00:47:35 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 265
+[29-Jan-2015 00:47:35 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 265
+[29-Jan-2015 00:47:35 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 231
+[29-Jan-2015 00:47:35 UTC] PHP Warning:  db::MySQLquery(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 246
+[29-Jan-2015 00:47:35 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 249
+[29-Jan-2015 00:49:31 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 265
+[29-Jan-2015 00:49:31 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 265
+[29-Jan-2015 00:49:31 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 265
+[29-Jan-2015 00:49:31 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 265
+[29-Jan-2015 00:49:31 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 265
+[29-Jan-2015 00:49:31 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 265
+[29-Jan-2015 00:49:31 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 265
+[29-Jan-2015 00:49:31 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 265
+[29-Jan-2015 00:49:31 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 231
+[29-Jan-2015 00:49:31 UTC] PHP Warning:  db::MySQLquery(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 246
+[29-Jan-2015 00:49:31 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 249
+[29-Jan-2015 00:49:34 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 265
+[29-Jan-2015 00:49:34 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 265
+[29-Jan-2015 00:49:34 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 265
+[29-Jan-2015 00:49:34 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 265
+[29-Jan-2015 00:49:34 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 265
+[29-Jan-2015 00:49:34 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 265
+[29-Jan-2015 00:49:34 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 265
+[29-Jan-2015 00:49:34 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 265
+[29-Jan-2015 00:49:35 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 231
+[29-Jan-2015 00:49:35 UTC] PHP Warning:  db::MySQLquery(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 246
+[29-Jan-2015 00:49:35 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 249
+[29-Jan-2015 00:51:11 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 266
+[29-Jan-2015 00:51:11 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 266
+[29-Jan-2015 00:51:11 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 266
+[29-Jan-2015 00:51:11 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 266
+[29-Jan-2015 00:51:11 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 266
+[29-Jan-2015 00:51:11 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 266
+[29-Jan-2015 00:51:11 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 266
+[29-Jan-2015 00:51:11 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 266
+[29-Jan-2015 00:51:11 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 231
+[29-Jan-2015 00:51:11 UTC] PHP Warning:  db::MySQLquery(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 246
+[29-Jan-2015 00:51:11 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 249
+[29-Jan-2015 00:51:14 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 266
+[29-Jan-2015 00:51:14 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 266
+[29-Jan-2015 00:51:14 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 266
+[29-Jan-2015 00:51:14 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 266
+[29-Jan-2015 00:51:14 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 266
+[29-Jan-2015 00:51:14 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 266
+[29-Jan-2015 00:51:14 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 266
+[29-Jan-2015 00:51:14 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 266
+[29-Jan-2015 00:51:14 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 231
+[29-Jan-2015 00:51:14 UTC] PHP Warning:  db::MySQLquery(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 246
+[29-Jan-2015 00:51:14 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 249
+[29-Jan-2015 00:51:30 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 265
+[29-Jan-2015 00:51:30 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 265
+[29-Jan-2015 00:51:30 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 265
+[29-Jan-2015 00:51:30 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 265
+[29-Jan-2015 00:51:30 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 265
+[29-Jan-2015 00:51:30 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 265
+[29-Jan-2015 00:51:30 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 265
+[29-Jan-2015 00:51:30 UTC] PHP Warning:  mysqli::real_escape_string(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 265
+[29-Jan-2015 00:51:30 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 231
+[29-Jan-2015 00:51:30 UTC] PHP Warning:  db::MySQLquery(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 246
+[29-Jan-2015 00:51:30 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 249
+[29-Jan-2015 00:59:50 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php on line 130
+[29-Jan-2015 01:03:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php:171) in /home/viaspace/public_html/imp_vspc_wms/object_sql_add.php on line 42
+[29-Jan-2015 01:05:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php:171) in /home/viaspace/public_html/imp_vspc_wms/object_sql_add.php on line 42
+[29-Jan-2015 01:09:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php:171) in /home/viaspace/public_html/imp_vspc_wms/object_sql_add.php on line 42
+[29-Jan-2015 01:11:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php:171) in /home/viaspace/public_html/imp_vspc_wms/object_sql_add.php on line 42
+[29-Jan-2015 01:14:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php:164) in /home/viaspace/public_html/imp_vspc_wms/object_sql_add.php on line 42
+[29-Jan-2015 01:14:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php:164) in /home/viaspace/public_html/imp_vspc_wms/object_sql_add.php on line 42
+[29-Jan-2015 01:16:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php:177) in /home/viaspace/public_html/imp_vspc_wms/object_sql_add.php on line 42
+[29-Jan-2015 01:18:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php:130) in /home/viaspace/public_html/imp_vspc_wms/object_sql_add.php on line 42
+[29-Jan-2015 01:19:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php:130) in /home/viaspace/public_html/imp_vspc_wms/object_sql_add.php on line 42
+[29-Jan-2015 01:35:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php:131) in /home/viaspace/public_html/imp_vspc_wms/object_sql_add.php on line 42
+[29-Jan-2015 01:39:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php:131) in /home/viaspace/public_html/imp_vspc_wms/object_sql_add.php on line 42
+[29-Jan-2015 01:39:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/viaspace/public_html/imp_vspc_wms/includes/db/db_class.php:131) in /home/viaspace/public_html/imp_vspc_wms/object_sql_add.php on line 42
+[29-Jan-2015 01:43:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/viaspace/public_html/imp_vspc_wms/includes/template/header.php:23) in /home/viaspace/public_html/imp_vspc_wms/email_list_delete_verified.php on line 34
+[29-Jan-2015 01:43:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/viaspace/public_html/imp_vspc_wms/includes/template/header.php:23) in /home/viaspace/public_html/imp_vspc_wms/email_list_delete_verified.php on line 34
+[29-Jan-2015 02:56:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/viaspace/public_html/imp_vspc_wms/object_delete.php on line 39
+[29-Jan-2015 02:59:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/viaspace/public_html/imp_vspc_wms/includes/template/header.php:23) in /home/viaspace/public_html/imp_vspc_wms/email_list_delete_verified.php on line 34
+[29-Jan-2015 03:05:35 UTC] PHP Warning:  print_r(): Property access is not allowed yet in /home/viaspace/public_html/imp_vspc_wms/object_delete_verified.php on line 48
+[29-Jan-2015 03:05:35 UTC] PHP Warning:  print_r(): Property access is not allowed yet in /home/viaspace/public_html/imp_vspc_wms/object_delete_verified.php on line 48
+[29-Jan-2015 03:05:35 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/object_delete_verified.php on line 48
+[29-Jan-2015 03:05:35 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/object_delete_verified.php on line 48
+[29-Jan-2015 03:05:35 UTC] PHP Warning:  print_r(): Property access is not allowed yet in /home/viaspace/public_html/imp_vspc_wms/object_delete_verified.php on line 48
+[29-Jan-2015 03:05:35 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/object_delete_verified.php on line 48
+[29-Jan-2015 03:05:35 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/object_delete_verified.php on line 48
+[29-Jan-2015 03:05:35 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/object_delete_verified.php on line 48
+[29-Jan-2015 03:05:35 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/object_delete_verified.php on line 48
+[29-Jan-2015 03:05:35 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/object_delete_verified.php on line 48
+[29-Jan-2015 03:05:35 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/object_delete_verified.php on line 48
+[29-Jan-2015 03:05:35 UTC] PHP Warning:  print_r(): Property access is not allowed yet in /home/viaspace/public_html/imp_vspc_wms/object_delete_verified.php on line 48
+[29-Jan-2015 03:05:35 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/object_delete_verified.php on line 48
+[29-Jan-2015 03:05:35 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/object_delete_verified.php on line 48
+[29-Jan-2015 03:05:35 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/object_delete_verified.php on line 48
+[29-Jan-2015 03:05:35 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli in /home/viaspace/public_html/imp_vspc_wms/object_delete_verified.php on line 48
+[29-Jan-2015 03:05:35 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli_result in /home/viaspace/public_html/imp_vspc_wms/object_delete_verified.php on line 48
+[29-Jan-2015 03:05:35 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli_result in /home/viaspace/public_html/imp_vspc_wms/object_delete_verified.php on line 48
+[29-Jan-2015 03:05:35 UTC] PHP Warning:  print_r(): Property access is not allowed yet in /home/viaspace/public_html/imp_vspc_wms/object_delete_verified.php on line 48
+[29-Jan-2015 03:05:35 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli_result in /home/viaspace/public_html/imp_vspc_wms/object_delete_verified.php on line 48
+[29-Jan-2015 03:05:35 UTC] PHP Warning:  print_r(): Property access is not allowed yet in /home/viaspace/public_html/imp_vspc_wms/object_delete_verified.php on line 48
+[29-Jan-2015 03:14:22 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli_result in /home/viaspace/public_html/imp_vspc_wms/object_delete_verified.php on line 47
+[29-Jan-2015 03:14:22 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli_result in /home/viaspace/public_html/imp_vspc_wms/object_delete_verified.php on line 47
+[29-Jan-2015 03:14:22 UTC] PHP Warning:  print_r(): Property access is not allowed yet in /home/viaspace/public_html/imp_vspc_wms/object_delete_verified.php on line 47
+[29-Jan-2015 03:14:22 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli_result in /home/viaspace/public_html/imp_vspc_wms/object_delete_verified.php on line 47
+[29-Jan-2015 03:14:22 UTC] PHP Warning:  print_r(): Property access is not allowed yet in /home/viaspace/public_html/imp_vspc_wms/object_delete_verified.php on line 47
+[29-Jan-2015 03:14:48 UTC] PHP Catchable fatal error:  Object of class db could not be converted to string in /home/viaspace/public_html/imp_vspc_wms/object_delete_verified.php on line 47
+[29-Jan-2015 03:15:05 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli_result in /home/viaspace/public_html/imp_vspc_wms/object_delete_verified.php on line 47
+[29-Jan-2015 03:15:05 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli_result in /home/viaspace/public_html/imp_vspc_wms/object_delete_verified.php on line 47
+[29-Jan-2015 03:15:05 UTC] PHP Warning:  print_r(): Property access is not allowed yet in /home/viaspace/public_html/imp_vspc_wms/object_delete_verified.php on line 47
+[29-Jan-2015 03:15:05 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli_result in /home/viaspace/public_html/imp_vspc_wms/object_delete_verified.php on line 47
+[29-Jan-2015 03:15:05 UTC] PHP Warning:  print_r(): Property access is not allowed yet in /home/viaspace/public_html/imp_vspc_wms/object_delete_verified.php on line 47
+[29-Jan-2015 03:18:04 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/viaspace/public_html/imp_vspc_wms/object_delete_verified.php on line 44
+[29-Jan-2015 03:23:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/viaspace/public_html/imp_vspc_wms/object_delete_verified.php:44) in /home/viaspace/public_html/imp_vspc_wms/object_delete_verified.php on line 53
+[29-Jan-2015 03:23:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/viaspace/public_html/imp_vspc_wms/object_delete_verified.php:44) in /home/viaspace/public_html/imp_vspc_wms/object_delete_verified.php on line 53
+[29-Jan-2015 03:23:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/viaspace/public_html/imp_vspc_wms/object_delete.php on line 39
+[29-Jan-2015 03:24:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/viaspace/public_html/imp_vspc_wms/object_delete_verified.php:44) in /home/viaspace/public_html/imp_vspc_wms/object_delete_verified.php on line 53
+[29-Jan-2015 03:24:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/viaspace/public_html/imp_vspc_wms/object_delete.php on line 39
+[29-Jan-2015 03:24:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/viaspace/public_html/imp_vspc_wms/object_delete_verified.php:44) in /home/viaspace/public_html/imp_vspc_wms/object_delete_verified.php on line 53
+[29-Jan-2015 03:24:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/viaspace/public_html/imp_vspc_wms/object_delete.php on line 39
+[29-Jan-2015 12:20:32 America/Chicago] PHP Warning:  mysqli::mysqli() [<a href='mysqli.mysqli'>mysqli.mysqli</a>]: (28000/1045): Access denied for user 'viaspace_jeff'@'localhost' (using password: YES) in /home/viaspace/public_html/imp_vspc_wms_NEW15/includes/db/db_class.php on line 217

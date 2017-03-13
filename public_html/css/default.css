@@ -1,0 +1,119 @@
+@charset "UTF-8";
+
+/* ----- ALL LEVELS (incl. first) */
+
+* html ul.dropdown ul { background-image: url('../images/dropdown_pane_8bit.png'); }
+
+ul.dropdown {
+ font: bold 12px Arial, Helvetica, sans-serif;
+}
+
+	ul.dropdown li {
+	 padding: 7px 12px;
+	 background-color: #fff;
+	 color: #fff;
+	}
+
+	ul.dropdown li.hover,
+	ul.dropdown li:hover {
+	 background-color: #fff;
+	}
+
+	ul.dropdown a:link,
+	ul.dropdown a:visited { color: #fff; text-decoration: none; }
+	ul.dropdown a:hover { color: #fff; text-decoration: underline; }
+	ul.dropdown a:active { color: #fff; }
+
+
+/* ----- END LEVEL */
+
+
+	/* ----- NON-FIRST LEVEL */
+
+	ul.dropdown ul {	 
+	 margin-left: -6px;
+	 width: 190px;
+	 padding-bottom: 9px;
+	 background: url('../images/dropdown_pane_8bit.png') 0 100% no-repeat;
+	 color: #000;
+	 font-size: 11px;
+	 font-weight: normal;	 	 
+	}
+
+		ul.dropdown ul li {
+		 background-color: transparent;
+		 color: #000;		
+		 background: url('../images/menubg.png') bottom center no-repeat;
+		}
+
+		ul.dropdown ul li.hover,
+		ul.dropdown ul li:hover {
+		 background-color: transparent;
+		}
+
+		ul.dropdown ul li.empty {
+		 padding: 7px 12px 7px !important;
+		 color: #1b509e;
+		 font-weight: bold;
+		 background: url('../images/menubg.png') center repeat-y;
+		}
+		
+		ul.dropdown ul a:link,
+		ul.dropdown ul a:visited { color: #245991; }
+		ul.dropdown ul a:hover { color: #000; text-decoration: none; }
+		ul.dropdown ul a:active { color: #000; }
+
+			ul.dropdown ul ul {
+			 display: none;
+			}
+
+			ul.dropdown ul ul li {}
+
+/* ----- END LEVEL */
+
+/* ----- ALL LEVELS (incl. first) */
+
+ul.dropdown .audir2 {
+	display:block;
+	width: 113px;
+	height: 41px;	
+	text-decoration: none; 
+	background: url('../images/menu_au2.jpg');	
+}
+ul.dropdown .redir2 {
+	display:block;
+	width: 163px;
+	height: 41px;	
+	text-decoration: none; 
+	background: url("../images/menu_re2.jpg");
+}
+ul.dropdown .gadir2 {
+	display:block;
+	width: 173px;
+	height: 41px;	
+	text-decoration: none; 
+	background: url("../images/menu_ga2.jpg");	
+}
+ul.dropdown .irdir2 {
+	display:block;
+	width: 170px;
+	height: 41px;	
+	text-decoration: none; 
+	background: url("../images/menu_ir2.jpg");	
+}
+ul.dropdown .newsdir2 {
+	display:block;
+	width: 77px;
+	height: 41px;	
+	text-decoration: none; 
+	background: url("../images/menu_news2.jpg");	
+}
+ul.dropdown .emptydir2 {
+	display:block;
+	width: 204px;
+	height: 41px;	
+	text-decoration: none; 
+	background: url("../images/menu_empty2.jpg");	
+}
+
+/* ----- END LEVEL */

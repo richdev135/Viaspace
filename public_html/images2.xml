@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gallery>
+<album>
+	<img src="images/main.jpg" link="giant_king_grass.php" target="_self" />
+	<img src="images/main.jpg" link="giant_king_grass.php" target="_self" />
+	<img src="images/main_16foot.jpg" />
+	<img src="images/main_regrowth.jpg" />
+
+	<img src="images/main7.jpg" link="re_about.php" target="_self" />
+	<img src="images/main8.jpg" link="re_about.php" target="_self" />
+	<img src="images/main9.jpg" link="re_about.php" target="_self" />	
+	<img src="images/main10.jpg" link="re_about.php" target="_self" />	
+	<img src="images/slide_12.jpg" link="re_about.php" target="_self" />
+</album>
+</gallery>
