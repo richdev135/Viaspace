@@ -41,6 +41,27 @@ $page_keywords		= $objPage->meta_keywords;
 </head>
 
  <body>
+	<script type="text/javascript">
+		$(document).ready(
+			function(){
+				setTimeout(function(){
+					$("#wait-to-load").hide(100);
+					$("#imagescroll").show(200);
+				},250);
+
+				$("#imagescroll").slick({
+					infinite: true,
+					slidesToShow: 1,
+					slidesToScroll: 1,
+					autoplay: true,
+					autoplaySpeed: 4000,
+					speed: 500,
+					fade: true,
+					cssEase: 'linear'
+					});
+				}
+		);
+	</script> 
  
  <div id="main_container" class="main_container">
 	
@@ -55,11 +76,11 @@ $page_keywords		= $objPage->meta_keywords;
 				</div>
 				<div id="imagescroll">
 					<div><img src="images/main.jpg"/></div>
-					<div><img src="images/main6.jpg"/></div>
 					<div><img src="images/main2.jpg"/></div>
 					<div><img src="images/main3.jpg"/></div>
 					<div><img src="images/main4.jpg"/></div>
 					<div><img src="images/main5.jpg"/></div>
+					<div><img src="images/main6.jpg"/></div>
 				</div>
 			</div>
 			<div id="indexbody" class="indexbody">
@@ -201,9 +222,6 @@ $page_keywords		= $objPage->meta_keywords;
 				</div>
 				<script type="text/javascript" src="js/slick.js"></script>
 				<script type="text/javascript" src="js/scripts.js"></script>
-				<script type="text/javascript" >
-					$(".single-item").slick();
-				</script>
 				<!--[if lt IE 7]>
 				<center><b><font color="red">** Your Internet browser may not be compatible with this website, it is recommended that you upgrade your copy of Internet Explorer.  **</font></b><p><a href="http://www.microsoft.com/windows/Internet-explorer/default.aspx" target="_blank"><b>Click here</b></a> to upgrade your Internet browser.</p></center>
 				<![endif]-->

@@ -63,14 +63,6 @@ img {
 	color: #1b4979;
 	text-align: center;
 }
-.linkstop {		
-	float: right;		
-	width: auto;
-	padding-top: 20px;	
-	padding-right: 20px;
-	text-align: right;		
-	font-weight: bold;
-}
 .short { 
 	display:inline; 
 	text-decoration: none
@@ -101,9 +93,6 @@ ul.arrowlist li {
 
 .stock_col_right {
 	width: 70px;
-}
-.ticker {
-	font-weight: normal;
 }
 #test_container_template {
 	position: relative;			
@@ -140,11 +129,27 @@ ul.arrowlist li {
 }
 #header_right {
 	position: relative;			
-	width: 600px;
+	left:100px;
+	width: 400px;
 	height: 100px;
 	float: right;
-	margin: 0;
-	padding: 0;		
+	margin: 1px;
+	padding: 1px;		
+}
+.linkstop {		
+	width: auto;
+	padding-top: 20px;	
+	padding-right: 20px;
+	text-align: right;		
+	font-weight: bold;
+}
+.ticker {
+	font-weight: normal;
+}
+
+#contact-bar {
+	width:300px;
+	border: 1px blue dashed;
 }
 #menu {		
 	width: 900px;
@@ -375,4 +380,44 @@ div.figureright p {
    position: fixed;
    top:0;
    right:0;
+}
+#more-king-grass {
+	display:inline;
+	cursor: pointer;
+}
+#less-king-grass {
+	display:none;
+}
+#show-less-king-grass {
+	cursor: pointer;
+}
+
+#more-viaspace {
+	display: inline;
+	cursor: pointer;
+}
+#less-viaspace {
+	display: none;
+}
+#show-less-viaspace {
+	cursor: pointer;
+}
+
+#more-labs {
+	display: inline;
+	cursor: pointer;
+}
+#less-labs {
+	display: none;
+}
+#show-less-labs {
+	cursor: pointer;
+}
+#imagescroll {
+	display: none;
+}
+#wait-to-load {
+	position: relative;
+	top:100px;
+	text-align: center;
 }
