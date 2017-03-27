@@ -32,6 +32,8 @@ $page_keywords		= $objPage->meta_keywords;
 <link href="css/style.css" media="all" rel="stylesheet" type="text/css" />	
 <link href="css/dropdown.css" media="all" rel="stylesheet" type="text/css" />
 <link href="css/default.advanced.css" media="all" rel="stylesheet" type="text/css" />
+<link href="css/slick.css" rel="stylesheet" type="text/css" />
+<link href="css/slick-theme.css" rel="stylesheet" type="text/css" />
 <script
 			  src="https://code.jquery.com/jquery-3.1.1.js"
 			  integrity="sha256-16cdPddA6VdVInumRGo6IbivbERE8p7CQR3HzTBuELA="
