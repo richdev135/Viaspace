@@ -28,11 +28,16 @@ $page_keywords		= $objPage->meta_keywords;
 <meta name="generator" content="editplus" />
 <meta name="author" content="Blue Reef Designs" />
 <meta name="keywords" content="clean energy, renewable energy, Green energy, Biofuels, non-food, non-fossil, fossil fuels, non-petroleum, agriculture, coal firing, grass, Biocoal, biomass, low carbon, cellulosic biofuels, ethanol, Grassoline, Co-firing, animal feed, pig feed, cattle feed, dairy cow feed, fish feed, switchgrass, miscanthus, Direct Methanol Fuel Cell Corporation, clean energy, clean conversion, battery replacement, alternative power source, small electronics, consumer electronics, disposable fuel cartridge, innovative power source, Fuel cell, direct methanol fuel cell, DMFC, fuel cartridge, patents, methanol, framed art, wholesale framed art, wholesale custom framed art" />
-<meta name="description" content="VIASPACE Inc. is a clean energy company developing technology and products for renewable and alternative energy to reduce or eliminate dependence on fossil fuels and other high-pollutant energy sources. VIASPACE’s green energy subsidiary produces renewable low-carbon cellulosic feedstock—a proprietary fast-growing grass that can be harvested four times a year—for producing biofuels and lower-pollution coal firing. VIASPACE’s alternative energy subsidiary owns a portfolio of fuel cell patents licensed from California Institute of Technology (Caltech) and designs and manufactures fuel cartridges that supply methanol for fuel cells as alternatives to batteries for small electronics such as notebook computers and cell phones. VIASPACE is also involved in ongoing high-technology collaborations with Caltech, NASA's Jet Propulsion Laboratory, General Dynamics Corp. and other entities engaged in defense and homeland security." />
+<meta name="description" content="VIASPACE Inc. is a clean energy company developing technology and products for renewable and alternative energy to reduce or eliminate dependence on fossil fuels and other high-pollutant energy sources. VIASPACEï¿½s green energy subsidiary produces renewable low-carbon cellulosic feedstockï¿½a proprietary fast-growing grass that can be harvested four times a yearï¿½for producing biofuels and lower-pollution coal firing. VIASPACEï¿½s alternative energy subsidiary owns a portfolio of fuel cell patents licensed from California Institute of Technology (Caltech) and designs and manufactures fuel cartridges that supply methanol for fuel cells as alternatives to batteries for small electronics such as notebook computers and cell phones. VIASPACE is also involved in ongoing high-technology collaborations with Caltech, NASA's Jet Propulsion Laboratory, General Dynamics Corp. and other entities engaged in defense and homeland security." />
 <link href="css/style.css" media="all" rel="stylesheet" type="text/css" />	
 <link href="css/dropdown.css" media="all" rel="stylesheet" type="text/css" />
 <link href="css/default.advanced.css" media="all" rel="stylesheet" type="text/css" />
-<script type="text/javascript" src="js/swfobject.js"></script>
+<script
+			  src="https://code.jquery.com/jquery-3.1.1.js"
+			  integrity="sha256-16cdPddA6VdVInumRGo6IbivbERE8p7CQR3HzTBuELA="
+			  crossorigin="anonymous">
+</script>
+
 </head>
 
  <body>
@@ -44,12 +49,18 @@ $page_keywords		= $objPage->meta_keywords;
 			<?php include_once ("inc_menu2.php"); ?>
 
 			<div id="main" class="main">
-				<div id="flashcontent"></div>
-				<script type="text/javascript">
-				   var so = new SWFObject("viaspace_main.swf", "mymovie", "900", "225", "7", "#FFFFFF");
-				   so.addParam("wmode", "transparent");
-				   so.write("flashcontent");
-				</script>
+				<!-- 900x255 -->
+				<div id="wait-to-load">
+					<img src="images/wait.gif" alt="wait" />
+				</div>
+				<div id="imagescroll">
+					<div><img src="images/main.jpg"/></div>
+					<div><img src="images/main6.jpg"/></div>
+					<div><img src="images/main2.jpg"/></div>
+					<div><img src="images/main3.jpg"/></div>
+					<div><img src="images/main4.jpg"/></div>
+					<div><img src="images/main5.jpg"/></div>
+				</div>
 			</div>
 			<div id="indexbody" class="indexbody">
 				<table border="0" width="100%" cellpadding="0">
@@ -188,6 +199,11 @@ $page_keywords		= $objPage->meta_keywords;
 					</div>
 
 				</div>
+				<script type="text/javascript" src="js/slick.js"></script>
+				<script type="text/javascript" src="js/scripts.js"></script>
+				<script type="text/javascript" >
+					$(".single-item").slick();
+				</script>
 				<!--[if lt IE 7]>
 				<center><b><font color="red">** Your Internet browser may not be compatible with this website, it is recommended that you upgrade your copy of Internet Explorer.  **</font></b><p><a href="http://www.microsoft.com/windows/Internet-explorer/default.aspx" target="_blank"><b>Click here</b></a> to upgrade your Internet browser.</p></center>
 				<![endif]-->
