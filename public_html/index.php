@@ -97,7 +97,7 @@ $page_keywords		= $objPage->meta_keywords;
 									<td class="title_re2"><img src="images/clear.gif" width="250" height="20" alt="Giant King Grass" title="Giant King Grass" /><br />
 									<table cellpadding="10">
 										<tr>
-											<td>Proprietary Giant King Grass is highest yielding biomass crop in the world.  Bio-electricity, biogas, biofuels, biochemicals, bio plastics, and biomaterials all need biomass as feedstock, and Giant King Grass is suitable for these applications. Because of its high yield, it is a low-cost feedstock. Equally important, Giant King Grass provides the reliable and well-characterized feedstock that is required by banks and investors in order to provide financing for these bioenergy projects. Giant King Grass is a natural plant, and is not genetically modified and not an invasive species.</td>
+											<td>Proprietary Giant King Grass<sup>&reg;</sup> is highest yielding biomass crop in the world.<a id="more-king-grass"> &nbsp;more...</a> <span id="less-king-grass"> Bio-electricity, biogas, biofuels, biochemicals, bio plastics, and biomaterials all need biomass as feedstock, and Giant King Grass<sup>&reg;</sup> is suitable for these applications. Because of its high yield, it is a low-cost feedstock. Equally important, Giant King Grass<sup>&reg;</sup> provides the reliable and well-characterized feedstock that is required by banks and investors in order to provide financing for these bioenergy projects. Giant King Grass<sup>&reg;</sup> is a natural plant, and is not genetically modified and not an invasive species.<a id="show-less-king-grass">&nbsp;less</a> </span></td>
 										</tr>
 									</table>
 									</td>
@@ -111,7 +111,7 @@ $page_keywords		= $objPage->meta_keywords;
 									<td class="title_ae2"><img src="images/clear.gif" width="250" height="20" alt="VIASPACE Business" title="VIASPACE Business" /><br />
 									<table cellpadding="10">
 										<tr>
-											<td>VIASPACE provides Giant King<sup>&trade;</sup> Grass seedlings and technical expertise to qualified bioenergy projects that need a low-cost and reliable fuel or feedstock. VIASPACE will also serve as a project developer or codeveloper for power plant or pellet mill projects, together with local partners that have land and requirements for electricity, heat, pellets, biogas or biofuels. VIASPACE and its partners have the capability to deliver an integrated Giant King Grass plantation and biomass power plant project in 24 months.  VIASPACE has financial models for power plants and pellet mills.</td>
+											<td>VIASPACE provides Giant King<sup>&reg;</sup> Grass seedlings and technical expertise to <a id="more-viaspace"> &nbsp;more...</a> <span id="less-viaspace">qualified bioenergy projects that need a low-cost and reliable fuel or feedstock. VIASPACE will also serve as a project developer or codeveloper for power plant or pellet mill projects, together with local partners that have land and requirements for electricity, heat, pellets, biogas or biofuels. VIASPACE and its partners have the capability to deliver an integrated Giant King Grass<sup>&reg;</sup> plantation and biomass power plant project in 24 months.  VIASPACE has financial models for power plants and pellet mills.<a id="show-less-viaspace">&nbsp;less</a></span></td>	
 										</tr>
 									</table> 
 									</td>
@@ -125,13 +125,13 @@ $page_keywords		= $objPage->meta_keywords;
 									<td class="title_ms2"><img src="images/clear.gif" width="250" height="20" alt="Giant King Grass Data" title="Giant King Grass Data" /><br />
 									<table cellpadding="10">
 										<tr>
-											<td>Giant King Grass has been tested in many independent laboratories.
-													<ul>
+											<td>Giant King Grass<sup>&reg;</sup> has been tested in many independent laboratories. <a id="more-labs"> &nbsp;more...</a>
+													<ul id="less-labs">
 														<li>Energy: 18.4 MJ/dry kg= 4400 kcal/kg=7900 BTU/lb (GCV)</li>
 														<li>Biogas: 539-758 liters/dry kg; 51-57% methane</li>
 														<li>Biofuels: Glucan 43%; Xylan 22%; Arabinan 3% Lignin 17%</li>
 														<li>Cellulosic ethanol: 326-333 liters/dry mt (78.5-80 gal/US ton)</li>
-														<li>Cellulosic ethanol:  33,000 liters/hectare (3500 gal/acre)</li>
+														<li>Cellulosic ethanol:  33,000 liters/hectare (3500 gal/acre)<a id="show-less-labs">&nbsp;less</a></li>
 													</ul>
 											</td>
 										</tr>
