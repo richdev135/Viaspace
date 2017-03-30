@@ -1,6 +1,6 @@
 <?php
-//echo 'SITE '.$_SERVER['PHP_SELF'];
-if ($_SERVER['PHP_SELF']=='/index.php') {
+echo 'SITE '.$_SERVER['PHP_SELF'];
+if ($_SERVER['PHP_SELF']=='/index.php' || $_SERVER['PHP_SELF']=='/proto/index.php' ) {
 ?>
 
 <style>
@@ -18,7 +18,7 @@ if ($_SERVER['PHP_SELF']=='/index.php') {
 				<a href="/"><img src="images/logo.jpg" alt="Viaspace Home Page" /></a>					
 			</td>
 			<td style="vertical-align:top">
-				<a href="/" title="Home">Home</a> &nbsp;|&nbsp; <a href="contactus.php" title="Contact Us">Contact Us</a> &nbsp;|&nbsp; <a href="mailing_list.php" title="Join our Mailing List">Join our Mailing List</a><br />
+				<a href=<?php echo $_SERVER['PHP_SELF'] ?>  title="Home">Home</a> &nbsp;|&nbsp; <a href="contactus.php" title="Contact Us">Contact Us</a> &nbsp;|&nbsp; <a href="mailing_list.php" title="Join our Mailing List">Join our Mailing List</a><br />
 		
 				<div class="linkstop1">
 					<!-- AddThis Follow BEGIN -->						
