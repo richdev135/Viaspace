@@ -13,6 +13,7 @@
 				$this->host		= "localhost";
 				$this->username	= "viaspace_jeff";
 				$this->password	= "jeffpark1";
+
 			}elseif($this->server == "MSSQL"){
 				//if database is in MSSQL
 				$this->host		= "localhost";

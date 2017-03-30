@@ -86,12 +86,10 @@ $page_keywords		= $objPage->meta_keywords;
 				</div>
 			</div>
 			<div id="indexbody" class="indexbody">
+				<hr width="40%" />
 				<table border="0" width="100%" cellpadding="0">
 					<tr>
-						<td colspan="5"><img src="images/mid_top.jpg" alt="" /></td>
-					</tr>
-					<tr>
-						<td width="300" valign="top">
+						<td width="300" valign="center">
 							<table cellpadding="0">
 								<tr>
 									<td class="title_re2"><img src="images/clear.gif" width="250" height="20" alt="Giant King Grass" title="Giant King Grass" /><br />
