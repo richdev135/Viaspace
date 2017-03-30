@@ -161,7 +161,7 @@ $page_keywords		= $objPage->meta_keywords;
 									$title = $v["vspc_title"];
 									$newtitle = ucwords(strtolower($title));
 									$newtitle = str_replace("Viaspace","VIASPACE",$newtitle);
-									echo "<span style=\"display:block;float:left;width:100%;min-height:35px;vertical-align:middle;padding:5px;border-bottom:1px solid #EAF1F2;margin-bottom:5px;\"><font size=\"3\" color=\"#18325a\"><b>Latest Press Release</b></font></span>";
+									echo "<span class='press-title-heading' \"><font size=\"3\" color=\"#18325a\"><b>Latest Press Release</b></font></span>";
 									echo "<p style='line-height: 30px'><img src='images/article-icon.png' style='vertical-align: middle' />&nbsp;<a class=\"latestnews\" href=\"".$href."\">".$newtitle."</a>";	
 								}
 							}
@@ -185,10 +185,10 @@ $page_keywords		= $objPage->meta_keywords;
 									}else{
 										$date = "";
 									}
-									$title = $v["vspc_title"];
-									$newtitle = ucwords(strtolower($title));
-									$newtitle = str_replace("Viaspace","VIASPACE",$newtitle);
-									echo "<span style=\"display:block;float:left;width:100%;min-height:35px;vertical-align:middle;padding:5px;border-bottom:1px solid #EAF1F2;margin-bottom:5px;\"><font size=\"3\" color=\"#18325a\"><b>".$newtitle."</b></font></span>";
+//									$title = $v["vspc_title"];
+//									$newtitle = ucwords(strtolower($title));
+									$newtitle = "<b>Latest Presentation</b>";
+									echo "<span class='press-title-heading' \"><font size=\"3\" color=\"#18325a\"><b>".$newtitle."</b></font></span>";
 									echo "<p style='line-height: 30px'><img src='images/pdf-icon.png' style='vertical-align: middle' />&nbsp;<a class=\"latestnews\" href=\"".$href."\">".$v["vspc_location"]." ".$date."</a>";	
 								}
 							}
@@ -212,7 +212,7 @@ $page_keywords		= $objPage->meta_keywords;
 										$date = "";
 									}
 									$title = $v["vspc_title"];
-									echo "<span style=\"display:block;float:left;width:100%;min-height:35px;vertical-align:middle;padding:5px;border-bottom:1px solid #EAF1F2;margin-bottom:5px;\"><font size=\"3\" color=\"#18325a\"><b>In the News</b></font></span>";
+									echo "<span class='press-title-heading' \"><font size=\"3\" color=\"#18325a\"><b>In the News</b></font></span>";
 									echo "<p style='line-height: 30px'><img src='images/article-icon.png' style='vertical-align: middle' />&nbsp;<a class=\"latestnews\" href=\"".$href."\">".$title."</a>";	
 								}
 							}

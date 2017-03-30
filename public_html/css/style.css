@@ -135,6 +135,12 @@ ul.arrowlist li {
 	float: right;
 	margin: 1px;
 	padding: 1px;		
+	border: 1px solid green;
+}
+#header_center {
+	position: relative;
+	left:10px;
+	border: 1px blue dashed;
 }
 .linkstop {		
 	width: auto;
@@ -142,6 +148,7 @@ ul.arrowlist li {
 	padding-right: 20px;
 	text-align: right;		
 	font-weight: bold;
+	border: 1px solid red;
 }
 .ticker {
 	font-weight: normal;
@@ -217,7 +224,7 @@ ul.arrowlist li {
 	float:left;
 	width: 880px;
 	min-height: 80px;	
-	margin: 10px 0 20px 0;
+	margin: 10px 0 5px 0;
 	padding: 10px;
 	font-size: 12px;
 	font-weight: normal;
@@ -421,3 +428,14 @@ div.figureright p {
 	top:100px;
 	text-align: center;
 }
+.press-title-heading {
+	display: block;
+	float:left;
+	width:100%;
+	min-height: 15px;
+	vertical-align: middle;
+	padding: 1px;
+	border-bottom: 1px solid #EAF1F2;
+	margin-bottom: 1px;
+}
+
