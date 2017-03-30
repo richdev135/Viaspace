@@ -67,7 +67,7 @@ $page_keywords		= $objPage->meta_keywords;
  
  <div id="main_container" class="main_container">
 	
-		<?php include_once('inc_header.php'); ?>
+		<?php include_once('./inc_header1.php'); ?>
 
 			<?php include_once ("inc_menu2.php"); ?>
 
