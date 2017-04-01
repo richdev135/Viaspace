@@ -49,6 +49,8 @@ $page_keywords		= $objPage->meta_keywords;
 				setTimeout(function(){
 					$("#wait-to-load").hide(100);
 					$("#imagescroll").show(200);
+					// stupid hack
+					$("#newslist").removeClass("dropdown");
 				},250);
 
 				$("#imagescroll").slick({
@@ -60,7 +62,8 @@ $page_keywords		= $objPage->meta_keywords;
 					speed: 500,
 					fade: true,
 					cssEase: 'linear'
-					});
+				});
+				
 				}
 		);
 	</script> 

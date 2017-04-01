@@ -1,4 +1,3 @@
-<div id="mailinglist"><a href="mailing_list.php" title="Join our Mailing List"><img src="images/join-our-email-list.png" alt="Join our Mailing List" title="Join our Mailing List" /></a></div>
 <div id="menu" class="menu">
 	<ul id="nav" class="dropdown dropdown-horizontal">	
 		<li class="audir2">

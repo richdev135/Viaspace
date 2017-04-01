@@ -63,11 +63,57 @@ ul.dropdown {
 		ul.dropdown ul a:hover { color: #000; text-decoration: none; }
 		ul.dropdown ul a:active { color: #000; }
 
-			ul.dropdown ul ul {
-			 display: none;
-			}
+		ul.dropdown ul ul {
+			display: none;
+		}
 
-			ul.dropdown ul ul li {}
+		ul.dropdown ul ul:hover {
+			display: block;
+		}
+
+
+/**  dynamic menus 3/31/2017 ***/
+#multilevel {
+	position: relative;
+	display: block;
+}
+
+#multilevel ul:hover {
+	display: block;
+}
+
+.flyout {
+  position: relative;
+}
+.dropdown:after {
+  content: "\25BC";
+  font-size: .5em;
+  display: block;
+  position: absolute;
+  top: 38%;
+  right: 12%;
+}
+.drop-nav,
+.flyout-nav {
+  position: absolute;
+  display: none;
+}
+.drop-nav li {
+  border-bottom: 1px solid rgba(255,255,255,.2);
+}
+.dropdown:hover > .drop-nav,
+.flyout:hover > .flyout-nav {
+  display: block;
+}
+.flyout-nav {
+  left: 100%;
+  top: 0;
+}
+.flyout:hover a,
+.flyout-nav {
+  background: #395066;
+}
+
 
 /* ----- END LEVEL */
 

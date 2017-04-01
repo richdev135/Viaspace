@@ -14,9 +14,6 @@ if ($_SERVER['PHP_SELF']=='/index.php' || $_SERVER['PHP_SELF']=='/proto/index.ph
 <div id="header_wrapper" class="header_wrapper">
 	<table border="0" width="100%">
 		<tr>
-			<td>
-				<a href="/"><img src="images/logo.jpg" alt="Viaspace Home Page" /></a>					
-			</td>
 			<td style="vertical-align:top">
 				<a href=<?php echo $_SERVER['PHP_SELF'] ?>  title="Home">Home</a> &nbsp;|&nbsp; <a href="contactus.php" title="Contact Us">Contact Us</a> &nbsp;|&nbsp; <a href="mailing_list.php" title="Join our Mailing List">Join our Mailing List</a><br />
 		
@@ -30,6 +27,9 @@ if ($_SERVER['PHP_SELF']=='/index.php' || $_SERVER['PHP_SELF']=='/proto/index.ph
 					<script type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-509048af359b85d8"></script>
 					<!-- AddThis Follow END -->			
 				</div>					
+			</td>
+			<td>
+				<a href="/"><img src="images/viaspace_logo_notagline.jpg" alt="Viaspace Home Page" /></a>					
 			</td>
 			<td style="vertical-align:top">
 				<?php
