@@ -1,5 +1,5 @@
 <?php
-echo 'SITE '.$_SERVER['PHP_SELF'];
+//echo 'SITE '.$_SERVER['PHP_SELF'];
 if ($_SERVER['PHP_SELF']=='/index.php' || $_SERVER['PHP_SELF']=='/proto/index.php' ) {
 ?>
 

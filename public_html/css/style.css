@@ -96,8 +96,8 @@ ul.arrowlist li {
 }
 #test_container_template {
 	position: relative;			
-	width: 900px;
-	min-height: 1050px;
+	/** width: 900px;
+	min-height: 1050px; **/
 	margin: 0 auto;
 	margin-top: 7px;
 	padding: 0;
@@ -317,8 +317,12 @@ ul.arrowlist li {
 	background: #FFFFFF;
 	border: 1px #612d7f solid;
 }
-.title_re {
-	background: #fff url('../images/title_re.jpg') no-repeat 10px 0px;
+.title_re{
+	font-family: "Times New Roman", Times, serif;
+	font-size: 24px;
+	font-weight: 900;
+	color: blue;
+	margin-left: 12px;
 }
 .title_ae {
 	background: #fff url('../images/title_ae.jpg') no-repeat 10px 0px;

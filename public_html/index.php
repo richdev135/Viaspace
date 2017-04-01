@@ -89,13 +89,17 @@ $page_keywords		= $objPage->meta_keywords;
 				</div>
 			</div>
 			<div id="indexbody" class="indexbody">
-				<hr width="40%" />
+
 				<table border="0" width="100%" cellpadding="0">
 					<tr>
-						<td width="300" valign="center">
+						<td width="300" valign="bottom">
 							<table cellpadding="0">
 								<tr>
-									<td class="title_re2"><img src="images/clear.gif" width="250" height="20" alt="Giant King Grass" title="Giant King Grass" /><br />
+									<td>
+										<span  class="title_re"  style="margin-top:10px;">
+											Giant King<sup>&reg;</sup> Grass
+										</span>
+										<br />
 									<table cellpadding="10">
 										<tr>
 											<td>Proprietary Giant King Grass<sup>&reg;</sup> is highest yielding biomass crop in the world.<a id="more-king-grass"> &nbsp;more...</a> <span id="less-king-grass"> Bio-electricity, biogas, biofuels, biochemicals, bio plastics, and biomaterials all need biomass as feedstock, and Giant King Grass<sup>&reg;</sup> is suitable for these applications. Because of its high yield, it is a low-cost feedstock. Equally important, Giant King Grass<sup>&reg;</sup> provides the reliable and well-characterized feedstock that is required by banks and investors in order to provide financing for these bioenergy projects. Giant King Grass<sup>&reg;</sup> is a natural plant, and is not genetically modified and not an invasive species.<a id="show-less-king-grass">&nbsp;less</a> </span></td>
@@ -106,10 +110,14 @@ $page_keywords		= $objPage->meta_keywords;
 							</table>
 						</td>
 						<td width="1" bgcolor="#e1e1e1"></td>
-						<td width="298" valign="top">
+						<td width="298" valign="bottom">
 							<table cellpadding="0">
 								<tr>
-									<td class="title_ae2"><img src="images/clear.gif" width="250" height="20" alt="VIASPACE Business" title="VIASPACE Business" /><br />
+									<td><br />
+										<span  class="title_re">
+											VIASPACE Business
+										</span>
+									
 									<table cellpadding="10">
 										<tr>
 											<td>VIASPACE provides Giant King<sup>&reg;</sup> Grass seedlings and technical expertise to <a id="more-viaspace"> &nbsp;more...</a> <span id="less-viaspace">qualified bioenergy projects that need a low-cost and reliable fuel or feedstock. VIASPACE will also serve as a project developer or codeveloper for power plant or pellet mill projects, together with local partners that have land and requirements for electricity, heat, pellets, biogas or biofuels. VIASPACE and its partners have the capability to deliver an integrated Giant King Grass<sup>&reg;</sup> plantation and biomass power plant project in 24 months.  VIASPACE has financial models for power plants and pellet mills.<a id="show-less-viaspace">&nbsp;less</a></span></td>	
@@ -120,10 +128,14 @@ $page_keywords		= $objPage->meta_keywords;
 							</table>
 						</td>
 						<td width="1" bgcolor="#e1e1e1"></td>
-						<td width="300" valign="top">
+						<td width="300" valign="bottom">
 							<table cellpadding="0">
 								<tr>
-									<td class="title_ms2"><img src="images/clear.gif" width="250" height="20" alt="Giant King Grass Data" title="Giant King Grass Data" /><br />
+									<td style="vertical-align:bottom;">
+										<span  class="title_re" >
+											Giant King<sup>&reg</sup> Grass Data
+										</span>
+									<br />
 									<table cellpadding="10">
 										<tr>
 											<td>Giant King Grass<sup>&reg;</sup> has been tested in many independent laboratories. <a id="more-labs"> &nbsp;more...</a>
