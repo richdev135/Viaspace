@@ -43,8 +43,8 @@
 				<!-- <li><a href="ir_governance.php">> Corporate Governance</a></li> -->		
 			</ul>
 		</li>	
-		<li class="menu-item">
-			<span class="menu-text">News</span>
+		<li class="menu-item" id="news-menu">
+			<span class="menu-text" >News</span>
 			<ul>
 				<li class="empty">News</li>
 				<li><a href="pressreleases.php">> Press Releases</a></li>

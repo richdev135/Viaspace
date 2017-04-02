@@ -210,15 +210,6 @@ ul.arrowlist li {
 	border-right: solid 1px #e0e0e0;
 	background: url('../images/lmenu_right_bg.jpg') no-repeat top right;
 }
-#body_bottom {
-	position: relative;
-	float: left;
-	width: 900px;		
-	height: 18px;
-	margin: 0;
-	padding: 0;
-	background: url('../images/body_bottom.jpg') no-repeat top left;
-}
 #presentation {
 	position: relative;	
 	display:block;

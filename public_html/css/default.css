@@ -124,7 +124,8 @@ ul.dropdown .left-end {
 	width: 133px;
 	height: 27px;	
 	text-decoration: none; 
-	background-color: #1b509e;
+/*	background-color: #1b509e; */
+	background-color: #056e64;
 	border-bottom: 4px #BABA10 solid;
 	border-radius: 6px 0 0 0;
 	padding-top: 15px;
@@ -135,17 +136,17 @@ ul.dropdown .menu-item {
 	width: 153px;
 	height: 27px;	
 	text-decoration: none; 
-	background-color: #1b509e;
+	background-color: #056e64;
 	border-bottom: 4px #BABA10 solid;
 	padding-top: 15px;
 /*	background: url("../images/menu_re2.jpg"); */
 }
 ul.dropdown .right-end {
 	display:block;
-	width: 155px;
+	width: 208px;
 	height: 27px;	
 	text-decoration: none; 
-	background-color: #1b509e;
+	background-color: #056e64;
 	border-bottom: 4px #BABA10 solid;
 	border-radius: 0 6px 0 0;
 	padding-top: 15px;
@@ -153,10 +154,26 @@ ul.dropdown .right-end {
 /*	background: url("../images/menu_empty2.jpg");	*/
 }
 
+#body_bottom {
+	position: relative;
+	float: left;
+	width: 900px;		
+	height: 18px;
+	margin: 0;
+	padding: 0;
+	background-color: #056e64;
+	border-top: 4px #BABA10 solid;
+}
+
+
 ul.dropdown  .menu-text {
 	position: relative;
 	font-weight: 600;
 	padding-left: 20px;
+}
+
+#news-menu {
+	width:100px;
 }
 
 #menu-text-superscript {

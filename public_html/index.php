@@ -26,12 +26,12 @@ $page_keywords		= $objPage->meta_keywords;
 <head>
 <title> Viaspace : A Clean Energy Company  </title>
 <meta name="generator" content="editplus" />
-<meta name="author" content="Blue Reef Designs" />
+<meta name="author" content="Rich Buff developer" />
 <meta name="keywords" content="clean energy, renewable energy, Green energy, Biofuels, non-food, non-fossil, fossil fuels, non-petroleum, agriculture, coal firing, grass, Biocoal, biomass, low carbon, cellulosic biofuels, ethanol, Grassoline, Co-firing, animal feed, pig feed, cattle feed, dairy cow feed, fish feed, switchgrass, miscanthus, Direct Methanol Fuel Cell Corporation, clean energy, clean conversion, battery replacement, alternative power source, small electronics, consumer electronics, disposable fuel cartridge, innovative power source, Fuel cell, direct methanol fuel cell, DMFC, fuel cartridge, patents, methanol, framed art, wholesale framed art, wholesale custom framed art" />
 <meta name="description" content="VIASPACE Inc. is a clean energy company developing technology and products for renewable and alternative energy to reduce or eliminate dependence on fossil fuels and other high-pollutant energy sources. VIASPACE�s green energy subsidiary produces renewable low-carbon cellulosic feedstock�a proprietary fast-growing grass that can be harvested four times a year�for producing biofuels and lower-pollution coal firing. VIASPACE�s alternative energy subsidiary owns a portfolio of fuel cell patents licensed from California Institute of Technology (Caltech) and designs and manufactures fuel cartridges that supply methanol for fuel cells as alternatives to batteries for small electronics such as notebook computers and cell phones. VIASPACE is also involved in ongoing high-technology collaborations with Caltech, NASA's Jet Propulsion Laboratory, General Dynamics Corp. and other entities engaged in defense and homeland security." />
-<link href="css/style.css" media="all" rel="stylesheet" type="text/css" />	
-<link href="css/dropdown.css" media="all" rel="stylesheet" type="text/css" />
-<link href="css/default.advanced.css" media="all" rel="stylesheet" type="text/css" />
+<link href="css/style.css?v=2" media="all" rel="stylesheet" type="text/css" />	
+<link href="css/dropdown.css?v=2" media="all" rel="stylesheet" type="text/css" />
+<link href="css/default.advanced.css?v=2" media="all" rel="stylesheet" type="text/css" />
 <link href="css/slick.css" rel="stylesheet" type="text/css" />
 <link href="css/slick-theme.css" rel="stylesheet" type="text/css" />
 <script
@@ -101,7 +101,7 @@ $page_keywords		= $objPage->meta_keywords;
 										<br />
 									<table cellpadding="10">
 										<tr>
-											<td>Proprietary Giant King Grass<sup>&reg;</sup> is highest yielding biomass crop in the world.<a id="more-king-grass"> &nbsp;more...</a> <span id="less-king-grass"> Bio-electricity, biogas, biofuels, biochemicals, bio plastics, and biomaterials all need biomass as feedstock, and Giant King Grass<sup>&reg;</sup> is suitable for these applications. Because of its high yield, it is a low-cost feedstock. Equally important, Giant King Grass<sup>&reg;</sup> provides the reliable and well-characterized feedstock that is required by banks and investors in order to provide financing for these bioenergy projects. Giant King Grass<sup>&reg;</sup> is a natural plant, and is not genetically modified and not an invasive species.<a id="show-less-king-grass">&nbsp;less</a> </span></td>
+											<td>Proprietary Giant King Grass<sup>&reg;</sup> is highest yielding biomass crop in the world.<a class="more-text" id="more-king-grass"> &nbsp;more...</a> <span class="full-text" id="less-king-grass"> Bio-electricity, biogas, biofuels, biochemicals, bio plastics, and biomaterials all need biomass as feedstock, and Giant King Grass<sup>&reg;</sup> is suitable for these applications. Because of its high yield, it is a low-cost feedstock. Equally important, Giant King Grass<sup>&reg;</sup> provides the reliable and well-characterized feedstock that is required by banks and investors in order to provide financing for these bioenergy projects. Giant King Grass<sup>&reg;</sup> is a natural plant, and is not genetically modified and not an invasive species.<a class="less-text" id="show-less-king-grass">&nbsp;less</a> </span></td>
 										</tr>
 									</table>
 									</td>
@@ -119,7 +119,7 @@ $page_keywords		= $objPage->meta_keywords;
 									
 									<table cellpadding="10">
 										<tr>
-											<td>VIASPACE provides Giant King<sup>&reg;</sup> Grass seedlings and technical expertise to <a id="more-viaspace"> &nbsp;more...</a> <span id="less-viaspace">qualified bioenergy projects that need a low-cost and reliable fuel or feedstock. VIASPACE will also serve as a project developer or codeveloper for power plant or pellet mill projects, together with local partners that have land and requirements for electricity, heat, pellets, biogas or biofuels. VIASPACE and its partners have the capability to deliver an integrated Giant King Grass<sup>&reg;</sup> plantation and biomass power plant project in 24 months.  VIASPACE has financial models for power plants and pellet mills.<a id="show-less-viaspace">&nbsp;less</a></span></td>	
+											<td>VIASPACE provides Giant King<sup>&reg;</sup> Grass seedlings and technical expertise to <a class="more-text" id="more-viaspace"> &nbsp;more...</a> <span id="less-viaspace" class="full-text">qualified bioenergy projects that need a low-cost and reliable fuel or feedstock. VIASPACE will also serve as a project developer or codeveloper for power plant or pellet mill projects, together with local partners that have land and requirements for electricity, heat, pellets, biogas or biofuels. VIASPACE and its partners have the capability to deliver an integrated Giant King Grass<sup>&reg;</sup> plantation and biomass power plant project in 24 months.  VIASPACE has financial models for power plants and pellet mills.<a class="less-text" id="show-less-viaspace">&nbsp;less</a></span></td>	
 										</tr>
 									</table> 
 									</td>
@@ -137,13 +137,13 @@ $page_keywords		= $objPage->meta_keywords;
 									<br />
 									<table cellpadding="10">
 										<tr>
-											<td>Giant King Grass<sup>&reg;</sup> has been tested in many independent laboratories. <a id="more-labs"> &nbsp;more...</a>
-													<ul id="less-labs">
+											<td>Giant King Grass<sup>&reg;</sup> has been tested in many independent laboratories. <a class="more-text" id="more-labs"> &nbsp;more...</a>
+													<ul id="less-labs" class="full-text">
 														<li>Energy: 18.4 MJ/dry kg= 4400 kcal/kg=7900 BTU/lb (GCV)</li>
 														<li>Biogas: 539-758 liters/dry kg; 51-57% methane</li>
 														<li>Biofuels: Glucan 43%; Xylan 22%; Arabinan 3% Lignin 17%</li>
 														<li>Cellulosic ethanol: 326-333 liters/dry mt (78.5-80 gal/US ton)</li>
-														<li>Cellulosic ethanol:  33,000 liters/hectare (3500 gal/acre)<a id="show-less-labs">&nbsp;less</a></li>
+														<li>Cellulosic ethanol:  33,000 liters/hectare (3500 gal/acre)<a class="less-text" id="show-less-labs">&nbsp;less</a></li>
 													</ul>
 											</td>
 										</tr>
