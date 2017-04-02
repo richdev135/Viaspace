@@ -80,12 +80,11 @@ $page_keywords		= $objPage->meta_keywords;
 					<img src="images/wait.gif" alt="wait" />
 				</div>
 				<div id="imagescroll">
-					<div><img src="images/main.jpg"/></div>
-					<div><img src="images/main2.jpg"/></div>
-					<div><img src="images/main3.jpg"/></div>
-					<div><img src="images/main4.jpg"/></div>
-					<div><img src="images/main5.jpg"/></div>
-					<div><img src="images/main6.jpg"/></div>
+					<div><img src="images/imain.jpg"/></div>
+					<div><img src="images/imain2.jpg"/></div>
+					<div><img src="images/imain3.jpg"/></div>
+					<div><img src="images/imain4.jpg"/></div>
+					<div><img src="images/imain6.jpg"/></div>
 				</div>
 			</div>
 			<div id="indexbody" class="indexbody">

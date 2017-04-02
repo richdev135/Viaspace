@@ -1,7 +1,7 @@
 			<div id="body_bottom" class="body_bottom"></div>
 			<div id="footer" class="footer">				
-				<a href="contactus.php">Contact Us</a> | <a href="au_careers.php">Careers</a> | <a href="privacy.php">Privacy Policy</a> | <a href="terms.php">Terms of Use</a> | <a href="http://www.bluereefdesigns.com">A Blue Reef Website</a> | &copy; <?php echo date('Y'); ?> VIASPACE All Rights Reserved.				
-			</div><br />	
+				<a href="privacy.php">Privacy Policy</a> | <a href="terms.php">Terms of Use</a> | &copy; <?php echo date('Y'); ?> VIASPACE All Rights Reserved.				
+			</div>
 
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");

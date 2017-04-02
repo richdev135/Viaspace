@@ -14,7 +14,7 @@ if ($_SERVER['PHP_SELF']=='/index.php' || $_SERVER['PHP_SELF']=='/proto/index.ph
 <div id="header_wrapper" class="header_wrapper">
 	<table border="0" width="100%">
 		<tr>
-			<td style="vertical-align:top">
+			<td style="vertical-align:top;width:200px">
 				<a href=<?php echo $_SERVER['PHP_SELF'] ?>  title="Home">Home</a> &nbsp;|&nbsp; <a href="contactus.php" title="Contact Us">Contact Us</a> &nbsp;|&nbsp; <a href="mailing_list.php" title="Join our Mailing List">Join our Mailing List</a><br />
 		
 				<div class="linkstop1">
