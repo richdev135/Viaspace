@@ -122,7 +122,7 @@ ul.dropdown {
 ul.dropdown .left-end {
 	display:block;
 	width: 133px;
-	height: 37px;	
+	height: 27px;	
 	text-decoration: none; 
 	background-color: #1b509e;
 	border-bottom: 4px #BABA10 solid;
@@ -133,7 +133,7 @@ ul.dropdown .left-end {
 ul.dropdown .menu-item {
 	display:block;
 	width: 153px;
-	height: 37px;	
+	height: 27px;	
 	text-decoration: none; 
 	background-color: #1b509e;
 	border-bottom: 4px #BABA10 solid;
@@ -143,7 +143,7 @@ ul.dropdown .menu-item {
 ul.dropdown .right-end {
 	display:block;
 	width: 155px;
-	height: 37px;	
+	height: 27px;	
 	text-decoration: none; 
 	background-color: #1b509e;
 	border-bottom: 4px #BABA10 solid;
@@ -170,6 +170,6 @@ ul.dropdown  .menu-text {
 	position: relative;
 	font-weight: 600;
 	padding-left: 0px;
-	border-left: 1px white solid;	
+	border-left: 0px #11a290 solid;	
 }
 /* ----- END LEVEL */
