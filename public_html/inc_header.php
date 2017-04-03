@@ -29,7 +29,7 @@ if ($_SERVER['PHP_SELF']=='/index.php' || $_SERVER['PHP_SELF']=='/proto/index.ph
 				</div>					
 			</td>
 			<td>
-				<a href="/"><img src="images/viaspace_logo_notagline.jpg" alt="Viaspace Home Page" /></a>					
+				<a href="/"><img src="images/viaspace_logo_notagline.sm.jpg" alt="Viaspace Home Page" /></a>					
 			</td>
 			<td style="vertical-align:top">
 				<?php
@@ -46,17 +46,6 @@ if ($_SERVER['PHP_SELF']=='/index.php' || $_SERVER['PHP_SELF']=='/proto/index.ph
 			</td>
 		</tr>
 	</table>
-
-<!--
-	<div id="header_left" class="header_left">
-	</div>
-
-	<div id="header_center">	
-	</div>
-	<div id="header_right" class="header_right">
-	</div>
-
--->
 
 </div>
 

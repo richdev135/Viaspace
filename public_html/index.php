@@ -91,26 +91,29 @@ $page_keywords		= $objPage->meta_keywords;
 
 				<table border="0" width="100%" cellpadding="0">
 					<tr>
-						<td width="300" valign="bottom">
+						<td width="300" valign="top" style="padding-top:6px;">
 							<table cellpadding="0">
 								<tr>
 									<td>
-										<span  class="title_re"  style="margin-top:10px;">
+										<span  class="title_re">
 											Giant King<sup>&reg;</sup> Grass
 										</span>
 										<br />
 									<table cellpadding="10">
 										<tr>
-											<td>Proprietary Giant King Grass<sup>&reg;</sup> is highest yielding biomass crop in the world.<a class="more-text" id="more-king-grass"> &nbsp;more...</a> <span class="full-text" id="less-king-grass"> Bio-electricity, biogas, biofuels, biochemicals, bio plastics, and biomaterials all need biomass as feedstock, and Giant King Grass<sup>&reg;</sup> is suitable for these applications. Because of its high yield, it is a low-cost feedstock. Equally important, Giant King Grass<sup>&reg;</sup> provides the reliable and well-characterized feedstock that is required by banks and investors in order to provide financing for these bioenergy projects. Giant King Grass<sup>&reg;</sup> is a natural plant, and is not genetically modified and not an invasive species.<a class="less-text" id="show-less-king-grass">&nbsp;less</a> </span></td>
+											<td>
+											Giant King Grass is highest yielding and lowest cost biomass crop in the world.<a class="more-text" id="more-king-grass"> &nbsp;more...</a> <span class="full-text" id="less-king-grass">Bio-electricity, biogas, energy pellets, biofuels, biochemicals and bio plastics can all be made from Giant King Grass ® . When cut at two months,Giant King Grass is also an excellent animal for cattle, dairy cows, sheep, goats and camels. Equally important to low cost, Giant King Grass ®  provides the reliable and well-characterized feedstock that is required by banks and investors in order to provide financing for these bioenergy projects. Giant King Grass ®  is a natural plant, and is not genetically modified and not an invasive species. 
+											<a class="less-text" id="show-less-king-grass">&nbsp;less</a> </span>
+											</td>
 										</tr>
 									</table>
 									</td>
 								</tr>
 							</table>
 						</td>
-						<td width="1" bgcolor="#e1e1e1"></td>
-						<td width="298" valign="bottom">
-							<table cellpadding="0">
+						<td width="1" border-left="1px solid #e1e1e1; overflow:hidden;"></td>
+						<td width="298" valign="top" >
+							<table cellpadding="0" style="position:relative;top:-10px">
 								<tr>
 									<td><br />
 										<span  class="title_re">
@@ -119,32 +122,38 @@ $page_keywords		= $objPage->meta_keywords;
 									
 									<table cellpadding="10">
 										<tr>
-											<td>VIASPACE provides Giant King<sup>&reg;</sup> Grass seedlings and technical expertise to <a class="more-text" id="more-viaspace"> &nbsp;more...</a> <span id="less-viaspace" class="full-text">qualified bioenergy projects that need a low-cost and reliable fuel or feedstock. VIASPACE will also serve as a project developer or codeveloper for power plant or pellet mill projects, together with local partners that have land and requirements for electricity, heat, pellets, biogas or biofuels. VIASPACE and its partners have the capability to deliver an integrated Giant King Grass<sup>&reg;</sup> plantation and biomass power plant project in 24 months.  VIASPACE has financial models for power plants and pellet mills.<a class="less-text" id="show-less-viaspace">&nbsp;less</a></span></td>	
+											<td>
+											VIASPACE provides Giant King Grass and technical expertise to bioenergy <a class="more-text" id="more-viaspace"> &nbsp;more...</a> <span id="less-viaspace" class="full-text">projects requiring a low-cost and reliable fuel or feedstock. VIASPACE can provide agricultural expertise and business plans, financial models, feasibility studies and engineering designs for direct combustion power plants and anaerobic digesters to produce biogas. VIASPACE and its partners have the capability to deliver an integrated Giant King Grass ®  plantation and biomass power plant project in 24 months or less. VIASPACE licenses Giant King Grass and receives a license fee for every ton harvested. Because of its high yield, Giant King Grass is a much lower cost option than other crops even with the license fee.<a class="less-text" id="show-less-viaspace">&nbsp;less</a></span>
+											</td>
 										</tr>
 									</table> 
 									</td>
 								</tr>
 							</table>
 						</td>
-						<td width="1" bgcolor="#e1e1e1"></td>
-						<td width="300" valign="bottom">
+						<td width="1" border-left="1px solid #e1e1e1"></td>
+						<td width="300" valign="top" style="padding-top:6px;">
 							<table cellpadding="0">
 								<tr>
-									<td style="vertical-align:bottom;">
+									<td style="valign:top;">
 										<span  class="title_re" >
 											Giant King<sup>&reg</sup> Grass Data
 										</span>
 									<br />
 									<table cellpadding="10">
 										<tr>
-											<td>Giant King Grass<sup>&reg;</sup> has been tested in many independent laboratories. <a class="more-text" id="more-labs"> &nbsp;more...</a>
-													<ul id="less-labs" class="full-text">
-														<li>Energy: 18.4 MJ/dry kg= 4400 kcal/kg=7900 BTU/lb (GCV)</li>
-														<li>Biogas: 539-758 liters/dry kg; 51-57% methane</li>
-														<li>Biofuels: Glucan 43%; Xylan 22%; Arabinan 3% Lignin 17%</li>
-														<li>Cellulosic ethanol: 326-333 liters/dry mt (78.5-80 gal/US ton)</li>
-														<li>Cellulosic ethanol:  33,000 liters/hectare (3500 gal/acre)<a class="less-text" id="show-less-labs">&nbsp;less</a></li>
-													</ul>
+											<td>
+												Giant King Grass has been tested in many independent laboratories.<a class="more-text" id="more-labs"> &nbsp;more...</a><span id="less-labs" class="full-text"> This third-party is crucial in determining the feasibility and to obtain financing for bioenergy projects
+												
+												<ul >
+													<li>Energy: 18.4 MJ/dry kg= 4400 kcal/kg=7900 BTU/lb (GCV=HHV)</li>
+													<li>Biomethane: 60.7 L/kg = 0.97 SCF/lb = 952 BTU/lb of fresh grass</li>
+													<li>Biofuels: Glucan 43%; Xylan 22%; Arabinan 3% Lignin 17%</li>
+													<li>Cellulosic ethanol: 326-333 liters/dry metric ton (78.5-80 gal/US ton)</li>
+													<li>Cellulosic ethanol: 33,000 liters/hectare (3500 gal/acre)</li>
+													<li>Crude Protein for animal feed: 12 to 15% of dry matter <a class="less-text" id="show-less-labs">&nbsp;less</a></li>
+												</ul>
+												</span>
 											</td>
 										</tr>
 									</table>

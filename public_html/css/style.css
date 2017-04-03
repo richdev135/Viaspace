@@ -115,7 +115,7 @@ ul.arrowlist li {
 	position: relative;		
 	float: left;	
 	width: 900px;
-	height: 100px;
+	height: 80px;
 	margin: 0;
 	padding: 0;	
 }
@@ -182,7 +182,7 @@ ul.arrowlist li {
 }
 #indexbody {
 	position: relative;
-	top:30px;
+	top:25px;
 	float: left;
 	width: 900px;		
 	margin: 0;
@@ -216,7 +216,7 @@ ul.arrowlist li {
 	float:left;
 	width: 880px;
 	min-height: 80px;	
-	margin: 10px 0 5px 0;
+	margin: 1px 0 5px 0;
 	padding: 10px;
 	font-size: 12px;
 	font-weight: normal;
@@ -309,9 +309,8 @@ ul.arrowlist li {
 	background: #FFFFFF;
 	border: 1px #612d7f solid;
 }
-.title_re{
-	font-family: "Times New Roman", Times, serif;
-	font-size: 24px;
+.title_re {
+	font-size: 17px;
 	font-weight: 900;
 	color: blue;
 	margin-left: 12px;
@@ -437,4 +436,7 @@ div.figureright p {
 #imagescroll img {
 	height: 255px;
 	width: 900px;
+}
+sup {
+	font-size: 10px;
 }
