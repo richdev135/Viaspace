@@ -75,7 +75,7 @@ $page_keywords		= $objPage->meta_keywords;
 			<?php include_once ("inc_menu2.php"); ?>
 
 			<div id="main" class="main">
-				<!-- 900x255 -->
+				<!-- 900x225 -->
 				<div id="wait-to-load">
 					<img src="images/wait.gif" alt="wait" />
 				</div>
@@ -112,7 +112,7 @@ $page_keywords		= $objPage->meta_keywords;
 						</td>
 						<td width="1" border-left="1px solid #e1e1e1; overflow:hidden;"></td>
 						<td width="298" valign="top" >
-							<table cellpadding="0" style="position:relative;top:-7px">
+							<table cellpadding="0" style="position:relative;top:-12px">
 								<tr>
 									<td><br />
 										<span id="viaspace-business"  class="title_re">
