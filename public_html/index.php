@@ -80,11 +80,10 @@ $page_keywords		= $objPage->meta_keywords;
 					<img src="images/wait.gif" alt="wait" />
 				</div>
 				<div id="imagescroll">
-					<div><img src="images/imain.jpg"/></div>
-					<div><img src="images/imain2.jpg"/></div>
-					<div><img src="images/imain3.jpg"/></div>
-					<div><img src="images/imain4.jpg"/></div>
-					<div><img src="images/imain6.jpg"/></div>
+					<div><img src="images/rotator/panorama1.jpg"/></div>
+					<div><img src="images/rotator/panel1.jpg"/></div>
+					<div><img src="images/rotator/panel2.jpg"/></div>
+					<div><img src="images/rotator/panel3.jpg"/></div>
 				</div>
 			</div>
 			<div id="indexbody" class="indexbody">
@@ -102,7 +101,7 @@ $page_keywords		= $objPage->meta_keywords;
 									<table cellpadding="10">
 										<tr>
 											<td>
-											Giant King Grass is highest yielding and lowest cost biomass crop in the world.<a class="more-text" id="more-king-grass"> &nbsp;more...</a> <span class="full-text" id="less-king-grass">Bio-electricity, biogas, energy pellets, biofuels, biochemicals and bio plastics can all be made from Giant King Grass ® . When cut at two months,Giant King Grass is also an excellent animal for cattle, dairy cows, sheep, goats and camels. Equally important to low cost, Giant King Grass ®  provides the reliable and well-characterized feedstock that is required by banks and investors in order to provide financing for these bioenergy projects. Giant King Grass ®  is a natural plant, and is not genetically modified and not an invasive species. 
+											Giant King Grass is highest yielding and lowest cost biomass crop in the world.<a class="more-text" id="more-king-grass"> &nbsp;more...</a> <span class="full-text" id="less-king-grass">Bio-electricity, biogas, energy pellets, biofuels, biochemicals and bio plastics can all be made from Giant King Grass. When cut at two months,Giant King Grass is also an excellent animal feed for cattle, dairy cows, sheep, goats and camels. Equally important to low cost, Giant King Grass provides the reliable and well-characterized feedstock that is required by banks and investors in order to provide financing for these bioenergy projects. Giant King Grass is a natural plant, and is not genetically modified and not an invasive species. 
 											<a class="less-text" id="show-less-king-grass">&nbsp;less</a> </span>
 											</td>
 										</tr>
@@ -123,7 +122,7 @@ $page_keywords		= $objPage->meta_keywords;
 									<table cellpadding="10">
 										<tr>
 											<td>
-											VIASPACE provides Giant King Grass and technical expertise to bioenergy <a class="more-text" id="more-viaspace"> &nbsp;more...</a> <span id="less-viaspace" class="full-text">projects requiring a low-cost and reliable fuel or feedstock. VIASPACE can provide agricultural expertise and business plans, financial models, feasibility studies and engineering designs for direct combustion power plants and anaerobic digesters to produce biogas. VIASPACE and its partners have the capability to deliver an integrated Giant King Grass ®  plantation and biomass power plant project in 24 months or less. VIASPACE licenses Giant King Grass and receives a license fee for every ton harvested. Because of its high yield, Giant King Grass is a much lower cost option than other crops even with the license fee.<a class="less-text" id="show-less-viaspace">&nbsp;less</a></span>
+											VIASPACE provides Giant King Grass and technical expertise to bioenergy <a class="more-text" id="more-viaspace"> &nbsp;more...</a> <span id="less-viaspace" class="full-text">projects requiring a low-cost and reliable fuel or feedstock. VIASPACE can provide agricultural expertise and business plans, financial models, feasibility studies and engineering designs for direct combustion power plants and anaerobic digesters to produce biogas. VIASPACE and its partners have the capability to deliver an integrated Giant King Grass plantation and biomass power plant project in 24 months or less. VIASPACE licenses Giant King Grass and receives a license fee for every ton harvested. Because of its high yield, Giant King Grass is a much lower cost option than other crops even with the license fee.<a class="less-text" id="show-less-viaspace">&nbsp;less</a></span>
 											</td>
 										</tr>
 									</table> 
@@ -143,9 +142,9 @@ $page_keywords		= $objPage->meta_keywords;
 									<table cellpadding="10">
 										<tr>
 											<td>
-												Giant King Grass has been tested in many independent laboratories.<a class="more-text" id="more-labs"> &nbsp;more...</a><span id="less-labs" class="full-text"> This third-party is crucial in determining the feasibility and to obtain financing for bioenergy projects
+												Giant King Grass has been tested in many independent laboratories.<a class="more-text" id="more-labs"> &nbsp;more...</a><span id="less-labs" class="full-text"> This third-party data is crucial in determining the feasibility and to obtain financing for bioenergy projects
 												
-												<ul >
+												<ul id="gkg-data" >
 													<li>Energy: 18.4 MJ/dry kg= 4400 kcal/kg=7900 BTU/lb (GCV=HHV)</li>
 													<li>Biomethane: 60.7 L/kg = 0.97 SCF/lb = 952 BTU/lb of fresh grass</li>
 													<li>Biofuels: Glucan 43%; Xylan 22%; Arabinan 3% Lignin 17%</li>
