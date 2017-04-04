@@ -216,7 +216,7 @@ ul.arrowlist li {
 	float:left;
 	width: 880px;
 	min-height: 80px;	
-	margin: 1px 0 5px 0;
+	margin: -10px 0 5px 0;
 	padding: 10px;
 	font-size: 12px;
 	font-weight: normal;
@@ -310,11 +310,15 @@ ul.arrowlist li {
 	border: 1px #612d7f solid;
 }
 .title_re {
-	font-size: 17px;
+	font-size: 19px;
 	font-weight: 900;
-	color: blue;
+	color: #008800;
 	margin-left: 12px;
 }
+#viaspace-business {
+		padding-top: 3px;
+}
+
 .title_ae {
 	background: #fff url('../images/title_ae.jpg') no-repeat 10px 0px;
 }
@@ -440,3 +444,8 @@ div.figureright p {
 sup {
 	font-size: 10px;
 }
+#gkg-data {
+	margin: 2px;
+}
+
+
