@@ -444,6 +444,10 @@ div.figureright p {
 sup {
 	font-size: 10px;
 }
+
+sup.big {
+	font-size:14px;
+}
 #gkg-data {
 	margin: 2px;
 }

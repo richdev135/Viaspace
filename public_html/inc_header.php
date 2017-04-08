@@ -1,6 +1,7 @@
 <?php
 //echo 'SITE '.$_SERVER['PHP_SELF'];
-if ($_SERVER['PHP_SELF']=='/index.php' || $_SERVER['PHP_SELF']=='/proto/index.php' ) {
+//if ($_SERVER['PHP_SELF']=='/index.php' || $_SERVER['PHP_SELF']=='/proto/index.php' ) {
+if (1==1 ) {
 ?>
 
 <style>
@@ -61,7 +62,7 @@ if ($_SERVER['PHP_SELF']=='/index.php' || $_SERVER['PHP_SELF']=='/proto/index.ph
 
 <div id="header_wrapper" class="header_wrapper">
 	<div id="header_left" class="header_left">
-		<a href="/"><img src="images/logo.jpg" alt="Viaspace Home Page" /></a>
+		<a href="/"><img src="images/viaspace_logo_notagline.sm.jpg" alt="Viaspace Home Page" /></a>
 	</div>
 	<div id="header_right" class="header_right">
 		<span class="linkstop">

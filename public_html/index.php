@@ -58,8 +58,8 @@ $page_keywords		= $objPage->meta_keywords;
 					slidesToShow: 1,
 					slidesToScroll: 1,
 					autoplay: true,
-					autoplaySpeed: 4000,
-					speed: 500,
+					autoplaySpeed: 6000,
+					speed: 1000,
 					fade: true,
 					cssEase: 'linear'
 				});
@@ -81,15 +81,15 @@ $page_keywords		= $objPage->meta_keywords;
 				</div>
 				<div id="imagescroll">
 					<div><img src="images/rotator/Slider_1.jpg"/></div>
-					<div><img src="images/rotator/Slider_2.jpg"/></div>
 					<div><img src="images/rotator/Slider_3.jpg"/></div>
+					<div><img src="images/rotator/Slider_2.jpg"/></div>
 					<div><img src="images/rotator/Slider_4.jpg"/></div>
-					<div><img src="images/rotator/Slider_5.jpg"/></div>
-					<div><img src="images/rotator/Slider_6.jpg"/></div>
-					<div><img src="images/rotator/Slider_7.jpg"/></div>
 					<div><img src="images/rotator/Slider_8.jpg"/></div>
-					<div><img src="images/rotator/Slider_9.jpg"/></div>
 					<div><img src="images/rotator/Slider_10.jpg"/></div>
+					<div><img src="images/rotator/Slider_9.jpg"/></div>
+					<div><img src="images/rotator/Slider_6.jpg"/></div>
+					<div><img src="images/rotator/Slider_5.jpg"/></div>
+					<div><img src="images/rotator/Slider_7.jpg"/></div>
 				</div>
 			</div>
 			<div id="indexbody" class="indexbody">
