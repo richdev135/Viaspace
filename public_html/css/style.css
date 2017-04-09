@@ -443,11 +443,14 @@ div.figureright p {
 }
 sup {
 	font-size: 10px;
+	vertical-align:super;
 }
 
 sup.big {
 	font-size:14px;
+	vertical-align:super;
 }
+
 #gkg-data {
 	margin: 2px;
 }

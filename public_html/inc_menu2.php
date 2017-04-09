@@ -8,9 +8,6 @@
 				<li class="empty">Leadership</li>
 				<li><a href="au_management.php">> Management Team</a></li>	
 				<li><a href="au_boards.php">> Board of Directors</a></li>
-				<!-- <li><a href="au_aboards.php">> Advisory Board</a></li> -->
-				<li class="empty">Opportunities</li>
-				<li><a href="au_careers.php">> Careers</a></li>
 			</ul>
 		</li>
 		<li class="menu-item">

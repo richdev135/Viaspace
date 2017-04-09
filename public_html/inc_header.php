@@ -16,7 +16,7 @@ if (1==1 ) {
 	<table border="0" width="100%">
 		<tr>
 			<td style="vertical-align:top;width:200px">
-				<a href=<?php echo $_SERVER['PHP_SELF'] ?>  title="Home">Home</a> &nbsp;|&nbsp; <a href="contactus.php" title="Contact Us">Contact Us</a> &nbsp;|&nbsp; <a href="mailing_list.php" title="Join our Mailing List">Join our Mailing List</a><br />
+				<a href='/index.php'  title="Home">Home</a> &nbsp;|&nbsp; <a href="contactus.php" title="Contact Us">Contact Us</a> &nbsp;|&nbsp; <a href="mailing_list.php" title="Join our Mailing List">Join our Mailing List</a><br />
 		
 				<div class="linkstop1">
 					<!-- AddThis Follow BEGIN -->						

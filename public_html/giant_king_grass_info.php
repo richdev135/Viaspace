@@ -26,14 +26,14 @@
 					</div>
 					<div id="body_content" class="body_content">
 					
-					<h1>Giant King<sup>&reg</sup> Grass: Growing and harvesting</h1><hr />
+					<h1>Giant King<sup>&reg</sup> Grass: Grow and Harvest</h1><hr />
 
 					<b>Giant King Grass is a fast growing, high yield, perennial grass with many applications including bioenergy and animal feed. Giant King Grass is not genetically modified and is not invasive. It grows in a variety of soil conditions and does not compete with food crops.</b><br /><br />
  
 					Giant King Grass is best grown in tropical and subtropical regions with plenty of sunshine and rain per year (or irrigation). Giant King Grass is perennial and will survive a frost, but not a
 					prolonged freeze. Fertilizer requirements are modest and no pesticide is required in the current
 					cultivation. Drip irrigation using surface drip tape. The total water requirements are
-					approximately 100 mm (4”) per month rainfall equivalent. Flood irrigation, sprinklers or water
+					approximately 100 mm (4 inches) per month rainfall equivalent. Flood irrigation, sprinklers or water
 					cannons are irrigation options. Another significant advantage of Giant King Grass is that it can
 					be harvested in the first year, where other crops may take one or two years before the first
 					harvest.
@@ -84,6 +84,7 @@
 					  alt="Giant King Grass at 40-60 days" width="290px">
 					  <p>Giant King Grass at 70 and 90 days old. Both are suitable for anaerobic digestion.</p>
 					</div>
+					<br/>
 					Because the animal feed grass will never be allowed to grow tall, it can be planted more closely
 					to increase yield per acre. Protein content can be increased with increased nitrogen fertilizer.
 					Giant King Grass provides many of the requirements for cattle and dairy cows. It has fiber,
@@ -91,6 +92,7 @@
 					cattle are fed a mixed daily ration of different feeds to give the proper nutrition. Giant King
 					Grass can replace expensive feeds in the ration and therefore reduce feeding costs while
 					maintaining good nutrition.
+					<br/><br/>
 					Giant King Grass is grown from stalk cuttings like sugarcane. It is not grown from seed.
 					VIASPACE maintains nurseries in California and in Hawaii to provide cuttings for customers.
 					Typically a customer receives Giant King Grass cuttings from VIASPACE sufficient for 5 acres
