@@ -52,7 +52,7 @@
 			<span class="menu-text">Videos</span>
 			<ul>
 				<li class="empty">Videos</li>
-				<li><a href="pressreleases.php">> Videos</a></li>											
+				<li><a href="videos.php">> Videos</a></li>											
 			</ul>
 		</li>	
 	</ul>				
