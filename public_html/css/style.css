@@ -459,3 +459,6 @@ sup.big {
 	display: none;
 }
 
+.videopopuplauncher {
+	cursor:pointer;
+}

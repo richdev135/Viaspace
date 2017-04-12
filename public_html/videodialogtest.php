@@ -16,6 +16,8 @@
 
     <?php include_once('inc_menu2.php'); ?>
 
+    <?php include_once('inc_videos.php'); ?>
+
     <div id="body" class="body">
         <div id="lmenu" class="lmenu">
             <div id="list-menu" class="list-menu">
@@ -37,8 +39,7 @@
             <p>16 foot tall Giant King Grass</p>
         </div>
 
-        
+        Blah blah click <a class="videopopuplauncher" data="video1" href="#">here</a> for video.
 
     </div>
-</body>
-</html>
+	<?php include_once('inc_footer.php'); ?>

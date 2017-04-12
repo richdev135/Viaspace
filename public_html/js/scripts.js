@@ -51,6 +51,17 @@ $("#show-less-labs").bind("click", function(){
 });
 
 
+$(".videopopuplauncher").on("click", function(){
+    var vidtoview = $(this).attr("data");
+//    alert(vidtoview);
+    $("#"+vidtoview).parent().dialog({
+        height:350,
+        width:375,
+        title: "Watch Video"
+    });
+});
+
+
 /**** In case I need to scroll
  * //Finds y value of given object
 function findPos(obj) {

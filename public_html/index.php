@@ -249,7 +249,6 @@ $page_keywords		= $objPage->meta_keywords;
 
 				</div>
 				<script type="text/javascript" src="js/slick.js"></script>
-				<script type="text/javascript" src="js/scripts.js"></script>
 				<!--[if lt IE 7]>
 				<center><b><font color="red">** Your Internet browser may not be compatible with this website, it is recommended that you upgrade your copy of Internet Explorer.  **</font></b><p><a href="http://www.microsoft.com/windows/Internet-explorer/default.aspx" target="_blank"><b>Click here</b></a> to upgrade your Internet browser.</p></center>
 				<![endif]-->
