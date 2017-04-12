@@ -48,14 +48,7 @@ $page_keywords		= $objPage->meta_keywords;
             </div>
         </div>
 
-        <div class="figure">
-            <video width="320" height="240" controls>
-                <source src="videos/Mechanical Harvesting with Forage Harvester.mp4" type="video/mp4">
-                Your browser does not support the video tag.
-            </video> 
-            <br/>
-            Mechanical Harvesting of Giant King Grass with Forage Harvester
-        </div>
+    <?php include_once('inc_videos.php'); ?>
     </div>
 </body>
 </html>

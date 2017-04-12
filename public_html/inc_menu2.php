@@ -52,7 +52,8 @@
 			<span class="menu-text">Videos</span>
 			<ul>
 				<li class="empty">Videos</li>
-				<li><a href="videos.php">> Videos</a></li>											
+				<li><a href="videos.php">> Videos</a></li>		
+				<li><a href="videodialogtest.php">Test Videos</a>									
 			</ul>
 		</li>	
 	</ul>				

@@ -455,4 +455,7 @@ sup.big {
 	margin: 2px;
 }
 
+#videos_wrapper {
+	display: none;
+}
 
