@@ -32,7 +32,8 @@
 					<table>
 						<tr>
 							<td valign="top">
-								VIASPACE grows Giant King Grass as a low-carbon fuel for electricity generating power plants; for energy pellets; and as a feedstock for bio methane production and cellulosic biofuels, biochemicals and biomaterials. Proprietary Giant King Grass is the highest yielding biomass crop in the world. Bio-electricity, biogas, biofuels, biochemicals, bio plastics, and biomaterials all need biomass as feedstock, and Giant King Grass is suitable for these applications. Because of its high yield, it is a low-cost feedstock. Equally important, Giant King Grass provides the reliable and well-characterized feedstock that is required by banks and investors in order to provide financing for these bioenergy projects. Giant King Grass is a natural plant, and is not genetically modified and not an invasive species.<br /><br />
+								VIASPACE Giant King Grass is a low-carbon fuel for electricity generating power plants; for energy pellets; and as a feedstock for bio methane production and cellulosic biofuels, biochemicals and biomaterials. Giant King Grass, when cut more frequently, is an excellent animal feed for cattle, dairy cows, sheep, goats, camels and other animals. Proprietary Giant King Grass is the highest yielding biomass crop in the world and thus the lowest cost feedstock. Bioelectricity, biogas, biofuels, biochemicals, bio plastics, and biomaterials all need biomass as feedstock, and Giant King Grass is suitable for these applications. Equally important, Giant King Grass provides the reliable and well-characterized feedstock that is required by banks and investors in order to provide financing for these bioenergy projects. Giant King Grass is a natural plant, and is not genetically modified and not an invasive species.
+								<br /><br />
 							</td>
 							<td>&nbsp;</td>
 							<td valign="top" width="150">

@@ -21,6 +21,9 @@
 								<li><a href="giant_king_grass.php">> Giant King Grass Overview</a></li>	
 								<li><a href="giant_king_grass_info.php">> Giant King Grass Information</a></li>	
 								<li class="currentlink">> Biomass Versus Alternatives</li>	
+                                <li class="currentlink">
+									<a href="giant_king_grass_compare_electrical_costs.php">> Comparing Electricity Generation Costs</a>
+								</li>    
 							</ul>
 						</div>
 					</div>

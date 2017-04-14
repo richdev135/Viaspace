@@ -17,6 +17,7 @@
 				<li><a href="giant_king_grass.php">> Giant King Grass Overview</a></li>		
 				<li><a href="giant_king_grass_info.php">> Giant King Grass Information</a></li>
 				<li><a href="biomass_versus_alternatives.php">> Biomass Versus Alternatives</a></li>
+				<li><a href="giant_king_grass_compare_electrical_costs.php">> Comparing Electricity Generation Costs</a></li>
 			</ul>
 		</li>
 		<li class="menu-item">
@@ -48,12 +49,19 @@
 				<li><a href="news.php">> In the News</a></li>												
 			</ul>
 		</li>	
-		<li class="right-end">
+		<li class="menu-item" id="video-menu">
 			<span class="menu-text">Videos</span>
 			<ul>
 				<li class="empty">Videos</li>
 				<li><a href="videos.php">> Videos</a></li>		
 				<li><a href="videodialogtest.php">Test Videos</a>									
+			</ul>
+		</li>	
+		<li class="right-end">
+			<span class="menu-text">Animal Feed</span>
+			<ul>
+				<li class="empty">Animal Feed</li>
+				<li><a href="pressreleases.php">>Animal Feed</a></li>		
 			</ul>
 		</li>	
 	</ul>				
