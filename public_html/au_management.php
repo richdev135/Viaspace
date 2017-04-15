@@ -45,29 +45,32 @@
  
 					<table border="0" cellpadding="5">
 						<tr>
-							<td valign="top"><img src="images/staffcarl.jpg" alt="Dr. Carl Kukkonen: CEO, Co-Founder" /></td>
+							<td valign="top"><img src="images/bio/carlk.jpg" width="100px" alt="Dr. Carl Kukkonen: CEO, Co-Founder" style="box-shadow: 4px 4px 4px grey;" /></td>
 							<td>								
 								<h2>Dr. Carl Kukkonen: CTO, Co-Founder</h2>
-								<p>From its founding in 1998 Dr. Carl Kukkonen has led the VIASPACE team, serving as CEO of ViaSpace Technologies LLC, the predecessor of VIASPACE Inc., and serving as CEO from its formation through July 9, 2015.  On July 10, 2015, Dr. Kukkonen became Chief Technology Officer (CTO) of the Company.  ViaSpace Technologies incubated several companies based on technologies developed at the NASA Jet Propulsion Laboratory and patents and software licensed from Caltech.</p>
+								<p>Dr. Carl Kukkonen is Founder and Chief Technology Officer (CTO). Dr. Kukkonen is responsible for the technology of Giant King Grass agriculture, and utilization including direct combustion power plants, anaerobic digestion facilities to produce biogas and animal feed. Dr. Kukkonen leads the technical aspects of business development including feasibility studies, business plans and financial models for customers.</p>
 
-								<p>Prior to founding VIASPACE Dr. Kukkonen was a Caltech employee, serving as Director of the Center for Space Microelectronics Technology (CSMT) and Manager of Supercomputing at the NASA Jet Propulsion Laboratory. At JPL from 1984 to 1998 he managed several technologies and technical subsidiaries. Dr. Kukkonen established and grew the CSMT into a 250-person operation with a $70M annual budget.</p> 
+								<p>Prior to founding VIASPACE Dr. Kukkonen was a Caltech employee, serving as Director of the Center for Space Microelectronics Technology (CSMT) and Manager of Supercomputing at the NASA Jet Propulsion Laboratory. At JPL from 1984 to 1998 he also managed the SBIR program together with his other duties. Dr. Kukkonen established and grew the CSMT into a 250-person operation with a $70M annual budget.</p> 
 
-								<p>From 1977 to 1984 Dr. Kukkonen worked for the Ford Motor Company as Ford's leading expert on hydrogen as an alternative automotive fuel. As a Principal Research Engineer, he also led a team that developed Ford's first turbocharged intercooled direct injection diesel engine.   
-								Dr. Kukkonen received a BS in physics from the University of California at Davis. He earned a MS and Ph.D. in physics from Cornell University and was a post-doctoral fellow at Purdue. In 1992 Dr. Kukkonen was awarded the NASA Exceptional Achievement Medal.</p>							
+								<p>From 1977 to 1984 Dr. Kukkonen worked for the Ford Motor Company as Ford's leading expert on hydrogen as an alternative automotive fuel. As a Principal Research Engineer, he also led a team that developed Ford's first turbocharged intercooled direct injection diesel engine. Dr. Kukkonen received a BS in physics from the University of California at Davis. He earned a MS and Ph.D. in physics from Cornell University and was a post-doctoral fellow at Purdue. In 1992 Dr. Kukkonen was awarded the NASA Exceptional Achievement Medal.</p>							
 							</td>							
 						</tr>
-					</table>					
+					</table>
 					<hr />
 					<table border="0" cellpadding="5">
 						<tr>
 							<td valign="top"><img src="images/staffsteve.jpg" alt="Stephen J. Muzi: CFO and Treasurer" /></td>
 							<td>								
 								<h2>Stephen J. Muzi: CFO and Treasurer</h2>
-								<p>Mr. Stephen J. Muzi is responsible for all accounting, financial reporting, treasury and budgeting activities. He is also responsible for ensuring that proper internal financial controls exist and that procedures are in place to safeguard company assets. Mr. Muzi joined VIASPACE in 2000.</p>
+								<p>Mr. Stephen J. Muzi oversees the accounting, financial planning and analysis, treasury, investor relations, internal audit and income tax functions at VIASPACE. Mr. Muzi joined VIASPACE in 2000.</p>
 
-								<p>Prior to joining VIASPACE, Mr. Muzi was Corporate Controller of Southwest Water Company, a NASDAQ company with revenues in excess of $100 million. In this position, he was responsible for all SEC reporting requirements as well as Board of Director reporting. He managed the company's line of credit banking relationships, risk management program, internal audit program and income tax requirements. He also made presentations to investment brokers and analysts. Mr. Muzi was with Southwest Water Company from 1988 to 2000.</p>
+								<p>
+								Prior to joining VIASPACE, Mr. Muzi was Corporate Controller of Southwest Water Company, a NASDAQ company. In this position, he was responsible for SEC reporting, treasury, risk management program, internal audit and income tax requirements. Mr. Muzi was with Southwest Water Company from 1988 to 2000.
+								</p>
 
-								<p>From 1985 to 1987, Mr. Muzi was a senior auditor with BDO Seidman, a national CPA firm. Mr. Muzi received his BS degree from Rochester Institute of Technology and an MBA from the State University of New York at Buffalo. He is a Certified Public Accountant.</p>
+								<p>
+								From 1985 to 1987, Mr. Muzi was a senior auditor with BDO Seidman, a national CPA firm. Mr. Muzi received his bachelor’s degree in accounting from Rochester Institute of Technology and a master’s degree in business administration from the State University of New York at Buffalo. He is a Certified Public Accountant and a member of the American Institute of Certified Public Accountants.
+								</p>
 			
 							</td>							
 						</tr>

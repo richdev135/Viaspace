@@ -7,7 +7,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
 <link href="css/style.css" media="all" rel="stylesheet" type="text/css" />	
 <link href="css/dropdown.css" media="all" rel="stylesheet" type="text/css" />
-<link href="css/default.advanced.css" media="all" rel="stylesheet" type="text/css" />
+<link href="css/default.advanced.css?v=1.1" media="all" rel="stylesheet" type="text/css" />
 <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
 <script
 			  src="https://code.jquery.com/jquery-3.1.1.js"
