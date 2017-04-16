@@ -28,7 +28,7 @@
 				<li><a href="green_electricity.php">> Green Electricity</a></li>
 				<li><a href="giant_king_grass_pellets.php">> Giant King Grass Pellets</a></li>
 				<li><a href="biochemicals_bio_plastics.php">> Biofuels & Biochemicals</a></li>
-				<li><a href="bio_methane.php">> Bio-Methane</a></li>
+				<li><a href="bio_methane.php">> Biomethane</a></li>
 			</ul>			
 		</li>	
 		<li class="menu-item"  id="animal-feed">

@@ -182,7 +182,7 @@ ul.arrowlist li {
 }
 #indexbody {
 	position: relative;
-	top:25px;
+	top:0px;
 	float: left;
 	width: 900px;		
 	margin: 0;
@@ -438,7 +438,7 @@ div.figureright p {
 }
 
 #imagescroll img {
-	height: 255px;
+	height: 220px;
 	width: 900px;
 }
 sup {

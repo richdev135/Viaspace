@@ -22,7 +22,7 @@
 								<li class="currentlink">> Giant King Grass Pellets</li>
 								
 								<li><a href="biochemicals_bio_plastics.php">> Biofuels & Biochemicals</a></li>
-								<li><a href="bio_methane.php">> Bio-Methane</a></li>
+								<li><a href="bio_methane.php">> Biomethane</a></li>
 							</ul>
 						</div>
 					</div>

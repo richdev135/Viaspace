@@ -65,7 +65,7 @@
 
 					Even though the biomass fuel costs money and is not free like the wind and sun, lower capital costs and a much higher utilization rate more than compensate, and the price of biomass electricity is substantially cheaper than solar and even wind. Note that electricity generated from coal is still the cheapest, but only by 10 to 15% compared to biomass.<br /><br />
 
-					<b>Biomass electricity is cost-effective and practical, and it offers a realistic and sustainable alternative to fossil fuels. Biomass is versatile and can also be used to produce bio-methane to replace natural gas, liquid biofuels to replace gasoline and diesel fuel, and as feedstock to produce biochemicals and bio plastics.</b><br /><br />
+					<b>Biomass electricity is cost-effective and practical, and it offers a realistic and sustainable alternative to fossil fuels. Biomass is versatile and can also be used to produce biomethane to replace natural gas, liquid biofuels to replace gasoline and diesel fuel, and as feedstock to produce biochemicals and bio plastics.</b><br /><br />
 					
 					<h3>Biomass Alternatives: Dedicated Energy Crops vs. Waste</h3><br /> 
 

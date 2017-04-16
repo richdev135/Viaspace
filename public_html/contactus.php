@@ -50,7 +50,7 @@
 							 <option value="Power Plants" >Power Plants</option>
 							 <option value="Biofuels" >Biofuels</option>
 							 <option value="Biochemicals" >Biochemicals</option>
-							 <option value="Bio-Methane" >Bio-Methane</option>
+							 <option value="Bio-Methane" >Biomethane</option>
 							 <option value="Investor Relations" >Investor Relations</option>
 							 <option value="Other" >Other (please describe in your message)</option>
 						</select>
