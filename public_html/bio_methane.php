@@ -35,9 +35,9 @@
 					</b><br /><br /> 
 					
 					<div class="figureright">
-					  <img src="images/biomethane/anaerobicdigester.jpg" width="450px" alt="Anaerobic Biomethane digester">
-					  <p>Giant King Grass is an excellent feedstock for anaerobic digestion.<br/>
-						The biogas can be upgraded to pipeline quality and injected into <br/>
+					  <img src="images/biomethane/anaerobicdigester.jpg" width="600px" alt="Anaerobic Biomethane digester">
+					  <p>Giant King Grass is an excellent feedstock for anaerobic digestion.
+						The biogas can be upgraded to pipeline quality and injected into 
 						commercial pipelines as &#148;green methane&#148; </p>
 					</div>	
 
@@ -45,19 +45,24 @@
 					<br /><br />
 					
 					<div class="figure">
-					  <img src="images/biomethane/biogasupgrading.jpg" width="600px" alt="Membrane technology is one commercial option for upgrading biogas to pipeline quality biomethane">
-					  <p>Membrane technology is one commercial option for upgrading biogas to pipeline quality biomethane</p>
+					  <img src="images/biomethane/biogasupgrading.jpg" width="400px" alt="Membrane technology is one commercial option for upgrading biogas to pipeline quality biomethane">
+					  <p>Membrane technology is one commercial option for upgrading<br/> biogas to pipeline quality biomethane</p>
 					</div>
+					<br /><br />
+					<br /><br />
 
 					Biogas from the anaerobic digester is mainly methane and carbon dioxide with small amounts of other contaminants. For use in power generation, only the hydrogen sulfide needs to be removed. To achieve pipeline quality, the gas needs to be 88- 98% methane compared to the 60% methane biogas. There are several technologies for upgrading biogas.
+					<br /><br />
+					<br /><br />
 					<br /><br />
 
 
 					<div class="figure">
-					  <img src="images/biomethane/upgradingsystem.jpg" width="400px" alt="Biogas upgrading system">
+					  <img src="images/biomethane/upgradingsystem.jpg" width="600px" alt="Biogas upgrading system">
 					  <p>Biogas upgrading system</p>
 					</div>
-					<br />
+					<br /><br />
+					<br /><br />
 					Upgrading biogas produced from anaerobic digestion is a commercial option for applications that require renewable, low carbon methane.
 				</div>				
 			</div>

@@ -462,3 +462,14 @@ sup.big {
 .videopopuplauncher {
 	cursor:pointer;
 }
+#pellets{
+	width:600px;
+}
+
+#pellets tr {
+	border:1px grey solid;
+}
+
+#pelletrow2 {
+	border: none;
+}
