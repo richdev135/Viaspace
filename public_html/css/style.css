@@ -473,3 +473,9 @@ sup.big {
 #pelletrow2 {
 	border: none;
 }
+
+
+.blockdiv {
+	display: block;
+	margin-top: 10px;
+}
