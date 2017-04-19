@@ -106,7 +106,7 @@
 					The primary dry component of plant matter is lignocellulose a mixture of cellulose which yields Glucan a polymer of glucose--a C5 sugar; hemicellulose which yields Xylan (xylose) and Arabinan (arabinose) which are C6 sugars; lignin, an organic polymer that gives the plant the strength to stand upright, and ash.
 					<br /><br />
 
-					The sugar and ethanol yields are comparable to corn Stover. Basically a dry ton of Giant King Grass is as good as or better than a dry ton of corn Stover for cellulosic sugar production. The cellulosic sugars are starting point for cellulosic biofuels, and also for bio plastics and biochemicals.
+					The sugar and ethanol yields are comparable to corn Stover. Basically a dry ton of Giant King Grass is as good as or better than a dry ton of corn Stover for cellulosic sugar production. The cellulosic sugars are starting point for cellulosic biofuels, and also for bioplastics and biochemicals.
 					<br /><br />
 
 					<b>Land Use Efficiency</b>
