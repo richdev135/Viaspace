@@ -21,51 +21,39 @@
 								<li><a href="giant_king_grass.php">> Giant King Grass Overview</a></li>	
 								<li><a href="giant_king_grass_info.php">> Giant King Grass Information</a></li>	
 								<li class="currentlink">> Biomass Versus Alternatives</li>	
-                                <li class="currentlink">
-									<a href="giant_king_grass_compare_electrical_costs.php">> Comparing Electricity Generation Costs</a>
+                                <li><a href="giant_king_grass_compare_electrical_costs.php">> Comparing Electricity Generation Costs</a>
 								</li>    
 							</ul>
 						</div>
 					</div>
 					<div id="body_content" class="body_content">
 					
-					<h1>Biomass Versus Fossil Fuels, Solar and Wind</h1><hr />
+					<h1>Biomass Compared to Fossil Fuels, Solar and Wind</h1>
+					<hr />
 
-					<b>Biomass is a low-carbon fuel or energy source that comes from plant material such as wood, corn, sugar cane and grasses such as Giant King Grass. Biomass can be burned to generate electricity and heat, digested to produce bio methane, and converted into liquid biofuels, biochemicals and bio plastics.</b><br /><br />  
+					<b>Biomass is a low-carbon fuel or energy source that comes from plant material such as wood, corn, sugar cane and grasses such as Giant King Grass. Biomass can be burned to generate electricity and heat, digested to produce bio methane, and converted into liquid biofuels, biochemicals and bio plastics.</b>
+					<br /><br />  
 					
-					Biomass also includes byproducts such as agricultural waste-for example, corn straw (stover) and rice husks-and food waste such as vegetable oil recycled from cooking processes. Since biomass comes primarily from plants and vegetation that naturally re-grows and may come from everyday agricultural or industrial processes, biomass is a renewable resource.<br /><br />
+					Biomass also includes wood and food crops such as sugarcane and corn, and also byproducts such as agricultural waste-for example, corn straw (stover) and rice husks-and food waste such as vegetable oil recycled from cooking processes. Since biomass comes primarily from plants and vegetation that naturally re-grows, biomass is a renewable resource.
+					<br /><br />
 
-					<h3>Biomass vs. Fossil Fuels: Renewable, Low Carbon, Locally Sourced, Low Cost</h3><br />
+					Hydroelectricity and geothermal are two other renewable options to produce electricity. They will not be discussed here.
+					<br /><br />
 
-					In addition to being renewable, biomass' carbon emissions and local access relative to fossil fuels are important considerations. While coal may be 20% less costly than biomass right now, coal is also responsible for producing the most carbon emissions and other pollutants than any other fuel source. Other fossil fuels are significantly more costly and also produce high levels of pollution.<br /><br />
-										
-					<div class="figure">
-						<img src="images/carbon-neutral-cycle.png" alt="Carbon-Neutral Cycle">
-						<p>Carbon-Neutral Cycle</p>
-					</div>
-										
-					In contrast, biomass from plants and vegetation are considered low-carbon or carbon-neutral. During their growing cycle, plants use photosynthesis to absorb and convert sunlight and carbon dioxide from the atmosphere into nutrients and energy. When these plants are burned, for example, in a power plant, carbon dioxide is released back into the atmosphere. The carbon dioxide is again absorbed during the next crop's growth cycle. This repetitive cycle of absorption-release-absorption results in a carbon-neutral effect on the atmosphere.<br /><br /> 
+					<h2>Biomass vs. Fossil Fuels: Renewable, Low Carbon and Locally Sourced</h2>
+					<br />
+					<b>
+					Fossil fuels (coal, oil and natural gas) have played and continue to play a major role in transforming the world from an agricultural society to the modern industrial world we live in today. Fossil fuels produce electricity, and fuels for heating and transportation.
+					<br/><br/>
+					Advantages of fossil fuels are that they have been abundant and low cost, and that they provide electricity, heating and cooling, and transportation fuels reliably 24 hours per day and seven days a week.
+					<br/><br/>
+					Disadvantages of fossil fuels are that there is a limited supply, and there are environmental issues in removing fossil fuels from the ground, transporting them and burning them in power plants or engines. In addition to pollutants like ozone, hydrocarbons, sulfur, mercury, smoke and ash, use of fossil fuels emits large amounts of carbon dioxide into the atmosphere. Some fossil fuels are found in unfriendly countries or in unfriendly environments like under the sea. There are political, economic and environmental issues in obtaining these fossil fuels.
+					<br/><br/>
+					Fossil fuels release carbon dioxide into the atmosphere.
+					<br/><br/>
+					</b>
 
-					Since planting, harvesting and transportation equipment use petroleum-based fuel, and many fertilizers are also petroleum based, some carbon emissions occur with biomass. However, when grass crops are grown using sustainable methods, the amounts of carbon emissions are small, especially compared to the energy that will be produced by burning the biomass, and the net result is very low carbon emissions, compared to burning coal or other fossil fuels.<br /><br />         
 
-					Biomass is available in many areas throughout the world and can be cultivated or produced domestically-locally or regionally-with little or no supply or logistical risk. In contrast, reserves of oil and natural gas are located in limited areas throughout the world and are a depleting resource. Furthermore, the majority of known and accessible reserves are located in foreign countries, and supplies are controlled by foreign entities. In addition, finding and developing new reserves are relatively costly and risky. This general lack of access, compared to rising demand for energy, is causing the usual political, economic and widening range of environmental problems to worsen each year.<br /><br />
-
-					<h3>Biomass vs. Other Alternative Energy: High Reliability, Low Cost</h3><br /> 
-
-					While it is generally accepted that all sources of alternative, cleaner, green energy, including biomass, should be developed to reduce dependence on fossil fuels. There are practical and significant differences between the major alternative categories of alternative energy.<br /><br />
-
-					<div class="figure" style="margin-bottom:20px;">
-						  <img src="images/biomass-vs-alternative.png" width="600" alt="Biomass vs. other Alternative Energy">
-						  <p>Biomass vs. other Alternative Energy</p>
-					</div>
-					 
-					Of the leading energy alternatives to fossil fuels, biomass is the most cost-effective and practical and therefore offers the most realistic and sustainable strategy.<br /><br />
-
-					For example, solar and wind offer the important advantage of zero fuel cost, but they have higher capital costs and much lower utilization rates because solar only produces electricity when it is sunny and wind when it is windy. The combination of high capital costs and low utilization lead to high electricity prices. Because of their transient nature and variability of weather conditions, solar and wind energy cannot be used as base power and are largely utilized in sophisticated grids where there are back up natural gas power plants that can take up to load on cloudy or windless days. Biomass and coal power plants operate 24 hours a day and are used as base power.<br /><br />
-
-					Even though the biomass fuel costs money and is not free like the wind and sun, lower capital costs and a much higher utilization rate more than compensate, and the price of biomass electricity is substantially cheaper than solar and even wind. Note that electricity generated from coal is still the cheapest, but only by 10 to 15% compared to biomass.<br /><br />
-
-					<b>Biomass electricity is cost-effective and practical, and it offers a realistic and sustainable alternative to fossil fuels. Biomass is versatile and can also be used to produce biomethane to replace natural gas, liquid biofuels to replace gasoline and diesel fuel, and as feedstock to produce biochemicals and bio plastics.</b><br /><br />
 					
 					<h3>Biomass Alternatives: Dedicated Energy Crops vs. Waste</h3><br /> 
 

@@ -18,14 +18,11 @@
 							<ul>								
 								<li><a href="index.php">Home</a></li>
 								<!-- <li class="header">About Us</li> -->
-								<!-- <li><a href="au_overview.php">> Overview</a></li> -->
-								
+								<!-- <li><a href="au_overview.php">> Overview</a></li> -->								
 								<li class="header">Leadership</li>
 								<li class="currentlink">> Management Team</li>	
 								<li><a href="au_boards.php">> Board of Directors</a></li>
 								<!-- <li><a href="au_aboards.php">> Advisory Board</a></li> -->
-								<li class="header">Opportunities</li>
-								<li><a href="au_careers.php">> Careers</a></li>							
 							</ul>
 						</div>
 					</div>

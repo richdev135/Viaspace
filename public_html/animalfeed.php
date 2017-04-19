@@ -23,15 +23,15 @@
 					</div>
 					<div id="body_content" class="body_content">
 					
-					<h1>Giant King<sup>&reg</sup> Grass as Animal Feed</h1><hr />
+					<h1>Giant King<sup class="big">&reg</sup> Grass as Animal Feed</h1><hr />
 					<br/><br/>
-					<b>Giant King Grass when cut every 40 – 60 days is excellent animal feed. It has high-protein and high palatability. It can be the entire diet or a part of a mixed ration for dairy cows, cattle, sheep, goats, camels and other animals and even pigs and some fish. The high-yield of Giant King Grass makes it a low-cost, but high quality animal feed. In a mixed ration, Giant King Grass provides fiber, energy and protein and can reduce the amount of high cost of materials needed in the ration to provide optimal nutrition.</b>
+					<b>Giant King Grass when cut every 40-60 days is excellent animal feed. It has high-protein and high palatability. It can be the entire diet or a part of a mixed ration for dairy cows, cattle, sheep, goats, camels and other animals and even pigs and some fish. The high-yield of Giant King Grass makes it a low-cost, but high quality animal feed. In a mixed ration, Giant King Grass provides fiber, energy and protein and can reduce the amount of high cost of materials needed in the ration to provide optimal nutrition.</b>
 					<br/><br/>
 
                     Giant King Grass can be fed as freshly cut grass, green chop, silage, or hay. Giant King Grass can also be dried ground and pressed into feed pellets. Grazing is also possible, but cut and carry is most practical. Younger Giant King Grass has very high-protein and is very palatable, but young grass has higher moisture content and dry matter yields per acre are lower. 60 day old Giant King Grass has the highest annual dry matter yield and still very good nutrition. The older grass has thicker stems and is less palatable and must be chopped before feeding to animals. 60 days is a good time for making silage. 40-45 days is usually a good time to harvest for making hay.
 					<br/><br/>
 
-                    <h2>Fresh cut Giant King Grass</h2>
+                    <h2>Fresh Cut Giant King Grass</h2>
 
                     Freshly cut Giant King Grass is excellent animal feed. It can simply be cut and fed to the animals, or taller grass with larger stalks can be chopped to make it more palatable. Animals eagerly eat fresh Giant King Grass. Fresh Giant King Grass and other grasses spoil after about three days, so just in time harvesting is desirable.
                     <br/><br/>
@@ -79,7 +79,7 @@
         			<br/><br/>
         			<br/><br/>
                     <h2>Giant King Grass Silage</h2>
-                    The other option to store Giant King Grass for extended time is to make silage. Forage which has been harvested while still green and nutritious can be conserved through a natural ‘pickling’ process. Lactic acid is produced when the sugars in the forage plants are fermented by bacteria in a sealed container (‘silo’) with no air. Forage conserved this way is known as ‘ensiled forage’ or ‘silage’ and will keep for up to three years without deteriorating. Silage is very palatable to livestock and can be fed at any time. Silage is made either by placing cut green vegetation in a silo or pit, by piling it in a large heap and compressing it down so as to leave as little oxygen as possible and then covering it with a plastic sheet, or by placing the chopped forage into an airtight silage bag. Silage is also used to store grass and other forage for use in anaerobic digesters.
+                    The other option to store Giant King Grass for extended time is to make silage. Forage which has been harvested while still green and nutritious can be conserved through a natural "pickling" process. Lactic acid is produced when the sugars in the forage plants are fermented by bacteria in a sealed container ("silo") with no air. Forage conserved this way is known as "ensiled forage" or "silage" and will keep for up to three years without deteriorating. Silage is very palatable to livestock and can be fed at any time. Silage is made either by placing cut green vegetation in a silo or pit, by piling it in a large heap and compressing it down so as to leave as little oxygen as possible and then covering it with a plastic sheet, or by placing the chopped forage into an airtight silage bag. Silage is also used to store grass and other forage for use in anaerobic digesters.
         			<br/><br/>
 
                     <div class="figure">
