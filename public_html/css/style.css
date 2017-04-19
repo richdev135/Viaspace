@@ -350,6 +350,8 @@ div.figure {
   margin-right:7px;
   padding:5px;
   background:#F4F4F4;
+  word-wrap: break-word;
+  width:320px;
 }
 div.figure img { 
   margin:0px;
@@ -459,6 +461,29 @@ sup.big {
 	display: none;
 }
 
+#video-table{
+	border: 0px solid red;
+	position: absolute;
+	top:70px;
+	left:0px;
+}
+
+div.video {
+  float: left;
+  border: 1px #e5e5e5 solid;
+  margin-right:7px;
+  padding:5px;
+  background:#F4F4F4;
+  word-wrap: break-word;
+  width:270px;
+  height:180px;
+}
+
+
+.video-container {
+	width:270px;
+}
+
 .videopopuplauncher {
 	cursor:pointer;
 }
@@ -474,9 +499,24 @@ sup.big {
 	border: none;
 }
 
-
 .blockdiv {
 	display: block;
 	margin-top: 10px;
 }
 
+#movediv {
+	position: relative;
+	top:50px;
+	border: 0px red solid;
+}
+
+#textdiv1 {
+	position: relative;
+	top:50px;
+	border: 0px blue solid;
+}
+
+.bioimage {
+	width:100;
+	box-shadow: 4px 4px 4px gray;
+}

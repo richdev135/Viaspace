@@ -36,7 +36,6 @@ $page_keywords		= $objPage->meta_keywords;
     <?php include_once('inc_menu2.php'); ?>
 
     <div id="body" class="body">
-        <h1>Videos</h1>
 
         <div id="lmenu" class="lmenu">
             <div id="list-menu" class="list-menu">
@@ -47,9 +46,15 @@ $page_keywords		= $objPage->meta_keywords;
                 </ul>
             </div>
         </div>
+        <div id="body_content" class="body_content">
+        
+        <h1>Giant King<sup class="big">&reg</sup> Grass Videos</h1><hr />
 
     <?php include_once('inc_videos.php'); ?>
     </div>
+    <script type="text/javascript">
+        $("#videos_wrapper").show();
+    </script>
 </body>
 </html>
 

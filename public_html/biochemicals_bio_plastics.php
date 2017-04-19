@@ -59,7 +59,7 @@
 					The US and many other countries originally emphasized biofuels to replace gasoline and diesel fuel as the focus of biorefineries. These governments invested in R&D and subsidized building of commercial scale plants to produce biofuels. Governments also mandated blending of biofuels with gasoline which is another source of subsidy. The original biorefineries were simply modifications of ethanol production, originally developed for the alcoholic beverage industry, to produce large amounts of ethanol for transportation. In the US, the primary feedstock was corn and in other countries the feedstock was sugarcane. 
 					<br /><br />  
 
-					<b>Cellulosic Biofuels – Second-Generation</b>
+					<b>Cellulosic Biofuels - Second-Generation</b>
 					<br /><br /> 
 
 					Soon there were outcries about using food for fuel, and governments expanded their subsidy programs to cellulosic ethanol and other biofuels derived from nonfood feedstocks.   The initial cellulosic feedstock of choice were corn Stover, the rest of the corn plant after the kernels are harvested, and sugarcane bagasse and &#148;trash&#148;, the parts of the sugarcane not used in sugar production. Demonstration and initial commercial scale cellulosic ethanol plants were set up close to existing corn grain and sugarcane ethanol plants in order to utilize the existing infrastructure and nearby supply of feedstocks. Other nonfood crops such as perennial grasses are also suitable feedstocks for cellulosic biofuels.				<br /><br />  
@@ -79,7 +79,7 @@
 					<br /><br /> 
 
 					<div class="figure">
-					  <img src="images/biorefinery/tallkinggrass.jpg" width="600px" alt="Tall Giant King Grass was tested for cellulosic ethanol production.">
+					  <img src="images/biorefinery/tallkinggrass.jpg" width="400px" alt="Tall Giant King Grass was tested for cellulosic ethanol production.">
 					  <p>Tall Giant King Grass was tested for cellulosic ethanol production</p>
 					</div>	
 
@@ -89,24 +89,27 @@
 					Four companies in the cellulosic ethanol business including POET and Novozymes have independently tested Giant King Grass as a feedstock for cellulosic ethanol production. The average results are shown below and compared to Corn Stover which is their baseline feedstock. 
 					<br /><br />
 
-					<div class="figure">
-					  <img src="images/biorefinery/composition.jpg" width="600px" alt="Giant King Grass composition">
+					<div class="figure" id="movediv">
+					  <img src="images/biorefinery/composition.jpg" width="350px" alt="Giant King Grass composition">
 					  <p></p>
 					</div>	
-					The companies independently measured the sugar, lignin and ash composition of completely dried Giant King Grass samples. Glucan, Xylan and Arabinan are polymer sugars which are desirable, and lignin and ash are undesirable for cellulosic ethanol (but lignin has other uses).  The data shows that one dry ton of Giant King Grass is as good (or better) than a ton of Corn Stover in terms of its sugar content which is key for producing cellulosic ethanol through fermentation processes. 
-					<br /><br />
+						The companies independently measured the sugar, lignin and ash composition of completely dried Giant King Grass samples. Glucan, Xylan and Arabinan are polymer sugars which are desirable, and lignin and ash are undesirable for cellulosic ethanol (but lignin has other uses).  The data shows that one dry ton of Giant King Grass is as good (or better) than a ton of Corn Stover in terms of its sugar content which is key for producing cellulosic ethanol through fermentation processes. 
+						<br /><br />
 
-					<div>The companies also conducted pretreatment and enzymatic hydrolysis, measured the sugar production and projected the ethanol production to be 78.5 – 80 gallons per dry ton which is shown in the figure below.</div>
-					<br /><br />
+						The companies also conducted pretreatment and enzymatic hydrolysis, measured the sugar production and projected the ethanol production to be 78.5 – 80 gallons per dry ton which is shown in the figure below.
+						<br /><br />
+						<br /><br />
 
-					<div class="figure">
-					  <img src="images/biorefinery/measuredyields.jpg" width="400px" alt="Giant King Grass composition">
-					  <p>Measured C6 and C5 sugar yields. Ethanol yield estimated independently by<br/> two companies. The unit is gallons per dry ton of Giant King Grass.</p>
+					<div class="figure" >
+					  <img src="images/biorefinery/measuredyields.jpg" width="350px" alt="Giant King Grass composition">
+					  <p>Measured C6 and C5 sugar yields. Ethanol yield<br/> estimated independently by two companies.<br/> The unit is gallons per dry ton of Giant King Grass.</p>
 					</div>	
 					The primary dry component of plant matter is lignocellulose a mixture of cellulose which yields Glucan a polymer of glucose--a C5 sugar; hemicellulose which yields Xylan (xylose) and Arabinan (arabinose) which are C6 sugars; lignin, an organic polymer that gives the plant the strength to stand upright, and ash.
 					<br /><br />
 
 					The sugar and ethanol yields are comparable to corn Stover. Basically a dry ton of Giant King Grass is as good as or better than a dry ton of corn Stover for cellulosic sugar production. The cellulosic sugars are starting point for cellulosic biofuels, and also for bioplastics and biochemicals.
+					<br /><br />
+					<br /><br />
 					<br /><br />
 
 					<b>Land Use Efficiency</b>
@@ -117,7 +120,7 @@
 					Multiplying the ethanol yield times the grass yield gives you the land use efficiency in terms of gallons of ethanol per acre of land. This is shown in the figure below. For reference the data for corn grain and corn Stover ethanol production in the US and sugarcane ethanol production in Brazil is also included.
 					<br /><br />
 					<div class="figure">
-					  <img src="images/biorefinery/ethanol.jpg" width="450px" alt="Ethanol in Giant King Grass">
+					  <img src="images/biorefinery/ethanol.jpg" width="350px" alt="Ethanol in Giant King Grass">
 					  <p>Ethanol production in terms of gallons per acre. A dry ton of Giant King Grass<br/> produces the same amount of ethanol as a dry ton of corn Stover. However<br/> the high-yield of Giant King Grass results in much higher ethanol production<br/> per acre.</p>
 					</div>	
 					Feedstock is the largest component in the cost of cellulosic ethanol. The high yield of Giant King Grass can lower feedstock costs substantially and co-location of the bio refinery and the Giant King Grass plantation can reduce costs additionally. Together, feedstock costs could be reduced by 40 to 50% which would make cellulosic biofuels and other biorefinery products profitable.

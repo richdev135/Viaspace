@@ -28,9 +28,10 @@
 					</div>
 					<div id="body_content" class="body_content">
 					
-					<h1>Green Power Plant: Grow Your Own Electricity</h1><hr />
+					<h1>Giant King<sup class="big">&reg</sup> Grass Power Plant: Grow Your Own Electricity</h1><hr />
 					
-					<b>Giant King Grass is suitable as a fuel for direct combustion (burning) in 100% biomass electricity-generating power plants. Today, biomass power plants are fueled by agricultural and forestry waste such as corn straw, wheat straw, rice husks and wood waste. The price of agricultural waste has increased dramatically in Thailand, China and India due to market demand, and in many areas, growing Giant King Grass as a dedicated energy crop is less expensive and more reliable than using waste. Agricultural waste is seasonal, because it is only available after the food crop such as corn is harvested. The corn straw must be gathered over long distances because the yield is quite low, then dried, baled, stored and utilized as fuel until the next agricultural waste crop is available. Reliability, consistency and cost of biomass fuel are the major issues facing biomass power plants today. A dedicated Giant King Grass plantation co-located with a power plant is a cost effective and reliable solution to producing clean electricity.</b><br /><br />					
+					<b>There are two mature, reliable and affordable options to produce green electricity. Giant King Grass is suitable as a fuel for direct combustion (burning) in a 100% biomass electricity-generating power plant, and also as a feedstock for an anaerobic digester producing biomethane that is combusted in an internal combustion engine that turns a generator to produce electricity. VIASPACE has financial models for both approaches. The ideal solution is a Giant King Grass plantation co-located with the power plant. This simplifies logistics and minimizes cost.</b>
+					<br /><br />					
 					
 					<h2>Direct Combustion-Overview</h2>
 					<div class="figure">

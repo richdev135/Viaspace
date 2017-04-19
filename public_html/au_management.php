@@ -42,7 +42,7 @@
  
 					<table border="0" cellpadding="5">
 						<tr>
-							<td valign="top"><img src="images/bio/carlk.jpg" width="100px" alt="Dr. Carl Kukkonen: CEO, Co-Founder" style="box-shadow: 4px 4px 4px grey;" /></td>
+							<td valign="top"><img src="images/bio/carlk100.jpg" width="100px" alt="Dr. Carl Kukkonen: CEO, Co-Founder" class="bioimage" /></td>
 							<td>								
 								<h2>Dr. Carl Kukkonen: CTO, Co-Founder</h2>
 								<p>Dr. Carl Kukkonen is Founder and Chief Technology Officer (CTO). Dr. Kukkonen is responsible for the technology of Giant King Grass agriculture, and utilization including direct combustion power plants, anaerobic digestion facilities to produce biogas and animal feed. Dr. Kukkonen leads the technical aspects of business development including feasibility studies, business plans and financial models for customers.</p>
@@ -56,7 +56,7 @@
 					<hr />
 					<table border="0" cellpadding="5">
 						<tr>
-							<td valign="top"><img src="images/staffsteve.jpg" alt="Stephen J. Muzi: CFO and Treasurer" /></td>
+							<td valign="top"><img src="images/bio/steve_muzi100.JPG" width="100px" alt="Stephen J. Muzi: CFO and Treasurer" class="bioimage" /></td>
 							<td>								
 								<h2>Stephen J. Muzi: CFO and Treasurer</h2>
 								<p>Mr. Stephen J. Muzi oversees the accounting, financial planning and analysis, treasury, investor relations, internal audit and income tax functions at VIASPACE. Mr. Muzi joined VIASPACE in 2000.</p>
@@ -66,7 +66,7 @@
 								</p>
 
 								<p>
-								From 1985 to 1987, Mr. Muzi was a senior auditor with BDO Seidman, a national CPA firm. Mr. Muzi received his bachelor’s degree in accounting from Rochester Institute of Technology and a master’s degree in business administration from the State University of New York at Buffalo. He is a Certified Public Accountant and a member of the American Institute of Certified Public Accountants.
+								From 1985 to 1987, Mr. Muzi was a senior auditor with BDO Seidman, a national CPA firm. Mr. Muzi received his bachelor's degree in accounting from Rochester Institute of Technology and a master's degree in business administration from the State University of New York at Buffalo. He is a Certified Public Accountant and a member of the American Institute of Certified Public Accountants.
 								</p>
 			
 							</td>							
