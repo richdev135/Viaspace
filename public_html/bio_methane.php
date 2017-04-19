@@ -1,7 +1,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<title> Viaspace : Bio Methane </title>
+<title> Viaspace : biomethane </title>
 <?php include_once('inc_meta.php'); ?>
 </head>
 

@@ -107,7 +107,7 @@ $page_keywords		= $objPage->meta_keywords;
 									<table cellpadding="10">
 										<tr>
 											<td>
-											Giant King Grass is highest yielding and lowest cost biomass crop in the world.<a class="more-text" id="more-king-grass"> &nbsp;more...</a> <span class="full-text" id="less-king-grass">Bio-electricity, biogas, energy pellets, biofuels, biochemicals and bio plastics can all be made from Giant King Grass. When cut at two months,Giant King Grass is also an excellent animal feed for cattle, dairy cows, sheep, goats and camels. Equally important to low cost, Giant King Grass provides the reliable and well-characterized feedstock that is required by banks and investors in order to provide financing for these bioenergy projects. Giant King Grass is a natural plant, and is not genetically modified and not an invasive species. 
+											Giant King Grass is highest yielding and lowest cost biomass crop in the world.<a class="more-text" id="more-king-grass"> &nbsp;more...</a> <span class="full-text" id="less-king-grass">Bio-electricity, biogas, energy pellets, biofuels, biochemicals and bioplastics can all be made from Giant King Grass. When cut at two months,Giant King Grass is also an excellent animal feed for cattle, dairy cows, sheep, goats and camels. Equally important to low cost, Giant King Grass provides the reliable and well-characterized feedstock that is required by banks and investors in order to provide financing for these bioenergy projects. Giant King Grass is a natural plant, and is not genetically modified and not an invasive species. 
 											<a class="less-text" id="show-less-king-grass">&nbsp;less</a> </span>
 											</td>
 										</tr>

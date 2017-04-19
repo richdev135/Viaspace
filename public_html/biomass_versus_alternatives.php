@@ -211,7 +211,7 @@
 					<br/><br/>
 					Among the different types of dedicated energy crops, non-food perennial grasses are practical and effective for producing green energy. Therefore, cultivation of non-food grasses does not compete with food or food-related crops such as corn; nor does it interfere or compete with valuable natural resources such as forests and other timberland. The use of food crops for bio-fuels is being discouraged or banned in almost all countries worldwide.
 					<br/><br/>
-					<b>VIASPACE Giant King Grass is the highest yielding biomass crop in the world. Highest yield means lowest cost. Giant King Grass can be used to generate electricity, biogas or as a feedstock for liquid fuels, biochemicals and bio plastics. When cut every 40 to 60 days, Giant King Grass is also excellent animal feed.</b>
+					<b>VIASPACE Giant King Grass is the highest yielding biomass crop in the world. Highest yield means lowest cost. Giant King Grass can be used to generate electricity, biogas or as a feedstock for liquid fuels, biochemicals and bioplastics. When cut every 40 to 60 days, Giant King Grass is also excellent animal feed.</b>
 					<br/>
 				</div>				
 			</div>

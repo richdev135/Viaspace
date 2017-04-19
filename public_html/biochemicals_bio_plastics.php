@@ -1,7 +1,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<title> Viaspace : Biofuels, Biochemicals and Bio Plastics </title>
+<title> Viaspace : Biofuels, Biochemicals and bioplastics </title>
 <?php include_once('inc_meta.php'); ?>
 </head>
 
@@ -27,7 +27,7 @@
 					</div>
 					<div id="body_content" class="body_content">
 					
-					<h1>Biorefinery: Biofuels, Biochemicals and Bio Plastics</h1><hr />
+					<h1>Biorefinery: Biofuels, Biochemicals and bioplastics</h1><hr />
 					
 					<b>Biorefinery<br /><br /> 
  
@@ -75,7 +75,7 @@
 
 					<b>Cellulose-based Biomass</b>
 					<br /><br /> 
-					Cellulosic feedstocks are non-food based feedstocks that include crop residues, wood residues, yard waste, and dedicated energy crops such as Giant King Grass. These feedstocks are composed of cellulose, hemicellulose, and lignin. It's more challenging to release the sugars in these feedstocks for conversion to biofuels and chemicals. Many companies are building their first commercial plants to implement processes for large scale production of second-generation biofuels, biochemicals and bio plastics. Cellulosic feedstocks offer several advantages over starch (corn)  and sugar-based feedstocks. They are cheaper and more abundant so they provide a solution for producing more substantial amounts of biofuels and biochemicals to replace fossil fuels. The feedstock costs are lower, but currently the conversion costs are higher than the simple fermentation of corn and sugar from sugarcane.
+					Cellulosic feedstocks are non-food based feedstocks that include crop residues, wood residues, yard waste, and dedicated energy crops such as Giant King Grass. These feedstocks are composed of cellulose, hemicellulose, and lignin. It's more challenging to release the sugars in these feedstocks for conversion to biofuels and chemicals. Many companies are building their first commercial plants to implement processes for large scale production of second-generation biofuels, biochemicals and bioplastics. Cellulosic feedstocks offer several advantages over starch (corn)  and sugar-based feedstocks. They are cheaper and more abundant so they provide a solution for producing more substantial amounts of biofuels and biochemicals to replace fossil fuels. The feedstock costs are lower, but currently the conversion costs are higher than the simple fermentation of corn and sugar from sugarcane.
 					<br /><br /> 
 
 					<div class="figure">
