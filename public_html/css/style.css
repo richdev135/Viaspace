@@ -178,7 +178,7 @@ ul.arrowlist li {
 	margin: 0;
 	padding: 0;	
 	border-left: solid 1px #e0e0e0;
-	background: url('../images/body_bg.png') repeat-y;
+	background: url('../images/body_bg.jpg') repeat-y;
 }
 #indexbody {
 	position: relative;
@@ -187,7 +187,7 @@ ul.arrowlist li {
 	width: 900px;		
 	margin: 0;
 	padding: 0;			
-	background: url('../images/body_bg.png') repeat-y;
+	background: url('../images/body_bg.jpg') repeat-y;
 }
 #lmenu {
 	position: relative;
@@ -351,7 +351,6 @@ div.figure {
   padding:5px;
   background:#F4F4F4;
   word-wrap: break-word;
-  width:320px;
 }
 div.figure img { 
   margin:0px;
@@ -364,6 +363,7 @@ div.figure p {
   padding:5px;
   margin:0px;
   color:black;
+  word-wrap: break-word;
 }
 div.figureright {
   float: right;
@@ -383,6 +383,7 @@ div.figureright p {
   padding:5px;
   margin:0px;
   color:black;
+  word-wrap: break-word;
 }
 #mailinglist {
    position: fixed;

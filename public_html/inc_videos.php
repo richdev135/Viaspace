@@ -9,7 +9,7 @@
                             Your browser does not support the video tag.
                         </video> 
                         <br/>
-                        Manual Harvesting with Machete<br/>
+                        Manual Harvesting with Machetes<br/>
                     </div>
                 </td>
                 <td>

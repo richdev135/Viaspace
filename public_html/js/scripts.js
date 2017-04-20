@@ -55,9 +55,12 @@ $(".videopopuplauncher").on("click", function(){
     var vidtoview = $(this).attr("data");
 //    alert(vidtoview);
     $("#"+vidtoview).parent().dialog({
-        height:350,
-        width:375,
-        title: "Watch Video"
+        height:300,
+        width:355,
+        title: "Watch Video",
+        create: function(ev) {
+            $(".ui-dialog-content").find(".video-container").css("width","340px");
+        }
     });
 });
 
