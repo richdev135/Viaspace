@@ -28,7 +28,7 @@
 					</div>
 					<div id="body_content" class="body_content">
 					
-					<h1>Biomethane: Giant King Grass as Feedstock for Producing Renewable Green Methane</h1><hr />
+					<h1>Biomethane: Giant King<sup class="big">&reg</sup> Grass as Feedstock for Producing Renewable Green Methane</h1><hr />
 					
 					<b>
 					Biomethane is produced from Giant King Grass using proven and widely used anaerobic digestion which was described in the section on Green Electricity. Biomethane is the "green" energy equivalent of methane, the principal component of natural gas which is widely used for heating, cooking, electricity generation and as a vehicle fuel. Biogas is produced when organic matter decomposes without oxygen (anaerobic digestion). Composed mainly of methane (60%) and carbon dioxide, biogas can also be upgraded to pure methane and inserted into the existing natural gas pipelines for efficient transmission. The byproduct of anaerobic digestion is organic fertilizer that can be sold as a separate product or put back on the Giant King Grass fields. Heat is another byproduct.
