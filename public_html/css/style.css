@@ -521,3 +521,7 @@ div.video {
 	width:100;
 	box-shadow: 4px 4px 4px gray;
 }
+
+video::-internal-media-controls-download-button {
+    display:inline;
+}
