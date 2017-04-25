@@ -16,7 +16,8 @@ ul.dropdown {
 
 	ul.dropdown li.hover,
 	ul.dropdown li:hover {
-	 background-color: #005055; 
+		background-color: #dfe8f1;  /*menu hover bg value */
+		color:#18325a;
 	}
 
 	ul.dropdown a:link,
@@ -111,7 +112,7 @@ ul.dropdown {
 }
 .flyout:hover a,
 .flyout-nav {
-  background: #395066;
+  background: #395066; 
 }
 
 
@@ -179,6 +180,7 @@ ul.dropdown .right-end {
 ul.dropdown  .menu-text {
 	position: relative;
 	font-weight: 600;
+	font-size:14px;
 	padding-left: 20px;
 }
 

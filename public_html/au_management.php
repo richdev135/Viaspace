@@ -31,7 +31,8 @@
 					<h1>Management Team</h1><hr />		
                                        <table border="0" cellpadding="5">
 						<tr>
-							<td valign="top"><img src="images/basit2.jpg" alt="Mr. Haris Basit, CEO" /></td>
+							<td valign="top"><img src="images/bio/haris-basit2.jpg" class="bioimage" alt="Mr. Haris Basit, CEO" />
+							</td>
 							<td>								
 								<h2>Mr. Haris Basit, CEO</h2>
 								<p>On July 10, 2015, Mr. Basit was appointed CEO of the Company and a member of the Board of Directors. Mr. Basit co-founded Almaden Energy Group (AEG), LLC which partners with VIASPACE to grow Giant King Grass in the USA for animal feed.  Since 2012, Mr. Basit has been providing Corporate Strategy Consulting to senior executives of publicly traded companies to help identify new growth opportunities and partnerships. Mr. Basit currently serves on a technical advisory committee to UNOS, a private, non-profit organization that manages the nation's organ transplant system. He was a consultant to Liebman and Associates, the premier clean energy lobbying firm in Washington, DC. He has provided entrepreneurship mentoring for University of California Berkeley MBA students.  He started his career as a Staff Engineer at IBM moving on to became a Manager at Rockwell International, a Manager at Bell Labs, Vice President of Business Development for OEA International and then Founder/CEO of both Multigig, Inc. and Mobius Power, LLC. Mr. Basit received his MSEE from the University of Illinois, Urbana-Champaign in 1986. He also earned a BSEE from University of Illinois, Urbana-Champaign in 1984.</p>							

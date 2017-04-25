@@ -10,7 +10,7 @@
 			</ul>		
 		</li>
 		<li class="menu-item">
-			<span id="menu-text-superscript">Giant King Grass</span>
+			<span class="menu-text">Giant King Grass</span>
 			
 			<ul>					
 				<li class="empty">Giant King Grass</li>

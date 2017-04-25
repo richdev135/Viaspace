@@ -187,7 +187,7 @@ ul.arrowlist li {
 	width: 900px;		
 	margin: 0;
 	padding: 0;			
-	background: url('../images/body_bg.jpg') repeat-y;
+/*	background: url('../images/body_bg.jpg') repeat-y; */
 }
 #lmenu {
 	position: relative;
@@ -314,9 +314,11 @@ ul.arrowlist li {
 	font-weight: 900;
 	color: #008800;
 	margin-left: 12px;
+	font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
 }
 #viaspace-business {
-		padding-top: 3px;
+		position: relative;
+		top:4px;
 }
 
 .title_ae {
@@ -454,8 +456,13 @@ sup.big {
 	vertical-align:super;
 }
 
-#gkg-data {
+.gkg-data {
 	margin: 2px;
+}
+
+#via-biz {
+	position: relative;
+	top:5px;
 }
 
 #videos_wrapper {
@@ -518,7 +525,7 @@ div.video {
 }
 
 .bioimage {
-	width:100;
+	width:100px;
 	box-shadow: 4px 4px 4px gray;
 }
 
