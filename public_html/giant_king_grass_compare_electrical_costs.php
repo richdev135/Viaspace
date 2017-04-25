@@ -32,7 +32,7 @@
 						Renewable electricity has many advantages, but will only achieve widespread acceptance if it is cost competitive with current sources of electricity (or is subsidized or mandated by the government). In this section, the cost of producing biomass electricity from Giant King Grass is compared with electricity generated from fossil fuels-- coal, oil and natural gas-- and other renewables including wind, solar photovoltaics and hydroelectricity. The carbon dioxide emissions of each option are also compared.
 					</b>
 					<br/><br/>
-					Disclaimer. Comparing electricity costs is a difficult task. The US Energy Information Administration (EIA) does an annual calculation of the Levelized Cost of Electricity (LCOE) and Levelized Avoided Cost of Electricity (LCAE) to compare different technologies and the charts below utilize some of the methodology and results from the EIA Energy Outlook 2017 which can be found at 
+					Disclaimer. Comparing electricity costs is a difficult task. The US Energy Information Administration (EIA) does an annual calculation of the Levelized Cost of Electricity (LCOE) and Levelized Avoided Cost of Electricity (LACE) to compare different technologies and the charts below utilize some of the methodology and results from the EIA Energy Outlook 2017 which can be found at 
 					<a href="https://www.eia.gov/outlooks/aeo/electricity_generation.cfm">https://www.eia.gov/outlooks/aeo/electricity_generation.cfm</a>.  The EIA methodology is a bit obscure and the charts below emphasize the important points of comparison in a simple way and produce essentially the same result.
 					<br/><br/>
 					Basic assumptions
@@ -53,7 +53,7 @@
 					The cost of producing electricity is determined by the following factors.
 					<ul style="margin:2px">
 						<li>Capital cost of the power plant including equipment, civil works, installation, commissioning, and project development and permitting costs</li>
-						<li>Cost of financing the capital expense determined by bank interest and equity rate of return</li>
+						<li>Cost of financing the capital expense, bank interest, loan term, and equity rate of return</li>
 						<li>Fuel cost</li>
 						<li>Efficiency of the power plant</li>
 						<li>Operating and maintenance costs</li>
@@ -62,7 +62,7 @@
 					<br/>
 					<b>Fuel costs</b> have a dramatic effect on electricity prices. In 2014 and earlier, oil and natural gas were expensive and coal electricity was cheap. Wind and solar electricity were attractive because they were heavily subsidized in the US, and less expensive than oil-based electricity which is used in much of the world. The maturing of fracking in the US dramatically brought down the price of natural gas.  Saudi Arabia flooded the market with cheap oil and caused world oil prices to collapse. Low oil prices benefited consumers but also had the result that Saudi Arabia was looking for.  Many higher cost oil producers went bankrupt and many renewable energy projects were stopped. 
 					<br/><br/>
-					In the US, environmental regulations hampered the development of coal electricity and the low cost of natural gas meant that natural gas power plants were much cheaper than new coal plants. Wind and solar electricity and hydroelectricity have no fuel costs. However these projects were also negatively affected by low oil and natural gas prices.
+					Wind and solar electricity and hydroelectricity have no fuel costs. However these projects were also negatively affected by low oil and natural gas prices.
 					<br/>
 
 					<div class="figure" style="margin-bottom:20px;">
@@ -70,7 +70,7 @@
 					  <p>This chart shows the portion of the final electricity cost that comes from the fuel used in the power plant. These numbers are easily calculated from the energy content of the fuel, and the efficiency of the power plant that converts the thermal energy of the fuel into usable electricity.</p>
 					</div>
 					<br/>
-					The first thing to note is the 50%+ decline in the cost of fossil fuels in the last 34 months. From the fuel standpoint alone, coal is still the lowest cost fossil fuel, but natural gas is very close. In the US, there is plenty of coal and natural gas. In many countries they have neither coal nor natural gas, and electricity today is generated from diesel or heavy fuel oil. These fuel costs have come down dramatically, but still are the most expensive. Some countries are considering importing liquefied natural gas (LNG) and regasifying it to produce electricity. Liquefying and shipping the natural gas in a refrigerated vessel and installing the necessary port facilities is very expensive and only an option for large-scale projects. Liquefying and shipping doubles the cost of natural gas, but it is still an attractive price compared to diesel or heavy fuel oil. The cost for biomass and biogas assumes Giant King Grass is the feedstock. Hydroelectricity, wind and solar have no fuel costs, but fuel cost is not the whole story.
+					The first thing to note from the chart above is the 50%+ decline in the cost of fossil fuels in the last 34 months. From the fuel standpoint alone, coal is still the lowest cost fossil fuel, but natural gas is very close. In the US, there is plenty of coal and natural gas. In many countries they have neither coal nor natural gas, and electricity today is generated from diesel or heavy fuel oil. These fuel costs have come down dramatically, but still are the most expensive. Some countries are considering importing liquefied natural gas (LNG) and regasifying it to produce electricity. Liquefying and shipping the natural gas in a refrigerated vessel and installing the necessary port facilities is very expensive and only an option for large-scale projects. Liquefying and shipping doubles the cost of natural gas, but it is still an attractive price compared to diesel or heavy fuel oil. The cost for biomass and biogas assumes Giant King Grass is the feedstock. Hydroelectricity, wind and solar have no fuel costs, but fuel cost is not the whole story.
 					<br/><br/>
 					<b>Capital costs or capital expense (CAPEX)</b> is the other very significant factor in the cost of the electricity. There are three things to consider here. The initial capital expense which is cash that must be paid to deliver the project and must be repaid from the sale of electricity. For this example, we model the loan as a simple equal monthly payment loan at 8% interest over 10 years. A more detailed analysis would consider a bank loan and equity investors, and interest accumulated but not paid during the time of construction of the power plant. The bank rate would be a little lower and equity investors would expect a higher return. 8% is a low estimate average cost of capital, but is a reasonable estimate. This information determines the capital payments that must be made every month. 
 					<br/><br/>
@@ -87,7 +87,7 @@
 					The second point to note is that the capital cost per megawatt hour of hydroelectricity, wind and solar is not free and is quite large because they are only available a fraction of the time. 
 					<br/><br/>
 
-					Coal and biomass direct combustion plants are very similar and mature, but have large boilers and steam turbines which are relatively expensive. Biogas facilities have come down in price in the last few years because there are now more than 17,000 in operation in Europe alone and many components are relatively mass-produced. They use reciprocating engines that are nearly identical to those for natural gas. The difference in cost is the anaerobic digester to produce the biogas from the biomass.
+					Coal and biomass direct combustion plants are very similar and mature, but have large boilers and steam turbines which are relatively expensive. Biogas facilities have come down in price in the last few years because there are now more than 17,000 in operation in Europe alone and many components are relatively mass-produced. They use reciprocating engines that are nearly identical to those for natural gas. The difference in cost is the anaerobic digester needed to produce the biogas from the biomass.
 					<br/><br/>
 
 					<b>Operating and maintenance costs</b> are relatively small and similar for each technology. A new power plant has to be connected to the grid and a <b>transmission</b> cost is part of the overall electricity cost. Both of these are taken from the EIA. They O&M costs range from about $0.004 to $0.015, and the transmission cost is about $0.012 all per kilowatt hour.
@@ -100,22 +100,22 @@
 					  <p>Estimated Cost of New Electricity and Carbon Dioxide Emissions</p>
 					</div>
 					<br/>
-					The dark bars at the left are the cost in dollars per megawatt hour and the light bar to the right is the carbon dioxide (equivalent) emissions per megawatt hour of electricity generated. A discussion of the carbon dioxide emissions is in the “Biomass Versus the Alternatives” section of this tab.
+					The blue bars at the left are the cost in dollars per megawatt hour and the yellow bars to the right are the carbon dioxide (equivalent) emissions per megawatt hour of electricity generated. A discussion of the carbon dioxide emissions is in the “Biomass Versus the Alternatives” section of this tab.
 					<br/><br/>
 
 					The important conclusions are that in the US, natural gas is by far the least expensive electricity and as the lowest carbon dioxide emissions amongst the fossil fuels. Coal is relatively expensive for a new plant and that is why most new power plants in the US use natural gas rather than coal. For existing power plant that is already paid for and connected to the grid, coal is financially attractive, but the CO2 emissions are the largest of all fossil fuels.
 					<br/><br/>
 
-					In much of the world where diesel and heavy fuel oil currently produce electricity, all of the renewable options are cost competitive and have much much lower carbon dioxide emissions. Biomass and biogas provide based power and biogas can easily be stored to produce peak power as well. Wind and solar can be installed at similar prices as long as there is a fast reacting backup on the grid. If new fast reacting backup is needed, it will add approximately 20-30% per megawatt hour to the cost of wind and solar.
+					In much of the world where diesel and heavy fuel oil currently produce electricity, all of the renewable options are cost competitive and have dramatically lower carbon dioxide emissions. Biomass and biogas provide reliable 24/7 base power and biogas can easily be stored to produce peak power as well. Wind and solar can be installed at similar prices as long as there is a fast reacting backup on the grid. If new fast reacting backup is needed, it will add approximately 20-30% per megawatt hour to the cost of wind and solar.
 					<br/><br/>
 
 					<b>Summary for Giant King Grass. </b>
 					<br/><br/>
 					<b>
-					A 10-35 megawatt direct combustion power plant, or a 1-10 megawatt biogas facility co-located with a Giant King Grass plantation can provide a standalone reliable source of base electricity for the grid, a village or city, or an industry that requires power. The electricity is completely renewable and very low carbon. The costs are attractive today and predictable for the future because the plantation costs are known. The project will not be subject to the volatility in the price of oil.					
+					A 10-35 megawatt direct combustion power plant, or a 1-10 megawatt biogas facility co-located with a Giant King Grass plantation can provide a standalone reliable source of base electricity for the grid, a village or town, or an industry that requires power. The electricity is completely renewable and very low carbon. The costs are attractive today and predictable for the future because the plantation costs are known. The project will not be subject to the volatility in the price of oil.					
 					<br/><br/>
 
-					In addition to providing low carbon renewable electricity, the Giant King Grass plantation and power plant will provide employment in the community, and the money spent will stay in the country or region and not be sent overseas to purchase oil.
+					In addition to providing low carbon renewable electricity, the Giant King Grass plantation and power plant will provide employment in the community, and the money spent will stay in the country and not be sent overseas to purchase oil.
 					<br/><br/>
 					
 					In a warm climate with 12 month growing season and sufficient rainfall or irrigation, a direct combustion power plant needs 70 ha (175 acres) of Giant King Grass plantation per megawatt and the biogas facility requires 100 ha (247 acres) per megawatt. Another lower yielding crop will likely take twice as much land which will lead to a much higher fuel and electricity price.

@@ -36,7 +36,7 @@
 					  <p>16 foot tall Giant King Grass</p>
 					</div>
 
-					<b>Giant King Grass is a very high-yield, non-genetically modified, perennial grass suitable for tropical and subtropical regions. It can be used as a dedicated energy crop -- as a low carbon, renewable replacement for coal and oil to generate electricity and heat, and as a nonfood feedstock for second-generation liquid biofuels to replace fossil fuels such as gasoline and diesel fuel, and for green biochemicals, bioplastics and biomaterials. Giant King Grass is a feedstock for anaerobic digesters to produce biomethane which can be used to generate electricity or as a transportation fuel. When it is cut every 40-60 days at 4-7 feet tall, it is excellent high-protein feed for cattle, dairy cows, sheep, goats and other animals.</b>
+					<b>Giant King Grass is a very high-yield, non-genetically modified, perennial grass suitable for tropical and subtropical regions. It can be used as a dedicated energy crop -- as a low carbon, renewable replacement for coal and oil to generate electricity and heat, and as a nonfood feedstock for second-generation liquid biofuels to replace fossil fuels such as gasoline and diesel fuel, and for green biochemicals, bioplastics and biomaterials. Giant King Grass is also a feedstock for anaerobic digesters to produce biomethane which can be used to generate electricity or as a transportation fuel. When it is cut every 40-60 days at 4-7 feet tall, it is excellent high-protein feed for cattle, dairy cows, sheep, goats and other animals.</b>
 					<br /><br />  
 
 					<b>VIASPACE can work with customers to establish a Giant King Grass plantation anywhere in the world. 
@@ -56,7 +56,7 @@
 					<br /><br />
 
 					<b>
-					Giant King Grass provides energy security and energy independence.
+					Giant King Grass contributes to energy security and energy independence.
 					</b><br /><br />
 
 					<b>Giant King Grass is carbon neutral.</b> Photosynthesis converts solar energy and carbon dioxide from the atmosphere into plant material (biomass). Burning plant material in a power plant releases the carbon dioxide back into the atmosphere, but it is reabsorbed again when the next crop grows making it carbon neutral.
@@ -64,7 +64,7 @@
 
 					<b>Giant King Grass can be burned-either directly or in pellet form as a replacement for coal or oil in electric power plants</b> to produce low-carbon electricity and industrial heat. </br></br>
 
-					<b>Anaerobic digestion of Giant King Grass produces biomethane</b> that is burned in an engine generator set to produce electricity or can be injected into the natural gas pipeline and used in many applications including transportation fuel.
+					<b>Anaerobic digestion of Giant King Grass produces biomethane</b> that fuels an engine generator set to produce electricity or can be injected into the natural gas pipeline and used in many applications including transportation fuel.
 					<br/><br/>
 
 					<div class="figure">
@@ -74,7 +74,7 @@
 					<br/>
 					<b>Giant King Grass can be used as a feedstock to make liquid transportation biofuels</b> such as cellulosic ethanol, butanol and green gasoline and to produce biochemicals and bioplastics.<br /><br />
 
-					<b>Giant King Grass is a non-food crop and can be grown on marginal lands which are not used for growing food.</b> Using food crops to produce biofuel is discouraged in many countries around the globe.
+					<b>Giant King Grass is a non-food crop and can be grown on marginal lands which are not used for growing food.</b> Using food crops to produce biofuel is discouraged in many countries.
 					<br /><br />
 
 					<b>Giant King Grass is low cost because of its extremely high yield and meets the cost targets of green energy applications.</b><br /><br />
