@@ -29,15 +29,10 @@
 					
 					<h1>Giant King<sup>&reg</sup> Grass: Grow and Harvest</h1><hr />
 
-					<b>Giant King Grass is a fast growing, high yield, perennial grass with many applications including bioenergy and animal feed. Giant King Grass is not genetically modified and is not invasive. It grows in a variety of soil conditions and does not compete with food crops.</b><br /><br />
+					<b>Giant King Grass is a fast growing, high yield, perennial grass with many applications including bioenergy and animal feed. Giant King Grass is not genetically modified and is not invasive. It grows in a variety of soil conditions and does not compete with food crops.  Another significant advantage of Giant King Grass is that it can be harvested in the first year, where other crops may take one or two years before the first harvest.</b><br /><br />
  
 					Giant King Grass is best grown in tropical and subtropical regions with plenty of sunshine and rain per year (or irrigation). Giant King Grass is perennial and will survive a frost, but not a
-					prolonged freeze. Fertilizer requirements are modest and no pesticide is required in the current
-					cultivation. Drip irrigation using surface drip tape. The total water requirements are
-					approximately 100 mm (4 inches) per month rainfall equivalent. Flood irrigation, sprinklers or water
-					cannons are irrigation options. Another significant advantage of Giant King Grass is that it can
-					be harvested in the first year, where other crops may take one or two years before the first
-					harvest.
+					prolonged freeze. Fertilizer requirements are modest and no pesticide is required in the current	cultivation. The total water requirements are approximately 100 mm (4 inches) per month rainfall equivalent. Flood irrigation, sprinklers, water cannons or drip tapes and tubes are irrigation options. 
 					<br/><br/>
 					Each different application of Giant King Grass requires slightly different agriculture and
 					different harvesting times. For generating electricity using direct combustion and making energy
@@ -52,10 +47,7 @@
 					</div>
 
 					<br/><br/>
-					Giant King Grass is an excellent feedstock for anaerobic digestion that produces biogas that can
-					be burned in an engine generator to produce electricity, or upgraded and injected into the natural
-					gas pipeline. The lignin in tall Giant King Grass, that gives us the strength to stand up, inhibits
-					anaerobic digestion. Therefore the grass should be harvested earlier when the stalks are still
+					Giant King Grass is an excellent feedstock for anaerobic digestion that produces biogas that can fuel an engine generator to produce electricity, or can be upgraded and injected into the natural gas pipeline. The lignin in tall Giant King Grass, that gives us the strength to stand up, inhibits anaerobic digestion. Therefore the grass should be harvested earlier when the stalks are still
 					green and not woody. Any Giant King Grass younger than three months old is suitable for
 					anaerobic digestion, but the maximum biogas yield per acre of land is at 90 days old. In a
 					tropical area with sufficient rainfall or irrigation there can be four harvests per year.
@@ -72,7 +64,7 @@
 					palatability for the animals. In general, animal feed harvests are at 40 to 60 days old at heights
 					from 5 feet to 7 feet tall (1.5-2.1m). There are several approaches to animal feed. The grass can
 					be cut and fed immediately to animals without chopping. It can be chopped and fed as fresh chop
-					or made into silage. It can be dry and baled into hay or made into animal feed pellets. Giant King
+					or made into silage. It can be dried and baled into hay or made into animal feed pellets. Giant King
 					Grass is best used as a “cut and carry” animal feed. Grazing is possible, but it must be managed
 					in fenced areas to make sure that all of the grass is uniformly eaten, because any uneaten grass
 					will soon grow very tall and not be suitable for animal feed.
@@ -86,9 +78,8 @@
 					  <p>Giant King Grass at 70 and 90 days old. Both are suitable for anaerobic digestion.</p>
 					</div>
 					<br/>
-					Because the animal feed grass will never be allowed to grow tall, it can be planted more closely
-					to increase yield per acre. Protein content can be increased with increased nitrogen fertilizer.
-					Giant King Grass provides many of the requirements for cattle and dairy cows. It has fiber,
+					Because the animal feed grass will never be allowed to grow tall, it can be planted more densely to increase yield per acre. Protein content can be increased with increased nitrogen fertilizer.
+					Giant King Grass provides many of the nutrition requirements for cattle and dairy cows. It has fiber,
 					protein and good energy content and is willingly eaten by the animals. In the US, dairy cows and
 					cattle are fed a mixed daily ration of different feeds to give the proper nutrition. Giant King
 					Grass can replace expensive feeds in the ration and therefore reduce feeding costs while
@@ -97,7 +88,7 @@
 					Giant King Grass is grown from stalk cuttings like sugarcane. It is not grown from seed.
 					VIASPACE maintains nurseries in California and in Hawaii to provide cuttings for customers.
 					Typically a customer receives Giant King Grass cuttings from VIASPACE sufficient for 5 acres
-					(2 ha) initial plot that serves as a proof of concept demonstration, training ground and a local
+					(2 ha) initial plot that serves as a proof of concept demonstration, training ground for employees and a local
 					nursery for propagation of the production fields. 1 acre of Giant King Grass nursery can
 					propagate into 50 or more acres of production fields every six months. A large plantation can be
 					fully established in 12 to 24 months which is less time than it takes to build a power plant.
@@ -112,8 +103,7 @@
 					  <img src="images/kinggrassinfo/certificate.jpg" alt="phytosanitary certificate">
 					</div>
 					<br/>
-					Giant King Grass is growing in several countries around the world. 
-
+					Giant King Grass has been shipped to and is growing in several countries around the world.
 				</div>				
 			</div>
 			<?php include_once('inc_footer.php'); ?>

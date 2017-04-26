@@ -107,7 +107,7 @@ $page_keywords		= $objPage->meta_keywords;
 									<table cellpadding="10">
 										<tr>
 											<td>
-											Quick Facts:<a class="more-text" id="more-king-grass"> &nbsp;more...</a> <span class="full-text" id="less-king-grass">
+											<b>Quick Facts</b>:<a class="more-text" id="more-king-grass"> &nbsp;more...</a> <span class="full-text" id="less-king-grass">
 											<ul class="gkg-data">
 												<li>Highest yielding and lowest cost biomass crop in the world.</li>
 												<li>Bio-electricity, biogas, energy pellets, biofuels, biochemicals and bioplastics can all be made from Giant King Grass.</li>
@@ -157,7 +157,7 @@ $page_keywords		= $objPage->meta_keywords;
 									<table cellpadding="10">
 										<tr>
 											<td>
-												<span style="color:red">Giant King Grass has been tested in many independent laboratories.</span><a class="more-text" id="more-labs"> &nbsp;more...</a><span id="less-labs" class="full-text"><span style="color:red"> This third-party data is crucial in determining the feasibility and to obtain financing for bioenergy projects:</span>
+												<span>Giant King Grass has been tested in many independent laboratories.</span><a class="more-text" id="more-labs"> &nbsp;more...</a><span id="less-labs" class="full-text"><span style="color:red"> This third-party data is crucial in determining the feasibility and to obtain financing for bioenergy projects:</span>
 												
 												<ul class="gkg-data" >
 													<li><b>Energy:</b> 18.4 MJ/dry kg= 4400 kcal/kg=7900 BTU/lb (GCV=HHV)</li>

@@ -30,17 +30,17 @@
 					
 					<h1>Giant King<sup class="big">&reg</sup> Grass Power Plant: Grow Your Own Electricity</h1><hr />
 					
-					<b>There are two mature, reliable and affordable options to produce green electricity. Giant King Grass is suitable as a fuel for direct combustion (burning) in a 100% biomass electricity-generating power plant, and also as a feedstock for an anaerobic digester producing biomethane that is combusted in an internal combustion engine that turns a generator to produce electricity. VIASPACE has financial models for both approaches. The ideal solution is a Giant King Grass plantation co-located with the power plant. This simplifies logistics and minimizes cost.</b>
+					<b>There are two mature, reliable and affordable options to produce green electricity. Giant King Grass is suitable as a fuel for direct combustion (burning) in a 100% biomass electricity-generating power plant, and also as a feedstock for an anaerobic digester producing biomethane that fuels an internal combustion engine that turns a generator to produce electricity. VIASPACE has financial models for both approaches. The ideal solution is a Giant King Grass plantation co-located with the power plant. This simplifies logistics and minimizes cost.</b>
 					<br /><br />					
 					
 					<h2>Direct Combustion-Overview</h2>
 					<div class="figure">
 					  <img src="images/greenelectricity/directcombustion600.jpg" alt="Direct Combustion Biomass Electric Power Plant with View of Combustion" width="600px">
-					  <p>Direct Combustion Biomass Electric Power Plant with View of Combustion</p>
+					  <p>Direct combustion biomass electric power plant with view of combustion</p>
 					</div>
 					<br/>					
 
-					Giant King Grass has energy content, physical properties and ash properties very similar to corn straw that is used routinely as a fuel in biomass power plants. The fast-growing nature and proven, dependable energy characteristics of Giant King Grass allows power plants to run 24 hours a day, seven days a week without interruption or variable output due to availability or inconsistent performance of the fuel.
+					Giant King Grass has energy content, physical properties very similar to corn straw that is used routinely as a fuel in biomass power plants. The fast-growing nature and proven, dependable energy characteristics of Giant King Grass allows power plants to run 24 hours a day, seven days a week without interruption or variable output due to availability or inconsistent performance of the fuel.
 
 					Direct combustion (or "direct-fired") systems burn biomass in boilers to produce high pressure steam. The steam turns a turbine connected to a generator-the same kind of steam-electric generator used in fossil fuel power plants. As the turbine rotates, the generator turns, and electricity is produced. This is the simplest and oldest way to generate electricity from biomass. To increase the energy-producing efficiency of direct combustion, power plants also operate cogeneration facilities, which capture waste heat and "secondary" steam and use it to heat buildings and provide steam and heat for industrial processes such as ethanol production or drying of chemical and wood products.
 
@@ -49,7 +49,7 @@
 					<div class="figure">
 					  <img src="images/greenelectricity/directcombustionschematic.png" alt="Schematic of Direct Combustion Process. Biomass is delivered and burned in the
 					  boiler which heats water into steam that powers a steam turbine and generator">
-					  <p>Schematic of Direct Combustion Process. Biomass is delivered<br/> and burned in the
+					  <p>Schematic of direct combustion process. Biomass is delivered<br/> and burned in the
 						 boiler which heats water into steam that powers<br/> a steam turbine and generator</p>
 					</div>
 					Giant King Grass and other grasses and straws have different properties than wood or coal and require a different boiler technology. Biomass power plants are usually 10 to 35 MW in size which is much smaller than coal power plants at 500 to 2000 MW. Most of the world's biomass power plants use direct combustion to produce renewable and low carbon electricity. Existing coal power plants can be readily modified to replace up to 20% of their coal with biomass pellets, but their boiler technology cannot accommodate 100% biomass. In a warm area, Giant King Grass that is co-located with the biomass power plant can utilize year round--just-in-time-- harvesting to eliminate the need for baling and long-term storage of the fuel. This is a major logistical advantage that lowers costs. Direct combustion power plants have a modest capital investment, and the equipment is widely available. The costs of generating electricity using Giant King Grass is compared to other technologies under the Giant King Grass tab. Giant King Grass and other biomass can produce reliable, low carbon electricity 24 hours a day which is needed for "base power" applications.

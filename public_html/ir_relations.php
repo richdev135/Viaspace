@@ -64,7 +64,7 @@
 					
 					<!-- <p>Read the Cohen Independent Research Report on VIASPACE by <a href="docs/cohen_report_mar_18_2009.pdf" target="_blank"><b>clicking here</b></a>.</p> --> 
 
-					<p>Year founded 1998<br /> 
+					<p><b>Year founded 1998</b><br /> 
 					VIASPACE became a public company in June 2005<br />
 					Ticker Symbol: OTCBB: VSPC<br /> 
 
@@ -76,7 +76,6 @@
 					Fax. (626) 578-9063</p>
 
 					<p><b>Contact Information</b><br /> 
-					Investor Relations Contact<br /> 
 					Dr. Jan Vandersande<br /> 
 					Investor Relations<br /> 
 					Phone: (800) 517 8050<br /> 
@@ -87,7 +86,6 @@
 					50 West Liberty Street, Suite 880<br /> 
 					Reno, Nevada 89501<br /> 
 					Phone: (775) 322-0626</p>
-
 					<br />
 
 				</div>				

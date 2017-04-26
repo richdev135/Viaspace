@@ -130,7 +130,7 @@
 					  <img src="images/biorefinery/ethanol.jpg" width="350px" alt="Ethanol in Giant King Grass">
 					  <p>Ethanol production in terms of gallons per acre. A dry ton<br/> of Giant King Grass produces the same amount of ethanol<br/> as a dry ton of corn Stover. However the high-yield of Giant<br/> King Grass results in much higher ethanol production per acre.</p>
 					</div>	
-					Feedstock is the largest component in the cost of cellulosic ethanol. The high yield of Giant King Grass can lower feedstock costs substantially and co-location of the bio refinery and the Giant King Grass plantation can reduce costs additionally. Together, feedstock costs could be reduced by 40 to 50% which would make cellulosic biofuels and other biorefinery products profitable.
+					Feedstock is the largest component in the cost of cellulosic ethanol. The high yield of Giant King Grass can lower feedstock costs substantially and co-location of the biorefinery and the Giant King Grass plantation can reduce costs additionally. Together, feedstock costs could be reduced by 40 to 50% which would make cellulosic biofuels and other biorefinery products profitable.
 
 					<br /><br />
 				</div>				

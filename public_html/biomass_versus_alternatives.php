@@ -34,7 +34,7 @@
 					<b>Biomass is a low-carbon fuel or energy source that comes from plant material such as wood, corn, sugar cane and grasses such as Giant King Grass. Biomass can be burned to generate electricity and heat, digested to produce biomethane, and converted into liquid biofuels, biochemicals and bioplastics.</b>
 					<br /><br />  
 					
-					Biomass also includes wood and food crops such as sugarcane and corn, and also byproducts such as agricultural waste-for example, corn straw (stover) and rice husks-and food waste such as vegetable oil recycled from cooking processes. Since biomass comes primarily from plants and vegetation that naturally re-grows, biomass is a renewable resource.
+					Biomass includes wood and food crops such as sugarcane and corn, and also byproducts such as agricultural waste-for example, corn straw (stover) and rice husks-and food waste such as vegetable oil recycled from cooking processes. Since biomass comes primarily from plants and vegetation that naturally re-grows, biomass is a renewable resource.
 					<br /><br />
 
 					Hydroelectricity and geothermal are two other renewable options to produce electricity. They will not be discussed here.
@@ -43,11 +43,11 @@
 					<h2>Biomass vs. Fossil Fuels: Renewable, Low Carbon and Locally Sourced</h2>
 					<br />
 					<b>
-					Fossil fuels (coal, oil and natural gas) have played and continue to play a major role in transforming the world from an agricultural society to the modern industrial world we live in today. Fossil fuels produce electricity, and fuels for heating and transportation.
+					Fossil fuels (coal, oil and natural gas) have played and continue to play a major role in transforming the world from an agricultural society to the modern industrial world we live in today. Fossil fuels produce electricity, and fuels for heating and transportation. They also provide petrochemicals used in industrial products and plastics.
 					<br/><br/>
-					Advantages of fossil fuels are that they have been abundant and low cost, and that they provide electricity, heating and cooling, and transportation fuels reliably 24 hours per day and seven days a week.
+					Advantages of fossil fuels are that they have been abundant and low cost, and that they provide reliable 24/7 electricity, heating and cooling, and transportation fuels.
 					<br/><br/>
-					Disadvantages of fossil fuels are that there is a limited supply, and there are environmental issues in removing fossil fuels from the ground, transporting them and burning them in power plants or engines. In addition to pollutants like ozone, hydrocarbons, sulfur, mercury, smoke and ash, use of fossil fuels emits large amounts of carbon dioxide into the atmosphere. Some fossil fuels are found in unfriendly countries or in unfriendly environments like under the sea. There are political, economic and environmental issues in obtaining these fossil fuels.
+					Disadvantages of fossil fuels are that there is a limited supply, and there are environmental issues in removing fossil fuels from the ground, transporting them and burning them in power plants or engines. In addition to pollutants like ozone, hydrocarbons, sulfur, mercury, smoke and ash, use of fossil fuels emits large amounts of carbon dioxide into the atmosphere. Furthermore, some fossil fuels are found in unfriendly countries or in unfriendly environments like under the sea. There are political, economic and environmental issues in obtaining these fossil fuels.
 					<br/><br/>
 					Fossil fuels release carbon dioxide into the atmosphere.
 					<br/><br/>
@@ -56,10 +56,10 @@
 					Coal has the approximate chemical formula CH. When coal is burned, the hydrogen is converted to water and the carbon to carbon dioxide. Energy is obtained from both the hydrogen and the carbon, and one carbon dioxide (CO2) is emitted into the atmosphere.
 					<br/><br/>
 
-					Oil has the approximate formula CH2. Burning oil releases energy from both hydrogen atoms and from the carbon atom, and still one carbon dioxide is emitted. More energy is released per carbon dioxide emitted compared to coal. Note that adding a hydrogen coal causes it to become a liquid.
+					Oil has the approximate formula CH2. Burning oil releases energy from both hydrogen atoms and from the carbon atom, and still one carbon dioxide is emitted. More energy is released per carbon dioxide emitted compared to coal.
 					<br/><br/>
 
-					Natural gas is mainly methane which has the exact chemical formula CH4. Burning methane releases energy from the four hydrogen atoms and from the carbon, but still only emits one carbon dioxide. Natural gas is the best fossil fuel in terms of energy output per unit carbon dioxide emitted. Note that adding two hydrogen atoms to oil causes it to become a gas.
+					Natural gas is mainly methane which has the exact chemical formula CH4. Burning methane releases energy from the four hydrogen atoms and from the carbon, but still only emits one carbon dioxide. Natural gas is the best fossil fuel in terms of energy output per unit carbon dioxide emitted. 
 					<br/><br/>
 
 					<b>Biomass is renewable because a new crop can be grown after each harvest, and biomass is a low carbon fuel.</b>
@@ -78,10 +78,10 @@
 					
 					<h2>Carbon-Neutral Biomass Cycle</h2>
 					<br /> 
-					The carbon dioxide in burning is emitted very quickly, but only reabsorbed over the growth period of the biomass. The timescale of biomass carbon neutrality can be 20 or 30 years in the case of some trees.  A significant advantage of Giant King Grass is that it is very fast growing and can be harvested every six months or less. This is called a short rotation crop and the carbon dioxide emitted is reabsorbed very quickly.
+					The carbon dioxide in burning biomass is emitted very quickly, but only reabsorbed over the growth period of the biomass. The timescale of biomass carbon neutrality can be 20 or 30 years in the case of some trees.  A significant advantage of Giant King Grass is that it is very fast growing and can be harvested every six months or less. This is called a short rotation crop and the carbon dioxide emitted is reabsorbed very quickly.
 					<br/><br/>
 
-					In practice, some fossil fuels may be used in the vehicles that harvest and transport the biomass, and to make the  fertilizer for sustainable agriculture to prevent the soil from becoming depleted. These secondary uses of fossil fuels in the production of biomass have been well examined, and they contribute only a small amount of carbon dioxide compared to producing the same amount of energy with fossil fuels. Although biomass is often said to be zero carbon, it is more accurate to say it is a very low carbon fuel. The amount of carbon dioxide equivalent produced by generating electricity with different technologies is shown in the figure below. The small amounts of carbon dioxide shown for solar and wind include the fossil fuels used to produce, install and maintain the equipment.
+					In practice, some fossil fuels may be used in the vehicles that harvest and transport the biomass, and to make the  fertilizer needed for sustainable agriculture to prevent the soil from becoming depleted. These secondary uses of fossil fuels in the production of biomass have been well examined, and they contribute only a small amount of carbon dioxide compared to producing the same amount of energy with fossil fuels. Although biomass is often said to be zero carbon, it is more accurate to say it is a very low carbon fuel. The amount of carbon dioxide equivalent produced by generating electricity with different technologies is shown in the figure below. The small amounts of carbon dioxide shown for solar and wind include the fossil fuels used to produce, install and maintain the equipment.
 					<br/><br/>
 					<div class="figure" style="margin-bottom:20px;">
 						  <img src="images/biomass/carbonintensity.jpg" width="600px" alt="Biomass Cycle">
@@ -131,7 +131,7 @@
 					The electricity customer wants reliable steady power. Wind and solar themselves do not provide steady power. One solution is to have a fast reacting backup power plant that can produce more electricity when the wind is not blowing and then can be quickly scaled back when the wind increases. The same concept applies to solar. 
 					<br/><br/>
 
-					The only fast reacting power plants available today use natural gas or fuel oil in a reciprocating engine. Think of your car engine. When the wind is blowing hard or at noon for a solar plant, you let up on the gas and idle. When the wind slows down, you press the accelerator to produce more electricity, so that the combined output of the renewable source and the fossil fuel generator is a constant. This is illustrated in the figure below.
+					The only fast reacting power plants available today use natural gas or oil in a reciprocating engine. Think of your car engine. When the wind is blowing hard or at noon for a solar plant, you let up on the gas and idle. When the wind slows down, you press the accelerator to produce more electricity, so that the combined output of the renewable source and the fossil fuel generator is a constant. This is illustrated in the figure below.
 					<br/><br/>
 					<div class="figure" style="margin-bottom:20px;">
 						  <img src="images/biomass/demand_600.jpg" width="600px" alt="Example scenario of large amount of natural gas generation needed to be added to base electricity (shown as nuclear in this case), wind and other renewables to smooth out fluctuations and  meet the daily demand.">
@@ -147,10 +147,10 @@
 					Obviously, if one could store the electricity, the problems with hourly and daily fluctuations would be eliminated.  Batteries are well developed for small devices like mobile phones and laptops.  There are many efforts ongoing worldwide to develop large utility scale batteries and other electricity storage solutions, and a few options are becoming commercially available. One of the largest battery systems is on Kauai, one of the Hawaiian Islands, where there is a 13 MW solar farm and 52 MWh of battery storage. The rated 13 MW solar farm produces on average 25% of this which equals 78 MWh in a day. The battery storage is sufficient to store enough energy for overnight. Battery storage currently is more expensive than the solar farm itself. The very high price of electricity in Hawaii allows this to be an acceptable option.
 					<br/><br/>
 
-					BIOMASS POWER PLANTS, described in the “Green Applications” drop-down menu, typically range from 1 to 35 MW and produce steady, reliable, base power. These power plants do not respond quickly and operate most efficiently at 100% power. Biomass power plants can replace coal which is also provides base electricity, and can replace oil-based electricity that is used for base electricity in many countries and remote areas and in Hawaii. 
+					BIOMASS POWER PLANTS, described in the “Green Applications” drop-down menu, typically range from 1 to 35 MW and produce steady, reliable, base power. These power plants do not respond quickly and operate most efficiently at 100% power. Biomass power plants can replace coal which is also provides base electricity, and can replace oil-fueled power plants used for base electricity in many countries and remote areas and in Hawaii. 
 					<br/><br/>
 
-					Biomass power plants use anaerobic digestion to produce biogas to produce electricity by using the gas as fuel in a reciprocating engine which turns a generator. The anaerobic digester produces biogas at a steady rate, but the biogas can be stored in an external gas holder (like natural gas is stored) and can be used as a quick responding source to meet peak demand or provide backup for wind or solar for a completely renewable and low carbon electricity source. This solution is only available in modest sizes up to five or ten MW. 
+					Biomass power plants can use direct combustion with steam turbines,or use anaerobic digestion to produce biogas which fuels a reciprocating engine. Both approaches produce mechanical power which turns a generator to produce electricity. One significant advantage of the anaerobic digester is that although it produces biogas at a steady rate, the biogas can be stored in an external gas holder (like natural gas is stored) and can be used as a quick responding source to meet peak demand or provide backup for wind or solar for a completely renewable and low carbon electricity source. This solution is only available in modest sizes up to five or ten MW. 
 					<br/><br/>
 					<b>Biomass electricity offers a realistic and sustainable alternative to fossil fuels. Biomass electricity provides steady, reliable base power like fossil fuels. Biomass electricity complements solar and wind which provide fluctuating electricity and require fast reacting backup power to compensate for their fluctuations.</b>
 
@@ -164,13 +164,13 @@
 						<li>Low and predictable cost for the 20+ year life of a biomass power plant or biofuel refinery</li>
 					</ul>					
 
-					Today, biomass electricity is generated using agricultural and forestry waste such as wood pellets from sawdust and wood bark, sugarcane bagasse which is the left over after the juice is squeezed out, corn stover, wheat straw, rice husk.  Future liquid biofuels and biochemicals are also targeting agricultural waste as a feedstock.
+					Today, biomass electricity is generated using agricultural and forestry waste such as wood pellets from sawdust and wood bark, sugarcane bagasse which is the left over after the juice is squeezed out, corn stover, wheat straw, and rice husk.  Future liquid biofuels and biochemicals are also targeting agricultural waste as a feedstock.
 					<br/><br/>
 					<b>However agricultural and forestry wastes have several problems:</b>
 					<ul>
 						<li>Wood waste has other competing high value uses including construction materials and furniture made from pressed wood products.</li>
 
-						<li>Forestry waste also depends on the business cycle. The amount of sawdust and wood scraps available is greater during the time of robust home-building, and declined significantly bring economic turndowns.</li>
+						<li>Forestry waste also depends on the business cycle. The amount of sawdust and wood scraps available is greater during the time of robust home-building, and declines significantly bring economic turndowns.</li>
 
 						<li>Agricultural waste is seasonal and is not available until the food crop or cotton crop is harvested. At harvest, there is an abundance of waste, but this must be gathered, dried and stored until the next crop is harvested.</li>
 
@@ -180,7 +180,7 @@
 
 						<li>Agricultural waste is now expensive. Although the waste originally had little value to the farmer and was often burned or plowed under, prices have risen dramatically once the demand has developed.</li>
 
-						<li>The agricultural waste market is a spot market with short-term pricing, and very few long-term contracts have ever been signed. It is difficult to get biomass project financing without an assured source of fuel or feedstock at a known price.</li>
+						<li>The agricultural waste market is largely a spot market with short-term pricing, and very few long-term contracts have ever been signed. It is difficult to get biomass project financing without an assured source of fuel or feedstock at a known price.</li>
 
 						<li>Agricultural waste must be collected over a substantial radius-- say 50 km-- and this presents logistic problems and fossil fuels are expended during the collection.</li>
 					</ul>
@@ -209,7 +209,7 @@
 
 					The biomass industry has recognized that dedicated energy crops are an attractive option as fuel or feedstock for their plants-- either as the primary source or in addition to agricultural and forestry waste. These dedicated energy crops can be perennial grasses such as Giant King Grass, fast-growing, short rotation trees similar to those being used in the pulp and paper industry, and potentially other plants.
 					<br/><br/>
-					Among the different types of dedicated energy crops, non-food perennial grasses are practical and effective for producing green energy. Therefore, cultivation of non-food grasses does not compete with food or food-related crops such as corn; nor does it interfere or compete with valuable natural resources such as forests and other timberland. The use of food crops for bio-fuels is being discouraged or banned in almost all countries worldwide.
+					Among the different types of dedicated energy crops, non-food perennial grasses are practical and effective for producing green energy. Therefore, cultivation of non-food grasses does not compete with food or food-related crops such as corn; nor does it interfere or compete with valuable natural resources such as forests and other timberland. The use of food crops for bio-fuels is being discouraged or banned in many countries worldwide.
 					<br/><br/>
 					<b>VIASPACE Giant King Grass is the highest yielding biomass crop in the world. Highest yield means lowest cost. Giant King Grass can be used to generate electricity, biogas or as a feedstock for liquid fuels, biochemicals and bioplastics. When cut every 40 to 60 days, Giant King Grass is also excellent animal feed.</b>
 					<br/>
