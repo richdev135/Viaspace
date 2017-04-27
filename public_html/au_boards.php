@@ -42,7 +42,7 @@
 							</td>							
 						</tr>
 					</table>
-
+					<hr />
                     <table border="0" cellpadding="5">
 						<tr>
 							<td valign="top"><img src="images/bio/haris-basit2.jpg" class="bioimage" alt="Mr. Haris Basit, CEO" /></td>
@@ -54,6 +54,7 @@
 							</td>							
 						</tr>
 					</table>	
+					<hr />
 							           	 
 					<table border="0" cellpadding="5">
 						<tr>
@@ -74,7 +75,16 @@
 							<td valign="top"><img src="images/bio/angelina100.jpg" class="bioimage" alt="Angelina Galiteva" /></td>
 							<td>								
 								<h2>Angelina Galiteva</h2>
-								<p>Angelina Galiteva Angelina Galiteva was appointed by California’s Governor and confirmed by the State Senate to the 5- member Board of Governors of the California Independent System Operator Corporation in 2011 and again in 2014 and 2017 respectively. The Independent System Operator is responsible for the reliable operation of the power grid in the state of California and for the efficient operation of the electricity market, including the integration of renewable energy project as mandated by State Law. Ms. Galiteva works to structure and advance the implementation of cutting edge energy policies that reflect the increasing role of renewable energy, storage, mobility and distributed energy technologies worldwide. She is the founder and Chair of the Board for the Renewables 100 Policy Institute and also serves as an Expert Renewable Energy Speaker for the US Department of State. She has been sent on numerous missions around the world in this expert capacity. Ms. Galiteva’s industry experience spans from serving as a Principal at NEOptions, Inc., a renewable energy and new technology product design firm to the utility sector where she worked as the Executive Director of the Los Angeles Department of Water and Power as well as the New York Power Authority. Ms. Galiteva is an attorney and holds a J.D. and LLM Degrees, specializing in Environmental and Energy </p>
+								<p>
+								Angelina Galiteva was appointed by California's Governor and
+								confirmed by the State Senate to the 5-member Board of Governors of the California Independent System Operator Corporation in 2011 and again in 2014 and 2017 respectively. The Independent System Operator is responsible for the reliable operation of the power grid in the	state of California and for the efficient operation of the electricity market, including the
+								integration of renewable energy project as mandated by State Law. Ms. Galiteva works to
+								structure and advance the implementation of cutting edge energy policies that reflect the
+								increasing role of renewable energy, storage, mobility and distributed energy technologies
+								worldwide. She is the founder and Chair of the Board for the Renewables 100 Policy Institute
+								and also serves as an Expert Renewable Energy Speaker for the US Department of State. She has been sent on numerous missions around the world in this expert capacity. Ms. Galiteva's industry experience spans from serving as a Principal at NEOptions, Inc., a renewable energy and new technology product design firm to the utility sector where she worked as the Executive
+								Director of the Los Angeles Department of Water and Power as well as the New York Power Authority. Ms. Galiteva is an attorney and holds a J.D. and LLM Degrees, specializing in Environmental and Energy Law.
+								</p>
 							</td>							
 						</tr>
 					</table>

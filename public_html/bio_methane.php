@@ -28,10 +28,10 @@
 					</div>
 					<div id="body_content" class="body_content">
 					
-					<h1>Biomethane: Giant King<sup class="big">&reg</sup> Grass as Feedstock for Producing Renewable Green Methane</h1><hr />
+					<h1>Biomethane: Giant King<sup class="big">&reg</sup> Grass as Feedstock for Producing Renewable Green Methane to Replace Natural Gas</h1><hr />
 					
 					<b>
-					Biomethane is produced from Giant King Grass using proven and widely used anaerobic digestion which was described in the section on Green Electricity. Biomethane is the "green" energy equivalent of methane, the principal component of natural gas which is widely used for heating, cooking, electricity generation and as a vehicle fuel. Biogas is produced when organic matter decomposes without oxygen (anaerobic digestion). Composed mainly of methane (60%) and carbon dioxide, biogas can also be upgraded to pure methane and inserted into the existing natural gas pipelines for efficient transmission. The byproduct of anaerobic digestion is organic fertilizer that can be sold as a separate product or put back on the Giant King Grass fields. Heat is another byproduct.
+					Biomethane is produced from Giant King Grass using proven and commercial anaerobic digestion which was described in the section on Green Electricity. Biomethane is the "green" energy equivalent of methane, the principal component of natural gas which is widely used for heating, cooking, electricity generation and as a vehicle fuel. Biogas is produced when organic matter decomposes without oxygen (anaerobic digestion). Composed mainly of methane (60%) and carbon dioxide, biogas can also be upgraded to pure methane and inserted into the existing natural gas pipelines for efficient transmission. The byproduct of anaerobic digestion is organic fertilizer that can be sold as a separate product or put back on the Giant King Grass fields. Heat is another byproduct.
 					</b><br /><br /> 
 					
 					<div class="figureright">
@@ -41,7 +41,7 @@
 						commercial pipelines as &#148;green methane&#148; </p>
 					</div>	
 
-					Biogas coming from the digester is 60% methane which is perfect for powering an engine generator to produce electricity. However the natural gas in the pipeline has a higher methane content and biogas must be upgraded to at least 88% to be injected in the pipeline. This can be done commercially, but adds expense.  In the US, there are substantial subsidies for biomethane that is used for transportation fuel, and many companies have committed to green energy and pay a premium for biomethane. 
+					Biogas coming from the digester is 60% methane which is adequate for powering an engine generator to produce electricity. However the natural gas in the pipeline has a higher methane content and biogas must be upgraded to at least 88% methane to be injected in the pipeline. This can be done commercially, but adds expense.  In the US, there are substantial subsidies for biomethane that is used for transportation fuel, and many companies have committed to green energy and pay a premium for biomethane. 
 					<br /><br />
 					
 					<div class="figure">

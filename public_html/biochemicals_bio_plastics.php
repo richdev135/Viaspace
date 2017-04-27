@@ -6,6 +6,7 @@
 </head>
 
  <body>
+
  <div id="main_container" class="main_container">
 	
 					<?php include_once('inc_header.php'); ?>
@@ -27,11 +28,11 @@
 					</div>
 					<div id="body_content" class="body_content">
 					
-					<h1>Biorefinery: Biofuels, Biochemicals and bioplastics</h1><hr />
+					<h1>Biorefinery: Biofuels, Biochemicals and Bioplastics</h1><hr />
 					
-					<b>Biorefinery<br /><br /> 
+					<h3>Biorefinery</h3> 
  
-					The concept of a biorefinery is analogous to a petroleum refinery. A petroleum refinery uses the entire barrel of oil to produce transportation fuels, and everything from butane for cigarette lighters to asphalt, and a wide range of petro-chemicals used to make many materials including plastics. Nothing is wasted. The same is true for natural gas which has liquid byproducts and is the primary source for making plastics.
+					<b>The concept of a biorefinery is analogous to a petroleum refinery. A petroleum refinery uses the entire barrel of oil to produce transportation fuels, and everything from butane for cigarette lighters to asphalt, and a wide range of petro-chemicals used to make many materials including plastics. Nothing is wasted. The same is true for natural gas which has liquid byproducts and is the primary source for making plastics.
 					</b><br /><br /> 
 					 
 					<div class="figureright">
@@ -42,7 +43,7 @@
 					The goal of a biorefinery is to utilize everything in the biomass-- leaving no waste. Another goal is to replace the products made in an oil refinery.  However specific bio refineries can be tailored for individual feedstocks and desired output products.
 					<br /><br />   
 
-					With Giant King Grass as a feedstock, one can use it for the processes described above, or a more customized approach can be taken. Giant King Grass when harvested tall at six months has 75% moisture content. In order to use it as fuel for a direct combustion power plant, one could squeeze the juice out using a sugar mill to create two product streams. One product stream is the relatively dry Giant King Grass &#148;press cake&#148; and the other is the Giant King Grass &#148;press juice&#148;. The press cake can be burned produce electricity, and the juice which contains nutrients can be put back on the fields as nutrient rich irrigation. This is a simple option, but the chart below shows that there are many other options for both the press cake and the press juice in a biorefinery. 
+					With Giant King Grass as a feedstock, one can use it for the processes described above, or a more customized approach can be taken. Giant King Grass when harvested tall at six months has 75% moisture content. In order to use it as fuel for a direct combustion power plant, one could squeeze the juice out using a sugar mill to create two product streams. One product stream is the relatively dry Giant King Grass &#148;press cake&#148; and the other is the Giant King Grass &#148;press juice&#148;. The press cake can be burned produce electricity, and the juice which contains nutrients can be put back on the fields as nutrient rich irrigation. The process of pressing out the juice in a sugar mill can be seen in <a class="videopopuplauncher" data="video6">this video</a>.  The chart below shows that there are many other options for both the press cake and the press juice in a biorefinery. 
 					<br /><br />
 					 
 					<div class="figureright">
@@ -75,12 +76,12 @@
 
 					<b>Cellulose-based Biomass</b>
 					<br /><br /> 
-					Cellulosic feedstocks are non-food based feedstocks that include crop residues, wood residues, yard waste, and dedicated energy crops such as Giant King Grass. These feedstocks are composed of cellulose, hemicellulose, and lignin. It's more challenging to release the sugars in these feedstocks for conversion to biofuels and chemicals. Many companies are building their first commercial plants to implement processes for large scale production of second-generation biofuels, biochemicals and bioplastics. Cellulosic feedstocks offer several advantages over starch (corn)  and sugar-based feedstocks. They are cheaper and more abundant so they provide a solution for producing more substantial amounts of biofuels and biochemicals to replace fossil fuels. The feedstock costs are lower, but currently the conversion costs are higher than the simple fermentation of corn and sugar from sugarcane.
+					Cellulosic feedstocks are non-food based feedstocks that include crop residues, wood residues, yard waste, and dedicated energy crops such as Giant King Grass. These feedstocks are composed of cellulose, hemicellulose, and lignin. Cellulose and hemicellulose are made up of complex sugars, but it is more challenging to release the sugars in these feedstocks for conversion to biofuels and chemicals. Many companies are building their first commercial plants to implement processes for large scale production of second-generation biofuels, biochemicals and bioplastics. Cellulosic feedstocks offer several advantages over starch (corn)  and sugar-based feedstocks. They are cheaper and more abundant so they provide a solution for producing more substantial amounts of biofuels and biochemicals to replace fossil fuels. The feedstock costs are lower, but currently the conversion costs are higher than the simple fermentation of corn and sugar from sugarcane.
 					<br /><br /> 
 
 					<div class="figure">
-					  <img src="images/biorefinery/tallkinggrass.jpg" width="300px" alt="Tall Giant King Grass was tested for cellulosic ethanol production.">
-					  <p>Tall Giant King Grass was tested for cellulosic<br/> ethanol production</p>
+					  <img src="images/biorefinery/tallkinggrass.jpg" width="200px" alt="Tall Giant King Grass was tested for cellulosic ethanol production.">
+					  <p>Tall Giant King Grass was tested<br/> for cellulosic ethanol production</p>
 					</div>	
 
 					<b>Giant King Grass as a Cellulosic Feedstock</b>
@@ -89,35 +90,32 @@
 					Four companies in the cellulosic ethanol business including POET and Novozymes have independently tested Giant King Grass as a feedstock for cellulosic ethanol production. The average results are shown below and compared to Corn Stover which is their baseline feedstock. 
 					<br /><br />
 
-						<br /><br />
-						<br /><br />
-					<div class="figure" id="movediv">
+
+					<b>The companies independently</b> measured the sugar, lignin and ash composition of completely dried Giant King Grass samples. Glucan, Xylan and Arabinan are polymer sugars which are desirable, and lignin and ash are undesirable for cellulosic ethanol (but lignin has other uses).  The data shows that one dry ton of Giant King Grass is as good (or better) than a ton of Corn Stover in terms of its sugar content which is key for producing cellulosic ethanol through fermentation processes. 
+					<br /><br />
+					<div class="figure" id="movediv1">
 					  <img src="images/biorefinery/composition.jpg" width="350px" alt="Giant King Grass composition">
 					  <p>Sugar composition of Giant King Grass compared to corn<br/> Stover</p>
 					</div>	
-						<br /><br />
-						<br /><br />
-						<br /><br />
-						<br /><br />
-
-						<b>The companies independently</b> measured the sugar, lignin and ash composition of completely dried Giant King Grass samples. Glucan, Xylan and Arabinan are polymer sugars which are desirable, and lignin and ash are undesirable for cellulosic ethanol (but lignin has other uses).  The data shows that one dry ton of Giant King Grass is as good (or better) than a ton of Corn Stover in terms of its sugar content which is key for producing cellulosic ethanol through fermentation processes. 
-						<br /><br />
-						<br />
 
 						The companies also conducted pretreatment and enzymatic hydrolysis, measured the sugar production and projected the ethanol production to be 78.5-80 gallons per dry ton which is shown in the figure below.
 						<br /><br />
 
-					<div class="figureright" >
-					  <img src="images/biorefinery/measuredyields.jpg" width="300px" alt="Giant King Grass composition">
+					<div class="figure" >
+					  <img src="images/biorefinery/measuredyields.jpg" width="350px" alt="Giant King Grass composition">
 					  <p>Measured C6 and C5 sugar yields. Ethanol yield<br/> estimated independently by two companies.<br/> The unit is gallons per dry ton of Giant King Grass.</p>
 					</div>	
+					<br/><br/>
+					<br/><br/>
+					<br/><br/><br/>
+					
 					<b>The primary dry component</b> of plant matter is lignocellulose a mixture of cellulose which yields Glucan a polymer of glucose--a C5 sugar; hemicellulose which yields Xylan (xylose) and Arabinan (arabinose) which are C6 sugars; lignin, an organic polymer that gives the plant the strength to stand upright, and ash.
 					<br /><br />
 
 					The sugar and ethanol yields are comparable to corn Stover. Basically a dry ton of Giant King Grass is as good as or better than a dry ton of corn Stover for cellulosic sugar production. The cellulosic sugars are starting point for cellulosic biofuels, and also for bioplastics and biochemicals.
 					<br /><br />
 					<br /><br />
-					<br /><br />
+					<br/><br/>
 
 					<b>Land Use Efficiency</b>
 					<br /><br />
@@ -126,13 +124,15 @@
 
 					Multiplying the ethanol yield times the grass yield gives you the land use efficiency in terms of gallons of ethanol per acre of land. This is shown in the figure below. For reference the data for corn grain and corn Stover ethanol production in the US and sugarcane ethanol production in Brazil is also included.
 					<br /><br />
-					<div class="figure">
+					<div class="figureright">
 					  <img src="images/biorefinery/ethanol.jpg" width="350px" alt="Ethanol in Giant King Grass">
 					  <p>Ethanol production in terms of gallons per acre. A dry ton<br/> of Giant King Grass produces the same amount of ethanol<br/> as a dry ton of corn Stover. However the high-yield of Giant<br/> King Grass results in much higher ethanol production per acre.</p>
 					</div>	
 					Feedstock is the largest component in the cost of cellulosic ethanol. The high yield of Giant King Grass can lower feedstock costs substantially and co-location of the biorefinery and the Giant King Grass plantation can reduce costs additionally. Together, feedstock costs could be reduced by 40 to 50% which would make cellulosic biofuels and other biorefinery products profitable.
 
 					<br /><br />
-				</div>				
+					<br /><br />
+				</div>
 			</div>
+ 		    <?php include_once('inc_videos.php'); ?>				
 			<?php include_once('inc_footer.php'); ?>

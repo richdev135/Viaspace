@@ -49,6 +49,7 @@ $page_keywords		= $objPage->meta_keywords;
         <div id="body_content" class="body_content">
         
         <h1>Giant King<sup class="big">&reg</sup> Grass Videos</h1><hr />
+    <br/>
 
     <?php include_once('inc_videos.php'); ?>
     </div>

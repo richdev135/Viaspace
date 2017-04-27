@@ -57,7 +57,7 @@
 					<br/><br/>
 					<br/><br/>
                     <h2>Giant King Grass Hay</h2>
-                    In order to store Giant King Grass for longer periods of time, it is necessary to either dry it to make hay or or cover it with an airtight seal to make silage.  To make hay, Giant King Grass is cut and laid in the field for several days to dry in the sun to less 15% moisture. Then the dry grass is made into round or square bales which can be stored indefinitely and can be transported or exported.
+                    In order to store Giant King Grass for longer periods of time, it is necessary to either dry it to make hay or or cover it with an airtight seal to make silage.  To make hay, Giant King Grass is cut and laid in the field for several days to dry in the sun to less 15% moisture. Then the dry grass is made into round or square bales which can be stored indefinitely and can be transported or exported. Small-scale mechanical harvesting of Giant King Grass using a tractor pulled swather can be seen in <a class="videopopuplauncher" data="video4">this video</a>. Small-scale baling is shown in <a class="videopopuplauncher" data="video5">this video</a>.
 
                     <div class="figure">
 					<table width="600px">
@@ -79,7 +79,7 @@
         			<br/><br/>
         			<br/><br/>
                     <h2>Giant King Grass Silage</h2>
-                    The other option to store Giant King Grass for extended time is to make silage. Forage which has been harvested while still green and nutritious can be conserved through a natural "pickling" process. Lactic acid is produced when the sugars in the forage plants are fermented by bacteria in a sealed container ("silo") with no air. Forage conserved this way is known as "ensiled forage" or "silage" and will keep for up to three years without deteriorating. Silage is very palatable to livestock and can be fed at any time. Silage is made either by placing cut green vegetation in a silo or pit, by piling it in a large heap and compressing it down so as to leave as little oxygen as possible and then covering it with a plastic sheet, or by placing the chopped forage into an airtight silage bag. Silage is also used to store grass and other forage for use in anaerobic digesters.
+                    The other option to store Giant King Grass for extended time is to make silage. Forage which has been harvested while still green and nutritious can be conserved through a natural "pickling" process. Lactic acid is produced when the sugars in the forage plants are fermented by bacteria in a sealed container ("silo") with no air. Forage conserved this way is known as "ensiled forage" or "silage" and will keep for up to three years without deteriorating. Silage is very palatable to livestock and can be fed at any time. Silage is made either by placing cut green vegetation in a silo or pit, by piling it in a large heap and compressing it down so as to leave as little oxygen as possible and then covering it with a plastic sheet, or by placing the chopped forage into an airtight silage bag. Silage is also used to store grass and other forage for use in anaerobic digesters. Large-scale mechanical harvesting of Giant King Grass with a forage harvester is shown in <a class="videopopuplauncher" data="video2">this video</a>. The grass shown in the video is tall grass suitable for bioenergy, but the same forage harvester can be used for animal feed-- fresh chop or silage.
         			<br/><br/>
 
                     <div class="figure">
@@ -121,5 +121,6 @@
                     <br/><br/>
                     <img src="images/animalfeed/nutrition.jpg"
 			</div>
+			<?php include_once('inc_videos.php'); ?>
 			<br/><br/>
 			<?php include_once('inc_footer.php'); ?>

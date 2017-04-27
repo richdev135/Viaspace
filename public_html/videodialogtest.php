@@ -37,7 +37,7 @@
             <p>16 foot tall Giant King Grass</p>
         </div>
 
-        Blah blah click <a class="videopopuplauncher" data="video1" href="#">here</a> for video.
+        Blah blah click <a class="videopopuplauncher" data="video1">here</a> for video.
 
 
     <?php include_once('inc_videos.php'); ?>

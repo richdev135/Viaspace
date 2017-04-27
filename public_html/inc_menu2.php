@@ -1,8 +1,7 @@
 <div id="menu" class="menu">
 	<ul id="nav" class="dropdown dropdown-horizontal">	
 		<li class="left-end">
-			<span class="menu-text">About Us</span>
-			
+			<span class="menu-text">About Us</span>			
 			<ul>		
 				<li class="empty">Leadership</li>
 				<li><a href="au_management.php">> Management Team</a></li>	

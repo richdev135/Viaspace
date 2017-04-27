@@ -45,7 +45,7 @@
                     </div>
                 </td>
             </tr>
-                <tr>
+            <tr>
                 <td>
                     <div class="video">
                         <video id="video5" class="video-container" controls>
@@ -67,7 +67,7 @@
                     </div>
                 </td>
             </tr>
-                <tr>
+            <tr>
                 <td>
                     <div class="video">
                         <video id="video7" class="video-container" controls>
@@ -79,5 +79,5 @@
                     </div>
                 </td>
             </tr>
-
+        </table>
     </div>
