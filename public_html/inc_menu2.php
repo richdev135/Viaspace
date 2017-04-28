@@ -1,5 +1,5 @@
 <div id="menu" class="menu">
-	<ul id="nav" class="dropdown dropdown-horizontal">	
+	<ul id="nav" class="dropdown dropdown-horizontal1">	
 		<li class="left-end">
 			<span class="menu-text">About Us</span>			
 			<ul>		
@@ -64,7 +64,6 @@
 			<ul>
 				<li class="empty">Videos</li>
 				<li><a href="videos.php">> Videos</a></li>		
-<!--				<li><a href="videodialogtest.php">Test Videos</a>	-->
 			</ul>
 			
 		</li>	

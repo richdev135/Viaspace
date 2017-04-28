@@ -3,7 +3,7 @@
 				<a href="privacy.php">Privacy Policy</a> | <a href="terms.php">Terms of Use</a> | &copy; <?php echo date('Y'); ?> VIASPACE All Rights Reserved.				
 			</div>
 
-<script type="text/javascript" src="js/scripts.js" ></script>
+<script type="text/javascript" src="js/scripts.js?v=1" ></script>
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));

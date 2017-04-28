@@ -7,7 +7,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
 <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
 <link href="css/normalize.css?v=1" media="all" rel="stylesheet" type="text/css" />	
-<link href="css/style.css?v=1.2" media="all" rel="stylesheet" type="text/css" />	
+<link href="css/style.css?v=4.3" media="all" rel="stylesheet" type="text/css" />	
 <link href="css/dropdown.css" media="all" rel="stylesheet" type="text/css" />
 <link href="css/default.advanced.css?v=1.2" media="all" rel="stylesheet" type="text/css" />
 <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
