@@ -29,11 +29,11 @@
 					<div id="body_content" class="body_content">
 					
 					<h1>Management Team</h1><hr />		
-                                       <table border="0" cellpadding="5">
+                    <table border="0" cellpadding="5">
 						<tr>
 							<td valign="top"><img src="images/bio/haris-basit2.jpg" class="bioimage" alt="Mr. Haris Basit, CEO" />
 							</td>
-							<td>								
+							<td class="mgmt-col2">								
 								<h2>Mr. Haris Basit, CEO</h2>
 								<p>On July 10, 2015, Mr. Basit was appointed CEO of the Company and a member of the Board of Directors. Mr. Basit co-founded Almaden Energy Group (AEG), LLC which partners with VIASPACE to grow Giant King Grass in the USA for animal feed.  Since 2012, Mr. Basit has been providing Corporate Strategy Consulting to senior executives of publicly traded companies to help identify new growth opportunities and partnerships. Mr. Basit currently serves on a technical advisory committee to UNOS, a private, non-profit organization that manages the nation's organ transplant system. He was a consultant to Liebman and Associates, the premier clean energy lobbying firm in Washington, DC. He has provided entrepreneurship mentoring for University of California Berkeley MBA students.  He started his career as a Staff Engineer at IBM moving on to became a Manager at Rockwell International, a Manager at Bell Labs, Vice President of Business Development for OEA International and then Founder/CEO of both Multigig, Inc. and Mobius Power, LLC. Mr. Basit received his MSEE from the University of Illinois, Urbana-Champaign in 1986. He also earned a BSEE from University of Illinois, Urbana-Champaign in 1984.</p>							
 							</td>							
@@ -44,7 +44,7 @@
 					<table border="0" cellpadding="5">
 						<tr>
 							<td valign="top"><img src="images/bio/carlk100.jpg" width="100px" alt="Dr. Carl Kukkonen: CEO, Co-Founder" class="bioimage" /></td>
-							<td>								
+							<td class="mgmt-col2">								
 								<h2>Dr. Carl Kukkonen: CTO, Co-Founder</h2>
 								<p>Dr. Carl Kukkonen is Founder and Chief Technology Officer (CTO). Dr. Kukkonen is responsible for the technology of Giant King Grass agriculture, and utilization including direct combustion power plants, anaerobic digestion facilities to produce biogas and animal feed. Dr. Kukkonen leads the technical aspects of business development including feasibility studies, business plans and financial models for customers.</p>
 
@@ -58,7 +58,7 @@
 					<table border="0" cellpadding="5">
 						<tr>
 							<td valign="top"><img src="images/bio/steve_muzi100.JPG" width="100px" alt="Stephen J. Muzi: CFO and Treasurer" class="bioimage" /></td>
-							<td>								
+							<td class="mgmt-col2">								
 								<h2>Stephen J. Muzi: CFO and Treasurer</h2>
 								<p>Mr. Stephen J. Muzi oversees the accounting, financial planning and analysis, treasury, investor relations, internal audit and income tax functions at VIASPACE. Mr. Muzi joined VIASPACE in 2000.</p>
 

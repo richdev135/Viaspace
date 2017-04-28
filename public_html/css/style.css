@@ -550,3 +550,10 @@ div.video {
 video::-internal-media-controls-download-button {
     display:inline;
 }
+
+.mgmt-col2 {
+	padding-left: 20px;
+	margin-left: 10px;
+}
+
+
