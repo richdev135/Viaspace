@@ -1,14 +1,19 @@
 <div id="menu" class="menu">
 	<ul id="nav" class="dropdown dropdown-horizontal1">	
-		<li class="left-end">
+		<li class="left-end menu-border">
+		</li>
+		<li class="menu-item menu-border" id="aboutus">
 			<span class="menu-text">About Us</span>			
+			<!--
+			<button class="safari-btn" id="aboutus">About us</button>
+			-->
 			<ul>		
 				<li class="empty">Leadership</li>
 				<li><a href="au_management.php">> Management Team</a></li>	
 				<li><a href="au_boards.php">> Board of Directors</a></li>
 			</ul>		
 		</li>
-		<li class="menu-item">
+		<li class="menu-item menu-border">
 			<span class="menu-text">Giant King Grass</span>
 			
 			<ul>					
@@ -20,7 +25,7 @@
 			</ul>
 			
 		</li>
-		<li class="menu-item">
+		<li class="menu-item menu-border">
 			<span class="menu-text">Green Applications</span>			
 			<ul>				
 				<li class="empty">Green Applications</li>
@@ -30,14 +35,14 @@
 				<li><a href="bio_methane.php">> Biomethane</a></li>
 			</ul>			
 		</li>	
-		<li class="menu-item"  id="animal-feed">
+		<li class="menu-item menu-border"  id="animal-feed">
 			<span class="menu-text">Animal Feed</span>			
 			<ul>
 				<li class="empty">Animal Feed</li>
 				<li><a href="animalfeed.php">>Animal Feed</a></li>		
 			</ul>						
 		</li>				
-		<li class="menu-item">
+		<li class="menu-item menu-border">
 			<span class="menu-text">Investor Relations</span>
 			
 			<ul>				
@@ -48,9 +53,8 @@
 				<li><a href="ir_faqs.php">> Investor FAQ's</a></li>
 			</ul>			
 		</li>	
-		<li class="menu-item" id="news-menu">
+		<li class="menu-item menu-border" id="news-menu">
 			<span class="menu-text" >News</span>
-			
 			<ul>
 				<li class="empty">News</li>
 				<li><a href="pressreleases.php">> Press Releases</a></li>
@@ -58,14 +62,13 @@
 			</ul>
 			
 		</li>	
-		<li class="menu-item" id="right-end">
+		<li class="menu-item menu-border" id="right-end">
 			<span class="menu-text">Videos</span>
 			
 			<ul>
 				<li class="empty">Videos</li>
 				<li><a href="videos.php">> Videos</a></li>		
-			</ul>
-			
+			</ul>			
 		</li>	
 	</ul>				
 </div>

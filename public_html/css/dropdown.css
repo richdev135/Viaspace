@@ -36,14 +36,12 @@ ul.dropdown ul ul {
 	 top: 1px;
 	 left: 99%;
 }
+
+
 ul.dropdown li:hover > ul {
 	visibility: visible;
 }
-/* IE Hack Start */
-ul.dropdown li:hover ul {
-	visibility: visible;
-}
-/* IE Hack End */
+/***/
 
 ul.dropdown li.rtl ul {
 	 top: 100%;
@@ -55,3 +53,19 @@ ul.dropdown li.rtl ul ul {
 	 right: 99%;
 	 left: auto;
 }
+
+showme {
+	visibility: visible;	
+	display: block;
+}
+
+hideme {
+	visibility: hidden;
+	display: none;
+}
+
+/* IE Hack Start */
+ul.dropdown li:hover ul {
+	visibility: visible;
+}
+/* IE Hack End */

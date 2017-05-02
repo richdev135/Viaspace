@@ -65,6 +65,29 @@ $(".videopopuplauncher").on("click", function(){
 });
 
 
+$(".menu-item").on("click", function(ev){
+//    alert("Test: "+$(this).children("ul").html());
+    $(this).children("ul").show();
+});
+
+
+var isSafari = function(){
+debugger;
+    return navigator.userAgent.indexOf("Safari") > -1;
+}
+
+
+$(".safari-btn").on("click", function(ev){
+    var dropdown = $(this).next();
+    var vis = dropdown.css("visibility");
+    $(dropdown).addClass("showme");
+    debugger;
+    vis = dropdown.css("visibility");
+});
+
+
+
+
 //debugger;
 
 var isIE = detectIE();

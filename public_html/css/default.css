@@ -52,12 +52,12 @@
 		 color: #000;		
 		 background: url('../images/menubg.png') bottom center no-repeat;
 		}
-
+/**
 		ul.dropdown ul li.hover,
 		ul.dropdown ul li:hover {
 		 background-color: transparent;
 		}
-
+**/
 		ul.dropdown ul li.empty {
 		 padding: 7px 12px 7px !important;
 		 color: #1b509e;
@@ -74,12 +74,14 @@
 			display: none;
 		}
 
+/*
 		ul.dropdown ul ul:hover {
 			display: block;
 		}
-
+**/
 
 /**  dynamic menus 3/31/2017 ***/
+/**
 #multilevel {
 	position: relative;
 	display: block;
@@ -88,6 +90,7 @@
 #multilevel ul:hover {
 	display: block;
 }
+**/
 
 .flyout {
   position: relative;
@@ -128,32 +131,26 @@
 
 ul.dropdown .left-end {
 	display:block;
-	width: 115px;
-	height: 27px;	
+	width: 23px;
 	text-decoration: none; 
 	background-color: #5b7534;
-	border-bottom: 4px #BABA10 solid;
 	border-radius: 6px 0 0 0;
 	padding-top: 15px;
 	visibility: visible;
 }
 ul.dropdown .menu-item {
 	display:block;
-	width: 153px;
-	height: 27px;	
+	width: 157px;
 	text-decoration: none; 
 	background-color: #5b7534;
-	border-bottom: 4px #BABA10 solid;
 	padding-top: 15px;
 	visibility: visible;
 }
 ul.dropdown .right-end {
 	display:block;
-	width: 119px;
-	height: 27px;	
+	width: 124px;
 	text-decoration: none; 
 	background-color: #5b7534;
-	border-bottom: 4px #BABA10 solid;
 	border-radius: 0 6px 0 0;
 	padding-top: 15px;
 	padding-left: 0px;
@@ -161,8 +158,17 @@ ul.dropdown .right-end {
 	visibility: visible;
 }
 
+.menu-border {
+	height: 35px;	
+	border-top: 0px #5b7534 solid;
+	border-bottom: 8px #BABA10 solid;
+}
+
+#aboutus {
+	width:80px;
+}
 #video-menu {
-	width:107px;
+	width:117px;
 }
 
 #right-end{

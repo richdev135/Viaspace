@@ -174,7 +174,7 @@ ul.arrowlist li {
 }
 #menu {		
 	width: 900px;
-	height: 41px;
+	height: 56px;
 	float: left;
 	position: relative;		
 	z-index: 1;
@@ -196,7 +196,7 @@ ul.arrowlist li {
 }
 #indexbody {
 	position: relative;
-	top:0px;
+	top:-7px;
 	float: left;
 	width: 900px;		
 	margin: 0;
@@ -229,9 +229,9 @@ ul.arrowlist li {
 	display:block;
 	float:left;
 	width: 880px;
-	min-height: 80px;	
+	min-height: 70px;	
 	margin: 5px 0 5px 0;
-	padding: 10px;
+	padding: 10px 10px 6px 10px;
 	font-size: 12px;
 	font-weight: normal;
 	color: #1b4979;
